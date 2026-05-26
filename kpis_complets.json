@@ -1,0 +1,215 @@
+{
+  "periode": {
+    "debut": "2025-12-01T00:00:00",
+    "fin": "2026-02-01T00:00:00"
+  },
+  "commandes": {
+    "total": 918,
+    "ca_moyen": 0.38,
+    "cogs_moyen": 0.27,
+    "frais_amazon_moyen": 18.68,
+    "frais_gls_moyen": 6.65,
+    "marge_nette_moyenne": -25.22,
+    "taux_marge_moyen": -Infinity
+  },
+  "totaux": {
+    "ca_total": 347.56,
+    "cogs_total": 243.29,
+    "frais_amazon_total": 17146.52,
+    "frais_gls_total": 6107.86,
+    "frais_totaux": 23254.38,
+    "marge_nette_totale": -23150.11,
+    "taux_marge_moyen": -6660.79
+  },
+  "distribution_marge": {
+    "30_40": 5,
+    "0_10": 1,
+    "10_20": 0,
+    "20_30": 0,
+    "40_plus": 0
+  },
+  "top_marge": [
+    {
+      "order_id": "402-6073347-0675502",
+      "ca_ttc": 0.42719999999999997,
+      "cogs_total": 0.29904,
+      "frais_amazon": 0.0,
+      "frais_gls": 0.0,
+      "marge_nette": 0.12816,
+      "taux_marge": 30.0
+    },
+    {
+      "order_id": "405-3326990-0901140",
+      "ca_ttc": 0.306,
+      "cogs_total": 0.21419999999999997,
+      "frais_amazon": 0.0,
+      "frais_gls": 0.0,
+      "marge_nette": 0.09180000000000002,
+      "taux_marge": 30.0
+    },
+    {
+      "order_id": "402-4252746-8640336",
+      "ca_ttc": 0.2084,
+      "cogs_total": 0.14587999999999998,
+      "frais_amazon": 0.0,
+      "frais_gls": 0.0,
+      "marge_nette": 0.06252000000000002,
+      "taux_marge": 30.0
+    },
+    {
+      "order_id": "404-7225659-278350",
+      "ca_ttc": 0.0998,
+      "cogs_total": 0.06985999999999999,
+      "frais_amazon": 0.0,
+      "frais_gls": 0.0,
+      "marge_nette": 0.02994000000000001,
+      "taux_marge": 30.0
+    },
+    {
+      "order_id": "407-1557422-7448355",
+      "ca_ttc": 0.08316666666666667,
+      "cogs_total": 0.05821666666666666,
+      "frais_amazon": 0.0,
+      "frais_gls": 0.0,
+      "marge_nette": 0.024950000000000007,
+      "taux_marge": 30.0
+    },
+    {
+      "order_id": "RÉFÉRENCE EXTERNE",
+      "ca_ttc": 0.0,
+      "cogs_total": 0.0,
+      "frais_amazon": 0.0,
+      "frais_gls": 0.0,
+      "marge_nette": 0.0,
+      "taux_marge": 0.0
+    },
+    {
+      "order_id": "408-0889389-1792325 / 403-2459202-2411560",
+      "ca_ttc": 0.0499,
+      "cogs_total": 0.034929999999999996,
+      "frais_amazon": 0.0,
+      "frais_gls": 5.25,
+      "marge_nette": -5.23503,
+      "taux_marge": -10491.04
+    },
+    {
+      "order_id": "406-7274903-2323545 / 406-9847192-1980317",
+      "ca_ttc": 0.33266666666666667,
+      "cogs_total": 0.23286666666666664,
+      "frais_amazon": 0.0,
+      "frais_gls": 5.48,
+      "marge_nette": -5.3802,
+      "taux_marge": -1617.29
+    },
+    {
+      "order_id": "407-7010988-3935550",
+      "ca_ttc": 10.41,
+      "cogs_total": 7.287,
+      "frais_amazon": 0.0,
+      "frais_gls": 9.39,
+      "marge_nette": -6.2669999999999995,
+      "taux_marge": -60.2
+    },
+    {
+      "order_id": "402-8070021-7477110",
+      "ca_ttc": 7.249333333333333,
+      "cogs_total": 5.074533333333333,
+      "frais_amazon": 0.0,
+      "frais_gls": 9.39,
+      "marge_nette": -7.2152,
+      "taux_marge": -99.53
+    }
+  ],
+  "bottom_marge": [
+    {
+      "order_id": "408-9774002-0419541",
+      "ca_ttc": 0.0,
+      "cogs_total": 0.0,
+      "frais_amazon": 205.94,
+      "frais_gls": 9.72,
+      "marge_nette": -215.66,
+      "taux_marge": -Infinity
+    },
+    {
+      "order_id": "407-4862728-4294760",
+      "ca_ttc": 0.037803030303030304,
+      "cogs_total": 0.02646212121212121,
+      "frais_amazon": 160.32,
+      "frais_gls": 8.379999999999999,
+      "marge_nette": -168.68865909090908,
+      "taux_marge": -446230.52
+    },
+    {
+      "order_id": "408-8166202-4187523",
+      "ca_ttc": 2.495,
+      "cogs_total": 1.7465,
+      "frais_amazon": 145.15,
+      "frais_gls": 0.0,
+      "marge_nette": -144.4015,
+      "taux_marge": -5787.64
+    },
+    {
+      "order_id": "171-4863687-7450712",
+      "ca_ttc": 0.0,
+      "cogs_total": 0.0,
+      "frais_amazon": 122.25,
+      "frais_gls": 15.799999999999997,
+      "marge_nette": -138.05,
+      "taux_marge": -Infinity
+    },
+    {
+      "order_id": "171-8138106-3141106",
+      "ca_ttc": 0.0,
+      "cogs_total": 0.0,
+      "frais_amazon": 128.33,
+      "frais_gls": 0.0,
+      "marge_nette": -128.33,
+      "taux_marge": -Infinity
+    },
+    {
+      "order_id": "408-5814323-4233141",
+      "ca_ttc": 0.0,
+      "cogs_total": 0.0,
+      "frais_amazon": 107.76,
+      "frais_gls": 16.32,
+      "marge_nette": -124.08000000000001,
+      "taux_marge": -Infinity
+    },
+    {
+      "order_id": "404-0029353-5825976",
+      "ca_ttc": 0.029702380952380952,
+      "cogs_total": 0.020791666666666667,
+      "frais_amazon": 105.68,
+      "frais_gls": 15.28,
+      "marge_nette": -120.95108928571429,
+      "taux_marge": -407210.08
+    },
+    {
+      "order_id": "405-2558380-8509153",
+      "ca_ttc": 0.0,
+      "cogs_total": 0.0,
+      "frais_amazon": 107.42,
+      "frais_gls": 0.0,
+      "marge_nette": -107.42,
+      "taux_marge": -Infinity
+    },
+    {
+      "order_id": "171-6641455-4256322",
+      "ca_ttc": 0.10395833333333333,
+      "cogs_total": 0.07277083333333333,
+      "frais_amazon": 99.57,
+      "frais_gls": 6.13,
+      "marge_nette": -105.66881249999999,
+      "taux_marge": -101645.35
+    },
+    {
+      "order_id": "402-1358169-0539550",
+      "ca_ttc": 0.0,
+      "cogs_total": 0.0,
+      "frais_amazon": 97.64,
+      "frais_gls": 7.619999999999999,
+      "marge_nette": -105.26,
+      "taux_marge": -Infinity
+    }
+  ]
+}

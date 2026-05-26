@@ -1,0 +1,722 @@
+[
+  {
+    "commande_id": "BC0000001",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH12, 50cm, (Boite de 50 pièces)",
+    "sku": "CO-B12-50",
+    "quantité": 100,
+    "ca_unitaire_ht": 0.1329,
+    "total_ligne_ht": 13.29,
+    "date": "2023-12-29T10:16:59+01:00"
+  },
+  {
+    "commande_id": "BC0000002",
+    "produit": "Seringue 3 pièces luer lock stérile 10ml, (Boite de 100 pièces)",
+    "sku": "CH03010LL",
+    "quantité": 1400,
+    "ca_unitaire_ht": 0.0596,
+    "total_ligne_ht": 83.44,
+    "date": "2023-12-29T10:24:26+01:00"
+  },
+  {
+    "commande_id": "BC0000003",
+    "produit": "Couche culotte EXTRA LARGE (+12 kg), (Sachet de 18 pièces)",
+    "sku": "BPSXL18",
+    "quantité": 108,
+    "ca_unitaire_ht": 0.2491,
+    "total_ligne_ht": 26.9,
+    "date": "2023-12-29T10:50:47+01:00"
+  },
+  {
+    "commande_id": "BC0000004",
+    "produit": "GEL ECG & EEG 250 ML, (Carton de 25 flacons)",
+    "sku": "99.800.35",
+    "quantité": 50,
+    "ca_unitaire_ht": 0.5495,
+    "total_ligne_ht": 27.48,
+    "date": "2023-12-29T10:57:37+01:00"
+  },
+  {
+    "commande_id": "BC0000005",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH14, 50cm, (Boite de 50 pièces)",
+    "sku": "CO-B14-50",
+    "quantité": 6000,
+    "ca_unitaire_ht": 0.1288,
+    "total_ligne_ht": 772.8,
+    "date": "2023-12-29T11:05:19+01:00"
+  },
+  {
+    "commande_id": "BC0000006",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 500,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 232.5,
+    "date": "2023-12-29T11:09:31+01:00"
+  },
+  {
+    "commande_id": "BC0000007",
+    "produit": "Gants d'examen vinyle non poudrés Taille M, (Boite de 100 pièces)",
+    "sku": "RWB07M",
+    "quantité": 30000,
+    "ca_unitaire_ht": 0.0353,
+    "total_ligne_ht": 1059,
+    "date": "2023-12-29T11:13:49+01:00"
+  },
+  {
+    "commande_id": "BC0000007",
+    "produit": "Gants d'examen vinyle non poudrés Taille L, (Boite de 100 pièces)",
+    "sku": "RWB07L",
+    "quantité": 15000,
+    "ca_unitaire_ht": 0.0353,
+    "total_ligne_ht": 529.5,
+    "date": "2023-12-29T11:13:49+01:00"
+  },
+  {
+    "commande_id": "BC0000008",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH10, 40 cm, (Boite de 50 pièces)",
+    "sku": "CO-B10-40",
+    "quantité": 200,
+    "ca_unitaire_ht": 0.133,
+    "total_ligne_ht": 26.6,
+    "date": "2024-01-02T11:18:53+01:00"
+  },
+  {
+    "commande_id": "BC0000008",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH12, 50cm, (Boite de 50 pièces)",
+    "sku": "CO-B12-50",
+    "quantité": 100,
+    "ca_unitaire_ht": 0.133,
+    "total_ligne_ht": 13.3,
+    "date": "2024-01-02T11:18:53+01:00"
+  },
+  {
+    "commande_id": "BC0000009",
+    "produit": "BASTOS - Haricot UU Stérile, (Boite de 88 pièces)",
+    "sku": "489-525",
+    "quantité": 440,
+    "ca_unitaire_ht": 0.896,
+    "total_ligne_ht": 394.24,
+    "date": "2024-01-02T11:25:56+01:00"
+  },
+  {
+    "commande_id": "BC0000010",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH10, 40 cm, (Boite de 50 pièces)",
+    "sku": "CO-B10-40",
+    "quantité": 500,
+    "ca_unitaire_ht": 0.1329,
+    "total_ligne_ht": 66.45,
+    "date": "2024-01-03T11:31:55+01:00"
+  },
+  {
+    "commande_id": "BC0000010",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH14, 50cm, (Boite de 50 pièces)",
+    "sku": "CO-B14-50",
+    "quantité": 100,
+    "ca_unitaire_ht": 0.1329,
+    "total_ligne_ht": 13.29,
+    "date": "2024-01-03T11:31:55+01:00"
+  },
+  {
+    "commande_id": "BC0000011",
+    "produit": "ZARYS - Sonde PEZZER - CH 20",
+    "sku": "CP-20-40",
+    "quantité": 10,
+    "ca_unitaire_ht": 1.2278,
+    "total_ligne_ht": 12.28,
+    "date": "2024-01-03T11:37:13+01:00"
+  },
+  {
+    "commande_id": "BC0000012",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 725,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 337.13,
+    "date": "2023-12-29T11:46:10+01:00"
+  },
+  {
+    "commande_id": "BC0000013",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 100,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 46.5,
+    "date": "2024-01-03T11:50:39+01:00"
+  },
+  {
+    "commande_id": "BC0000014",
+    "produit": "Seringue 3 pièces luer lock stérile 20ml, (Boite de 50 pièces)",
+    "sku": "CH03020LL",
+    "quantité": 2400,
+    "ca_unitaire_ht": 0.0901,
+    "total_ligne_ht": 216.24,
+    "date": "2024-01-02T11:58:33+01:00"
+  },
+  {
+    "commande_id": "BC0000014",
+    "produit": "Seringue 3 pièces luer lock stérile 2ml , (Boite de 100 pièces)",
+    "sku": "CH03002LL",
+    "quantité": 300,
+    "ca_unitaire_ht": 0.0351,
+    "total_ligne_ht": 10.53,
+    "date": "2024-01-02T11:58:33+01:00"
+  },
+  {
+    "commande_id": "BC0000014",
+    "produit": "Seringue 3 pièces luer lock stérile 5ml , (Boite de 100 pièces)",
+    "sku": "CH03005LL",
+    "quantité": 200,
+    "ca_unitaire_ht": 0.0415,
+    "total_ligne_ht": 8.3,
+    "date": "2024-01-02T11:58:33+01:00"
+  },
+  {
+    "commande_id": "BC0000014",
+    "produit": "Seringue 3 pièces luer lock stérile 10ml, (Boite de 100 pièces)",
+    "sku": "CH03010LL",
+    "quantité": 600,
+    "ca_unitaire_ht": 0.0606,
+    "total_ligne_ht": 36.36,
+    "date": "2024-01-02T11:58:33+01:00"
+  },
+  {
+    "commande_id": "BC0000015",
+    "produit": "Gel stérile 20 gr pour échographie \" 01-01\" (Carton de 48 sachets)",
+    "sku": "90.100.10",
+    "quantité": 480,
+    "ca_unitaire_ht": 1.2439,
+    "total_ligne_ht": 597.07,
+    "date": "2024-01-02T12:02:44+01:00"
+  },
+  {
+    "commande_id": "BC0000016",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 100,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 46.5,
+    "date": "2024-01-03T12:06:05+01:00"
+  },
+  {
+    "commande_id": "BC0000017",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH16, 50cm, (Boite de 50 pièces)",
+    "sku": "CO-B16-50",
+    "quantité": 6000,
+    "ca_unitaire_ht": 0.1288,
+    "total_ligne_ht": 772.8,
+    "date": "2024-01-03T12:08:13+01:00"
+  },
+  {
+    "commande_id": "BC0000018",
+    "produit": "Gel stérile 20 gr pour échographie \" 01-01\" (Carton de 48 sachets)",
+    "sku": "90.100.10",
+    "quantité": 48,
+    "ca_unitaire_ht": 1.2439,
+    "total_ligne_ht": 59.71,
+    "date": "2024-01-03T12:12:03+01:00"
+  },
+  {
+    "commande_id": "BC0000019",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH10, 40 cm, (Boite de 50 pièces)",
+    "sku": "CO-B10-40",
+    "quantité": 50,
+    "ca_unitaire_ht": 0.1315,
+    "total_ligne_ht": 6.58,
+    "date": "2024-01-03T12:24:52+01:00"
+  },
+  {
+    "commande_id": "BC0000019",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH12, 50cm, (Boite de 50 pièces)",
+    "sku": "CO-B12-50",
+    "quantité": 50,
+    "ca_unitaire_ht": 0.1288,
+    "total_ligne_ht": 6.44,
+    "date": "2024-01-03T12:24:52+01:00"
+  },
+  {
+    "commande_id": "BC0000019",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH14, 50cm, (Boite de 50 pièces)",
+    "sku": "CO-B14-50",
+    "quantité": 50,
+    "ca_unitaire_ht": 0.1288,
+    "total_ligne_ht": 6.44,
+    "date": "2024-01-03T12:24:52+01:00"
+  },
+  {
+    "commande_id": "BC0000020",
+    "produit": "FL MEDICAL - Contenant d'urine 60 ml en polypropylène, (Carton de 600 pièces)",
+    "sku": "25184E",
+    "quantité": 6000,
+    "ca_unitaire_ht": 0.0718,
+    "total_ligne_ht": 430.8,
+    "date": "2024-01-03T12:52:59+01:00"
+  },
+  {
+    "commande_id": "BC0000021",
+    "produit": "Seringue 3 pièces luer lock stérile 5ml , (Boite de 100 pièces)",
+    "sku": "CH03005LL",
+    "quantité": 100,
+    "ca_unitaire_ht": 0.0415,
+    "total_ligne_ht": 4.15,
+    "date": "2024-01-03T13:16:10+01:00"
+  },
+  {
+    "commande_id": "BC0000022",
+    "produit": "Aiguilles de stylo de sécurité automatique 30G x 5 mm, (Boite de 100 pièces)",
+    "sku": "VASPN3005",
+    "quantité": 1000,
+    "ca_unitaire_ht": 0.1718,
+    "total_ligne_ht": 171.8,
+    "date": "2024-01-03T13:21:28+01:00"
+  },
+  {
+    "commande_id": "BC0000022",
+    "produit": "Aiguilles de stylo de sécurité automatique 30G x 8 mm, (Boite de 100 pièces)",
+    "sku": "VASPN3008",
+    "quantité": 2000,
+    "ca_unitaire_ht": 0.1718,
+    "total_ligne_ht": 343.6,
+    "date": "2024-01-03T13:21:28+01:00"
+  },
+  {
+    "commande_id": "BC0000023",
+    "produit": "Gel stérile 20 gr pour échographie \" 01-01\" (Carton de 48 sachets)",
+    "sku": "90.100.10",
+    "quantité": 480,
+    "ca_unitaire_ht": 1.2439,
+    "total_ligne_ht": 597.07,
+    "date": "2024-01-04T13:28:39+01:00"
+  },
+  {
+    "commande_id": "BC0000024",
+    "produit": "Sonde d'aspiration bronchique CH18, 50cm, (Boite de 50 pièces)",
+    "sku": "CO-B18-50",
+    "quantité": 100,
+    "ca_unitaire_ht": 0.1329,
+    "total_ligne_ht": 13.29,
+    "date": "2024-01-04T13:46:50+01:00"
+  },
+  {
+    "commande_id": "BC0000025",
+    "produit": "Gel stérile 20 gr pour échographie \" 01-01\" (Carton de 48 sachets)",
+    "sku": "90.100.10",
+    "quantité": 480,
+    "ca_unitaire_ht": 1.2439,
+    "total_ligne_ht": 597.07,
+    "date": "2024-01-04T13:50:01+01:00"
+  },
+  {
+    "commande_id": "BC0000026",
+    "produit": "ONTEX - BabyCharm - Couche Bébé Taille 2 Mini (4-6kg) - Sachet de 46 pièces / carton de 184 pièces",
+    "sku": "2313396-02",
+    "quantité": 46,
+    "ca_unitaire_ht": 0.23,
+    "total_ligne_ht": 10.58,
+    "date": "2024-01-05T13:52:56+01:00"
+  },
+  {
+    "commande_id": "BC0000027",
+    "produit": "Couche bébé taille 4 (7 - 18kg)",
+    "sku": "BDSL4.20",
+    "quantité": 60,
+    "ca_unitaire_ht": 0.2104,
+    "total_ligne_ht": 12.62,
+    "date": "2024-01-05T13:56:14+01:00"
+  },
+  {
+    "commande_id": "BC0000027",
+    "produit": "Couche bébé taille 5 (12 -25 kg)",
+    "sku": "BDSL5.18",
+    "quantité": 54,
+    "ca_unitaire_ht": 0.2236,
+    "total_ligne_ht": 12.07,
+    "date": "2024-01-05T13:56:14+01:00"
+  },
+  {
+    "commande_id": "BC0000028",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 100,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 46.5,
+    "date": "2024-01-05T13:59:08+01:00"
+  },
+  {
+    "commande_id": "BC0000029",
+    "produit": "Seringue 3 pièces luer lock stérile 5ml , (Boite de 100 pièces)",
+    "sku": "CH03005LL",
+    "quantité": 200,
+    "ca_unitaire_ht": 0.0408,
+    "total_ligne_ht": 8.16,
+    "date": "2023-12-29T14:02:07+01:00"
+  },
+  {
+    "commande_id": "BC0000030",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 700,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 325.5,
+    "date": "2024-01-04T14:05:58+01:00"
+  },
+  {
+    "commande_id": "BC0000031",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 150,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 69.75,
+    "date": "2024-01-05T14:14:13+01:00"
+  },
+  {
+    "commande_id": "BC0000032",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH10, 40 cm, (Boite de 50 pièces)",
+    "sku": "CO-B10-40",
+    "quantité": 400,
+    "ca_unitaire_ht": 0.1315,
+    "total_ligne_ht": 52.6,
+    "date": "2024-01-08T14:19:07+01:00"
+  },
+  {
+    "commande_id": "BC0000033",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH12, 50cm, (Boite de 50 pièces)",
+    "sku": "CO-B12-50",
+    "quantité": 100,
+    "ca_unitaire_ht": 0.1288,
+    "total_ligne_ht": 12.88,
+    "date": "2024-01-08T17:23:37+01:00"
+  },
+  {
+    "commande_id": "BC0000033",
+    "produit": "ZARYS - Sonde d'aspiration bronchique CH16, 50cm, (Boite de 50 pièces)",
+    "sku": "CO-B16-50",
+    "quantité": 100,
+    "ca_unitaire_ht": 0.1288,
+    "total_ligne_ht": 12.88,
+    "date": "2024-01-08T17:23:37+01:00"
+  },
+  {
+    "commande_id": "BC0000034",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 1500,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 697.5,
+    "date": "2024-01-05T17:27:30+01:00"
+  },
+  {
+    "commande_id": "BC0000035",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 700,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 325.5,
+    "date": "2024-01-05T17:30:59+01:00"
+  },
+  {
+    "commande_id": "BC0000036",
+    "produit": "Gants d'examen vinyle non poudrés Taille L, (Boite de 100 pièces)",
+    "sku": "RWB07L",
+    "quantité": 15000,
+    "ca_unitaire_ht": 0.0353,
+    "total_ligne_ht": 529.5,
+    "date": "2024-01-08T17:36:09+01:00"
+  },
+  {
+    "commande_id": "BC0000036",
+    "produit": "Gants d'examen vinyle non poudrés Taille M, (Boite de 100 pièces)",
+    "sku": "RWB07M",
+    "quantité": 10000,
+    "ca_unitaire_ht": 0.0353,
+    "total_ligne_ht": 353,
+    "date": "2024-01-08T17:36:09+01:00"
+  },
+  {
+    "commande_id": "BC0000036",
+    "produit": "GANTS D'EXAMEN NITRILE T 7/8 TAILLE M 240 MM, BLEU, (Boite de 100 pièces)",
+    "sku": "Safecare-M",
+    "quantité": 3000,
+    "ca_unitaire_ht": 0.0421,
+    "total_ligne_ht": 126.3,
+    "date": "2024-01-08T17:36:09+01:00"
+  },
+  {
+    "commande_id": "BC0000036",
+    "produit": "ZARYS - Surchaussures non tissées, antidérapantes, bleues, non stériles - Sachet de 100 pièces",
+    "sku": "BT-011-B",
+    "quantité": 2000,
+    "ca_unitaire_ht": 0.0501,
+    "total_ligne_ht": 100.2,
+    "date": "2024-01-08T17:36:09+01:00"
+  },
+  {
+    "commande_id": "BC0000037",
+    "produit": "Couche bébé taille 4 (7 - 18kg)",
+    "sku": "BDSL4.20",
+    "quantité": 1600,
+    "ca_unitaire_ht": 0.1451,
+    "total_ligne_ht": 232.16,
+    "date": "2024-01-08T18:00:01+01:00"
+  },
+  {
+    "commande_id": "BC0000037",
+    "produit": "Couche bébé taille 5 (12 -25 kg)",
+    "sku": "BDSL5.18",
+    "quantité": 2880,
+    "ca_unitaire_ht": 0.1542,
+    "total_ligne_ht": 444.1,
+    "date": "2024-01-08T18:00:01+01:00"
+  },
+  {
+    "commande_id": "BC0000038",
+    "produit": "Couche bébé taille 3 (4 - 9kg)",
+    "sku": "BDSL3.22",
+    "quantité": 220,
+    "ca_unitaire_ht": 0.1353,
+    "total_ligne_ht": 29.77,
+    "date": "2024-01-08T18:04:19+01:00"
+  },
+  {
+    "commande_id": "BC0000038",
+    "produit": "Couche bébé taille 4 (7 - 18kg)",
+    "sku": "BDSL4.20",
+    "quantité": 300,
+    "ca_unitaire_ht": 0.1451,
+    "total_ligne_ht": 43.53,
+    "date": "2024-01-08T18:04:19+01:00"
+  },
+  {
+    "commande_id": "BC0000038",
+    "produit": "Couche bébé taille 5 (12 -25 kg)",
+    "sku": "BDSL5.18",
+    "quantité": 900,
+    "ca_unitaire_ht": 0.1542,
+    "total_ligne_ht": 138.78,
+    "date": "2024-01-08T18:04:19+01:00"
+  },
+  {
+    "commande_id": "BC0000038",
+    "produit": "Couche bébé taille 6 (16 - 30kg), (Sachet de 18 pièces)",
+    "sku": "BDSL6.18",
+    "quantité": 540,
+    "ca_unitaire_ht": 0.1613,
+    "total_ligne_ht": 87.1,
+    "date": "2024-01-08T18:04:19+01:00"
+  },
+  {
+    "commande_id": "BC0000039",
+    "produit": "Couche bébé taille 4 (7 - 18kg)",
+    "sku": "BDSL4.20",
+    "quantité": 1800,
+    "ca_unitaire_ht": 0.1451,
+    "total_ligne_ht": 261.18,
+    "date": "2024-01-08T18:07:32+01:00"
+  },
+  {
+    "commande_id": "BC0000039",
+    "produit": "Couche bébé taille 5 (12 -25 kg)",
+    "sku": "BDSL5.18",
+    "quantité": 1080,
+    "ca_unitaire_ht": 0.1542,
+    "total_ligne_ht": 166.54,
+    "date": "2024-01-08T18:07:32+01:00"
+  },
+  {
+    "commande_id": "BC0000039",
+    "produit": "Couche bébé taille 6 (16 - 30kg), (Sachet de 18 pièces)",
+    "sku": "BDSL6.18",
+    "quantité": 1260,
+    "ca_unitaire_ht": 0.1613,
+    "total_ligne_ht": 203.24,
+    "date": "2024-01-08T18:07:32+01:00"
+  },
+  {
+    "commande_id": "BC0000040",
+    "produit": "Couche bébé taille 4 (7 - 18kg)",
+    "sku": "BDSL4.20",
+    "quantité": 800,
+    "ca_unitaire_ht": 0.1451,
+    "total_ligne_ht": 116.08,
+    "date": "2024-01-08T18:09:30+01:00"
+  },
+  {
+    "commande_id": "BC0000040",
+    "produit": "Couche bébé taille 5 (12 -25 kg)",
+    "sku": "BDSL5.18",
+    "quantité": 576,
+    "ca_unitaire_ht": 0.1542,
+    "total_ligne_ht": 88.82,
+    "date": "2024-01-08T18:09:30+01:00"
+  },
+  {
+    "commande_id": "BC0000041",
+    "produit": "Couche bébé taille 4 (7 - 18kg)",
+    "sku": "BDSL4.20",
+    "quantité": 240,
+    "ca_unitaire_ht": 0.1451,
+    "total_ligne_ht": 34.82,
+    "date": "2024-01-08T18:11:51+01:00"
+  },
+  {
+    "commande_id": "BC0000041",
+    "produit": "Couche bébé taille 5 (12 -25 kg)",
+    "sku": "BDSL5.18",
+    "quantité": 864,
+    "ca_unitaire_ht": 0.1542,
+    "total_ligne_ht": 133.23,
+    "date": "2024-01-08T18:11:51+01:00"
+  },
+  {
+    "commande_id": "BC0000041",
+    "produit": "Couche bébé taille 6 (16 - 30kg), (Sachet de 18 pièces)",
+    "sku": "BDSL6.18",
+    "quantité": 360,
+    "ca_unitaire_ht": 0.1613,
+    "total_ligne_ht": 58.07,
+    "date": "2024-01-08T18:11:51+01:00"
+  },
+  {
+    "commande_id": "BC0000042",
+    "produit": "Couche bébé taille 4 (7 - 18kg)",
+    "sku": "BDSL4.20",
+    "quantité": 1600,
+    "ca_unitaire_ht": 0.1451,
+    "total_ligne_ht": 232.16,
+    "date": "2024-01-08T18:14:08+01:00"
+  },
+  {
+    "commande_id": "BC0000042",
+    "produit": "Couche bébé taille 5 (12 -25 kg)",
+    "sku": "BDSL5.18",
+    "quantité": 3600,
+    "ca_unitaire_ht": 0.1542,
+    "total_ligne_ht": 555.12,
+    "date": "2024-01-08T18:14:08+01:00"
+  },
+  {
+    "commande_id": "BC0000042",
+    "produit": "Couche bébé taille 6 (16 - 30kg), (Sachet de 18 pièces)",
+    "sku": "BDSL6.18",
+    "quantité": 540,
+    "ca_unitaire_ht": 0.1613,
+    "total_ligne_ht": 87.1,
+    "date": "2024-01-08T18:14:08+01:00"
+  },
+  {
+    "commande_id": "BC0000043",
+    "produit": "Couche bébé taille 4 (7 - 18kg)",
+    "sku": "BDSL4.20",
+    "quantité": 400,
+    "ca_unitaire_ht": 0.1451,
+    "total_ligne_ht": 58.04,
+    "date": "2024-01-08T18:18:33+01:00"
+  },
+  {
+    "commande_id": "BC0000043",
+    "produit": "Couche bébé taille 5 (12 -25 kg)",
+    "sku": "BDSL5.18",
+    "quantité": 288,
+    "ca_unitaire_ht": 0.1542,
+    "total_ligne_ht": 44.41,
+    "date": "2024-01-08T18:18:33+01:00"
+  },
+  {
+    "commande_id": "BC0000044",
+    "produit": "Gel stérile 20 gr pour échographie \" 01-01\" (Carton de 48 sachets)",
+    "sku": "90.100.10",
+    "quantité": 144,
+    "ca_unitaire_ht": 1.2439,
+    "total_ligne_ht": 179.12,
+    "date": "2024-01-04T18:22:34+01:00"
+  },
+  {
+    "commande_id": "BC0000045",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 625,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 290.63,
+    "date": "2024-01-04T18:24:02+01:00"
+  },
+  {
+    "commande_id": "BC0000046",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 600,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 279,
+    "date": "2024-01-04T18:29:15+01:00"
+  },
+  {
+    "commande_id": "BC0000047",
+    "produit": "GEL ECG & EEG 250 ML, (Carton de 25 flacons)",
+    "sku": "99.800.35",
+    "quantité": 25,
+    "ca_unitaire_ht": 0.5495,
+    "total_ligne_ht": 13.74,
+    "date": "2024-01-08T18:32:40+01:00"
+  },
+  {
+    "commande_id": "BC0000047",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 575,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 267.38,
+    "date": "2024-01-08T18:32:40+01:00"
+  },
+  {
+    "commande_id": "BC0000048",
+    "produit": "Gel stérile 20 gr pour échographie \" 01-01\" (Carton de 48 sachets)",
+    "sku": "90.100.10",
+    "quantité": 1440,
+    "ca_unitaire_ht": 1.2439,
+    "total_ligne_ht": 1791.22,
+    "date": "2024-01-08T18:37:26+01:00"
+  },
+  {
+    "commande_id": "BC0000049",
+    "produit": "Gel pour échographie 250 ml, (Carton de 25 flacons)",
+    "sku": "99.800.20",
+    "quantité": 25,
+    "ca_unitaire_ht": 0.465,
+    "total_ligne_ht": 11.63,
+    "date": "2024-01-09T18:40:38+01:00"
+  },
+  {
+    "commande_id": "BC0000050",
+    "produit": "SIDAPHARM - Couteau microchirurgical ophtalmique 2.2 mm incision, (Boite de 10 pièces)",
+    "sku": "62016",
+    "quantité": 60,
+    "ca_unitaire_ht": 3.64,
+    "total_ligne_ht": 218.4,
+    "date": "2024-01-09T18:50:08+01:00"
+  },
+  {
+    "commande_id": "BC0000050",
+    "produit": "Seringue 3 pièces luer lock stérile 5ml , (Boite de 100 pièces)",
+    "sku": "CH03005LL",
+    "quantité": 500,
+    "ca_unitaire_ht": 0.0415,
+    "total_ligne_ht": 20.75,
+    "date": "2024-01-09T18:50:08+01:00"
+  },
+  {
+    "commande_id": "BC0000050",
+    "produit": "Seringue 3 pièces luer lock stérile 10ml, (Boite de 100 pièces)",
+    "sku": "CH03010LL",
+    "quantité": 1500,
+    "ca_unitaire_ht": 0.0606,
+    "total_ligne_ht": 90.9,
+    "date": "2024-01-09T18:50:08+01:00"
+  },
+  {
+    "commande_id": "BC0000050",
+    "produit": "Seringue 3 pièces luer lock stérile 30ml, (Boite de 50 pièces)",
+    "sku": "CH03030LL",
+    "quantité": 500,
+    "ca_unitaire_ht": 0.1302,
+    "total_ligne_ht": 65.1,
+    "date": "2024-01-09T18:50:08+01:00"
+  }
+]

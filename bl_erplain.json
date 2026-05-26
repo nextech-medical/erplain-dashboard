@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 3858687,
+    "order_number": "S00101",
+    "created": "2024-01-17T12:29:40+01:00",
+    "shipping_date": "2024-01-17",
+    "external_reference": "24000305",
+    "notes": "<p>Commande n&deg;24000305 du 16/01/2024<br />Contact : Mme Christine MONTES<br />T&eacute;l : 03 86 34 66 36<br />Email :&nbsp;christine.montes@ch-avallon.fr</p>"
+  },
+  {
+    "id": 3858694,
+    "order_number": "S00102",
+    "created": "2024-01-17T12:34:58+01:00",
+    "shipping_date": "2024-01-17",
+    "external_reference": "5299",
+    "notes": "<p>Commande n&deg;5299 du 17/01/2024<br />Contact : SAUMET Amandine<br />T&eacute;l : 03 86 79 62 90<br />Mail : chcc,pharmacie@ght58.fr<br />Code service : 9</p>"
+  },
+  {
+    "id": 3858699,
+    "order_number": "S00103",
+    "created": "2024-01-17T12:39:21+01:00",
+    "shipping_date": "2024-01-17",
+    "external_reference": "142724",
+    "notes": "<p>Commande n&deg;142724 du 15/01/2024<br />Contact : DESCAVES Pierrick<br />T&eacute;l : 03 25 30 70 04<br />Mail :&nbsp;pierrick.descaves@ch-shm.fr<br />Code service : 9</p>"
+  },
+  {
+    "id": 3858705,
+    "order_number": "S00104",
+    "created": "2024-01-18T12:44:51+01:00",
+    "shipping_date": "2024-01-18",
+    "external_reference": "664529",
+    "notes": "<p>Commande n&deg;664529 du 18/01/2024<br />Contact : DEHAESE<br />Tel : 04 73 67 80 56<br />Mail :&nbsp;pharma-prepa@ch-riom.fr<br />Service CHORUS : 04</p>"
+  },
+  {
+    "id": 3858711,
+    "order_number": "S00105",
+    "created": "2024-01-18T12:50:33+01:00",
+    "shipping_date": "2024-01-18",
+    "external_reference": "26044657",
+    "notes": "<p>Commande n&deg;26044657 du 17/01/2024<br />Contact : MIOULET Yoann<br />T&eacute;l : 05 45 24 61 25<br />Email :&nbsp;yoann.mioulet@ch-angouleme.fr</p>"
+  },
+  {
+    "id": 3858716,
+    "order_number": "S00106",
+    "created": "2024-01-18T13:04:04+01:00",
+    "shipping_date": "2024-01-18",
+    "external_reference": "26045200",
+    "notes": "<p>Commande n&deg;26045200 du 17/01/2024<br />Contact : BARBERY CHRISTOPHE<br />T&eacute;l : 03 21 14 61 20<br />Email :&nbsp;st.loisonlens@orange.fr</p>"
+  },
+  {
+    "id": 3858720,
+    "order_number": "S00107",
+    "created": "2024-02-15T13:11:32+01:00",
+    "shipping_date": "2024-01-15",
+    "external_reference": "LS620028",
+    "notes": "<p>Commande n&deg;LS620028 du 11/01/2024<br />Contact : Florence CARLINI<br />T&eacute;l : 04 91 43 57 54<br />Email :&nbsp;s.pfl.magfour.cdeliv@ap-hm.fr</p>"
+  },
+  {
+    "id": 3858745,
+    "order_number": "S00108",
+    "created": "2024-01-16T13:45:05+01:00",
+    "shipping_date": "2024-01-16",
+    "external_reference": "P2400409",
+    "notes": "<p>Commande n&deg;P2400409 du 15/01/2024<br />Contact : LANGLOIS Margaux<br />T&eacute;l : 02 32 14 75 47<br />Mail :&nbsp;secretariatpharmacie@ch-dieppe.fr<br />Code service : 3210</p>"
+  },
+  {
+    "id": 3858753,
+    "order_number": "S00109",
+    "created": "2024-01-17T13:56:41+01:00",
+    "shipping_date": "2024-01-17",
+    "external_reference": "02/00313767",
+    "notes": "<p>Commande N&deg;02/00313767 du 16/01/2024<br />Contact : Mme Am&eacute;lie FONTVIEILLE<br />TEL : 04 73 82 73 90<br />Mail :&nbsp;direction@ch-ambert.fr</p>"
+  },
+  {
+    "id": 3858790,
+    "order_number": "S00110",
+    "created": "2024-01-19T14:23:53+01:00",
+    "shipping_date": "2024-01-19",
+    "external_reference": "24001078",
+    "notes": null
+  },
+  {
+    "id": 3858799,
+    "order_number": "S00111",
+    "created": "2024-01-19T14:28:58+01:00",
+    "shipping_date": "2024-01-19",
+    "external_reference": "70180689",
+    "notes": "<p>Commande n&deg;70180689 du 18/01/2024<br />Contact : Mme F.PEREIRA<br />T&eacute;l : 03 85 20 30 40<br />E-mail :&nbsp;pharmadm@ch-macon.fr</p>"
+  },
+  {
+    "id": 3858802,
+    "order_number": "S00112",
+    "created": "2024-01-19T14:33:57+01:00",
+    "shipping_date": "2024-01-19",
+    "external_reference": "24/PH/24002325",
+    "notes": "<p>COMMANDE : 24/PH/24002325 du 18/01/2024<br />Contact : Mme COGULET Virginie<br />T&eacute;l : 02 98 34 76 00<br />E-mail :&nbsp;direction-generale@chu-brest.fr<br />Code CHORUS: PH</p>"
+  },
+  {
+    "id": 3858805,
+    "order_number": "S00113",
+    "created": "2024-01-19T14:41:20+01:00",
+    "shipping_date": "2024-01-19",
+    "external_reference": "26050636",
+    "notes": "<p>Commande n&deg;26050636 du 18/01/2024<br />Contact : ISABELLE DUCHESNE<br />T&eacute;l : 05 49 45 43 56<br />Email :&nbsp;isabelle.duchesne@univ-poitiers.fr</p>"
+  },
+  {
+    "id": 3858821,
+    "order_number": "S00114",
+    "created": "2024-01-19T14:53:27+01:00",
+    "shipping_date": "2024-01-19",
+    "external_reference": "26050010",
+    "notes": "<p>Commande n&deg;26050010 du 18/01/2024<br />Contact : DELAMOTTE Virginie<br />T&eacute;l : 03 68 85 89 21<br />Email :&nbsp;delamotte@unistra.fr</p>"
+  },
+  {
+    "id": 3858829,
+    "order_number": "S00115",
+    "created": "2024-01-19T14:56:48+01:00",
+    "shipping_date": "2024-01-19",
+    "external_reference": "651149",
+    "notes": "<p>Commande N&deg;651149 du 18/01/2024<br />Contact : Raouf MESSIB<br />T&eacute;l : 04 72 07 15 84<br />Mail :&nbsp;GHN.achats-medical-labo@chu-lyon.fr<br />Code CHORUS : SGL24</p>"
+  },
+  {
+    "id": 3858842,
+    "order_number": "S00116",
+    "created": "2024-01-19T15:00:20+01:00",
+    "shipping_date": "2024-01-19",
+    "external_reference": "408-6188742-3458704",
+    "notes": "<p>Commande n&deg;408-6188742-3458704 du 29/10/2023<br />T&eacute;l : 06 60 94 61 21</p>"
+  },
+  {
+    "id": 3858861,
+    "order_number": "S00117",
+    "created": "2024-01-19T15:10:31+01:00",
+    "shipping_date": "2024-01-19",
+    "external_reference": "P785651",
+    "notes": "<p>Commande N&deg;P785651 du 18/01/2024<br />Contact : Mme DAVID MANON<br />T&eacute;l : 02 43 66 50 37<br />E-Mail :&nbsp;edi@chlaval.fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3858870,
+    "order_number": "S00118",
+    "created": "2024-01-19T15:13:54+01:00",
+    "shipping_date": "2024-01-19",
+    "external_reference": "HST/652600",
+    "notes": "<p>Commande N&deg;HST/652600 du 19/01/2024<br />Contact : isela DIAZ-GARCIA<br />T&eacute;l : 04 72 07 15 69<br />Mail :&nbsp;eugeniagisela.diaz-garcia@chu-lyon.fr<br />Code CHORUS : SGL18</p>"
+  },
+  {
+    "id": 3858910,
+    "order_number": "S00119",
+    "created": "2024-01-22T15:31:42+01:00",
+    "shipping_date": "2024-01-22",
+    "external_reference": "BC2024001638",
+    "notes": "<p>Commande N&deg;BC2024001638 du 21/01/2024<br />Personne &agrave; contacter : Mr Eric Poupelin<br />T&eacute;l : 02 97 46 14 15<br />E-mail :&nbsp;contact.gestion-stocks@inovalys.fr<br />Code Service : VVBIM</p>"
+  },
+  {
+    "id": 3858921,
+    "order_number": "S00120",
+    "created": "2024-01-22T15:35:47+01:00",
+    "shipping_date": "2024-01-22",
+    "external_reference": "0211633",
+    "notes": "<p>Commande n&deg;0211633 du 22/01/2024<br />Contact : GLEIZE Alexandrine<br />T&eacute;l : 04 73 71 88 25<br />E-mail :&nbsp;PHARMACIE@ch-issoire.fr<br />Code chorus : 02 pharmacie</p>"
+  },
+  {
+    "id": 3858931,
+    "order_number": "S00121",
+    "created": "2024-01-22T15:38:59+01:00",
+    "shipping_date": "2024-01-22",
+    "external_reference": "26055234",
+    "notes": "<p>Commande n&deg;26055234 du 19/01/2024<br />Contact : Laurence DUVAL<br />T&eacute;l : 02 23 48 53 02<br />Email :&nbsp;laurence.duval@inrae.fr</p>"
+  },
+  {
+    "id": 3858940,
+    "order_number": "S00122",
+    "created": "2024-01-19T15:42:50+01:00",
+    "shipping_date": "2024-01-19",
+    "external_reference": "2024/ADMED/368",
+    "notes": "<p>Commande n&deg;2024/ADMED/3689 du 17/01/2024<br />Contact : GILME Gabin<br />T&eacute;l : 03 62 94 37 01<br />Mail :&nbsp;Gabin.GILME@chu-lille.fr<br />Code service : ADMED</p>"
+  },
+  {
+    "id": 3858943,
+    "order_number": "S00123",
+    "created": "2024-01-22T15:45:54+01:00",
+    "shipping_date": "2024-01-22",
+    "external_reference": "2024/PHARM/434",
+    "notes": "<p>Commande n&deg;2024/PHARM/434 du 19/01/2024<br />Contact : GUERRIER Aurore<br />T&eacute;l : 02 43 70 73 40<br />E-mail :&nbsp;preparateur@ch-hautanjou.fr<br />Service CHORUS PRO : PHARM</p>"
+  },
+  {
+    "id": 3858950,
+    "order_number": "S00124",
+    "created": "2024-01-22T15:48:59+01:00",
+    "shipping_date": "2024-01-22",
+    "external_reference": "26052813",
+    "notes": "<p>Commande n&deg;26052813 du 19/01/2024<br />Contact : PERCHE F&eacute;d&eacute;rico<br />T&eacute;l : 02 38 25 55 40<br />Email :&nbsp;zahia.belkhir@cnrs-orleans.fr</p>"
+  },
+  {
+    "id": 3858963,
+    "order_number": "S00125",
+    "created": "2024-01-23T16:00:58+01:00",
+    "shipping_date": "2024-01-23",
+    "external_reference": "2024/GPECO/637",
+    "notes": "<p>Commande n&deg;2024/GPECO/637 du 22/01/2024<br />Contact : Pascal CAGNON<br />T&eacute;l : 03 84 98 26 49<br />Email :&nbsp;Pascal.CAGNON@hnfc.fr<br />Service Chorus Pro : GPECO</p>"
+  },
+  {
+    "id": 3858967,
+    "order_number": "S00126",
+    "created": "2024-01-17T16:07:44+01:00",
+    "shipping_date": "2024-01-17",
+    "external_reference": "26040354",
+    "notes": "<p>Commande n&deg;26040354 du 16/01/2024<br />Contact : LAVIEVILLE LAURA<br />T&eacute;l : 02 31 56 73 11<br />Email :&nbsp;laura.lavieville@unicaen.fr</p>"
+  },
+  {
+    "id": 3858979,
+    "order_number": "S00127",
+    "created": "2024-01-18T16:20:00+01:00",
+    "shipping_date": "2024-01-18",
+    "external_reference": "BC2024001486",
+    "notes": "<p>LIVRAISON PARTIELLE ( 9 cartons de 50 packets au lieu de 10 cartons)<br />Commande N&deg;BC2024001486 du 18/01/2024<br />Personne &agrave; contacter : Mr Eric Poupelin<br />T&eacute;l : 02 47 29 44 47<br />E-mail : contact.gestion-stocks@inovalys.fr<br />Code Service : TVISE&nbsp;</p>"
+  },
+  {
+    "id": 3873886,
+    "order_number": "S00127",
+    "created": "2024-02-06T10:05:26+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "BC2024001486",
+    "notes": "<p>Compl&eacute;ment commande N&deg;BC2024001486 du 18/01/2024<br />Personne &agrave; contacter : Mr Eric Poupelin<br />T&eacute;l : 02 47 29 44 47<br />E-mail :&nbsp;contact.gestion-stocks@inovalys.fr<br />Code Service : TVISE</p>"
+  },
+  {
+    "id": 3858986,
+    "order_number": "S00128",
+    "created": "2024-01-24T16:28:03+01:00",
+    "shipping_date": "2024-01-24",
+    "external_reference": "24000664",
+    "notes": "<p>Commande n&deg;24000664 du 23/01/2024<br />Contact : Mme PIESSARD SYLVIE<br />T&eacute;l : 02 40 80 80 00<br />E-Mail :&nbsp;hopital@hopital-sevre-loire.fr</p>"
+  },
+  {
+    "id": 3858994,
+    "order_number": "S00129",
+    "created": "2024-01-24T16:35:32+01:00",
+    "shipping_date": "2024-01-24",
+    "external_reference": "P938",
+    "notes": "<p>Commande n&deg;P938 du 23/01/2024<br />Contact : GENTIL Annabelle<br />T&eacute;l : 02 72 27 85 96<br />E-Mail :&nbsp;pharmacie.arsenal@ch-saintnazaire.fr</p>"
+  },
+  {
+    "id": 3858999,
+    "order_number": "S00130",
+    "created": "2024-01-24T16:38:28+01:00",
+    "shipping_date": "2024-01-24",
+    "external_reference": "PH2401005704",
+    "notes": "<p>Commande n&deg;PH2401005704 du 19/01/2024<br />Contact : V&eacute;ronique MASSON<br />T&eacute;l : 01 64 42 21 02<br />Mail :&nbsp;VERONIQUE.MASSON@ugecam.assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3859007,
+    "order_number": "S00131",
+    "created": "2024-01-24T16:42:30+01:00",
+    "shipping_date": "2024-01-24",
+    "external_reference": "M1/00922087",
+    "notes": "<p>Commande N&deg;M1/00922087 du 23/01/2024<br />Contact : Mme Sylvie GoujuTirvert<br />T&eacute;l : 02 32 33 82 63<br />E-Mail :&nbsp;communication@ch-eureseine.fr&micro;<br />Code chorus : M1</p>"
+  },
+  {
+    "id": 3859011,
+    "order_number": "S00132",
+    "created": "2024-01-24T16:45:59+01:00",
+    "shipping_date": "2024-01-24",
+    "external_reference": "CAMS503807",
+    "notes": "<p>Commande N&deg;CAMS503807 du 24/01/2024<br />Contact : Vera Boiko-Alaux<br />T&eacute;l : 04 73 75 17 79<br />E-mail :&nbsp;aenguix@chu-clermontferrand.fr<br />Code CHORUS : CAMS</p>"
+  },
+  {
+    "id": 3859030,
+    "order_number": "S00133",
+    "created": "2024-01-24T16:58:54+01:00",
+    "shipping_date": "2024-01-24",
+    "external_reference": "DP24010003",
+    "notes": "<p>Commande N&deg;DP24010003 du 24/01/2024<br />Contact : DOMINIQUE PAUL<br />T&eacute;l : 03 87 29 25 86<br />E-mail :&nbsp;dominique.paul@filieris.fr</p>"
+  },
+  {
+    "id": 3859042,
+    "order_number": "S00134",
+    "created": "2024-01-25T17:06:21+01:00",
+    "shipping_date": "2024-01-25",
+    "external_reference": "APHAR396",
+    "notes": "<p>Commande N&deg;APHAR396 du 25/01/2024<br />Contact : Mme ARMELLE COURTOIS<br />T&eacute;l : 02 40 09 44 34<br />Courriel :&nbsp;contact@ch-erdreloire.fr</p>"
+  },
+  {
+    "id": 3859055,
+    "order_number": "S00135",
+    "created": "2024-01-25T17:12:45+01:00",
+    "shipping_date": "2024-01-25",
+    "external_reference": "PHARM603138",
+    "notes": "<p>Commande N&deg;PHARM603138 du 24/01/2024<br />Contact : MME. St&eacute;phanie Bena&iuml;n<br />T&eacute;l : 02 47 47 90 87<br />E-Mail :&nbsp;N.VERBURGH@chu-tours.fr<br />Code CHORUS : PHARM</p>"
+  },
+  {
+    "id": 3859063,
+    "order_number": "S00136",
+    "created": "2024-01-25T17:16:02+01:00",
+    "shipping_date": "2024-01-25",
+    "external_reference": "BC2024001828",
+    "notes": "<p>Commande N&deg;BC2024001828 du 24/01/2024<br />Personne &agrave; contacter : Mr Eric Poupelin<br />T&eacute;l : 02 41 22 68 12<br />E-mail :&nbsp;contact.gestion-stocks@inovalys.fr<br />Code Service : AVBIM</p>"
+  },
+  {
+    "id": 3859071,
+    "order_number": "S00137",
+    "created": "2024-01-25T17:20:34+01:00",
+    "shipping_date": "2024-01-25",
+    "external_reference": "PJCDE2400225",
+    "notes": "<p>Commande n&deg;PJCDE2400225 du 19/01/2024<br />Contact : HERINGHUEL EMMANUEL<br />T&eacute;l : 03 27 84 66 43<br />E-mail :&nbsp;eheringhuel@ch-lecateau.fr</p>"
+  },
+  {
+    "id": 3859152,
+    "order_number": "S00138",
+    "created": "2024-01-25T18:07:02+01:00",
+    "shipping_date": "2024-01-25",
+    "external_reference": "24015 PGC",
+    "notes": "<p>Commande N&deg;24015 PGC du 23/01/2024<br />Personne &agrave; contacter : MONSIEUR DINI<br />T&eacute;l : 03 87 29 46 00<br />E-mail :&nbsp;athina.kretz@filieris.fr<br />Code service : EST_ETAB CREUTZWALD</p>"
+  },
+  {
+    "id": 3859228,
+    "order_number": "S00139",
+    "created": "2024-01-23T18:36:00+01:00",
+    "shipping_date": "2024-01-23",
+    "external_reference": "26053080",
+    "notes": "<p>Commande n&deg;26053080 du 19/01/2024<br />Contact : ROUSSEAU Danielle<br />T&eacute;l : 04 91 32 48 01<br />Email :&nbsp;danielle.rousseau@univ-amu.fr</p>"
+  },
+  {
+    "id": 3859235,
+    "order_number": "S00140",
+    "created": "2024-01-24T18:43:22+01:00",
+    "shipping_date": "2024-01-24",
+    "external_reference": "E7 892425",
+    "notes": "<p>Commande N&deg; : E7 892425 du 02-01-2023<br />Contact : Catherine DUPUIS<br />T&eacute;l : 03 25 49 75 90<br />Mail :&nbsp;catherine.depuis@hcs-sante.fr<br />(Commande mensuelle : F&eacute;vrier)</p>"
+  },
+  {
+    "id": 3859245,
+    "order_number": "S00141",
+    "created": "2024-01-24T18:50:15+01:00",
+    "shipping_date": "2024-01-24",
+    "external_reference": "26066291",
+    "notes": "<p>Commande n&deg;26066291 du 23/01/2024<br />Contact : GILLET Ang&eacute;lique<br />T&eacute;l : 05 61 55 96 63<br />Email :&nbsp;apham@insa-toulouse.fr</p>"
+  },
+  {
+    "id": 3859251,
+    "order_number": "S00142",
+    "created": "2024-01-18T18:56:44+01:00",
+    "shipping_date": "2024-01-18",
+    "external_reference": "24001006",
+    "notes": "<p>Commande N&deg;24001006 du 16/01/2024<br />Contact : PERRIN EVAN<br />TEL: 04 77 44 30 18<br />E-mail :&nbsp;Central.MAGASIN@ch-roanne.fr<br />Service Chorus: C46MAL42</p>"
+  },
+  {
+    "id": 3859304,
+    "order_number": "S00143",
+    "created": "2024-01-24T19:29:31+01:00",
+    "shipping_date": "2024-01-24",
+    "external_reference": "2024-020",
+    "notes": "<p>Commande 2024-020 du 23/01/2024<br />Contact : Ana&euml;lle Detrait<br />T&eacute;l : 05 56 16 18 14<br />E-mail :&nbsp;anaelle.detrait@eysines.fr</p>"
+  },
+  {
+    "id": 3859314,
+    "order_number": "S00144",
+    "created": "2024-01-24T19:33:14+01:00",
+    "shipping_date": "2024-01-24",
+    "external_reference": "2547331",
+    "notes": "<p>Commande N&deg;2547331 du 23/01/2024<br />Contact : MULLER Florian<br />T&eacute;l : 04 66 68 30 80<br />Courriel :&nbsp;COMMANDEDMNS@chu-nimes.fr<br />Service CHORUS : 002</p>"
+  },
+  {
+    "id": 3859321,
+    "order_number": "S00145",
+    "created": "2024-01-25T19:36:58+01:00",
+    "shipping_date": "2024-01-25",
+    "external_reference": "24000813",
+    "notes": "<p>Commande n&deg;24000813 du 24/01/2024<br />Contact : Giacometti C&eacute;cile<br />Tel : 04 90 44 97 87<br />Email :&nbsp;cecile.giacometti@ch-salon.fr<br />CODE CHORUS : DASITAPPRO</p>"
+  },
+  {
+    "id": 3859331,
+    "order_number": "S00146",
+    "created": "2024-01-26T19:41:35+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "2401186",
+    "notes": "<p>Commande N&deg;2401186 du 25/01/2024<br />Contact : C&eacute;cile PARTANT<br />T&eacute;l : 02 98 52 61 24<br />mail :&nbsp;c.partant@ch-cornouaille.fr<br />Chorus code service : COPHQ</p>"
+  },
+  {
+    "id": 3859334,
+    "order_number": "S00147",
+    "created": "2024-01-26T19:43:40+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "EK24-02",
+    "notes": "<p>Commande n&deg;EK24-02 du 24/01/2024<br />Contact : Esther Kitsoukou<br />T&eacute;l : 02 40 38 59 93<br />Email :&nbsp;magasin.prmt@ugecam.assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3859340,
+    "order_number": "S00148",
+    "created": "2024-01-26T19:47:03+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "CAMS504114",
+    "notes": "<p>Commande N&deg;CAMS504114 du 26/01/2024<br />Contact : Vera Boiko-Alaux<br />T&eacute;l : 04 73 75 17 79<br />E-mail :&nbsp;aenguix@chu-clermontferrand.fr<br />Code CHORUS : CAMS</p>"
+  },
+  {
+    "id": 3859353,
+    "order_number": "S00149",
+    "created": "2024-01-26T19:50:34+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "24000923",
+    "notes": "<p>Commande N&deg;24000923 du 25/01/2024<br />Contact : Emilie MOYAUX<br />T&eacute;l : 02 44 71 33 44<br />Mail :&nbsp;abazin@pole-pssl.fr<br />Service Chorus : DM</p>"
+  },
+  {
+    "id": 3859359,
+    "order_number": "S00150",
+    "created": "2024-01-26T19:53:40+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "1293441",
+    "notes": "<p>Commande n&deg;1293441 du 24/01/2024<br />Contact : VALERIE PERCHAT<br />T&eacute;l : 05 57 55 34 57<br />Email :&nbsp;valerie.perchat@ch-libourne.fr<br />Code chorus : BIOMEDICAL</p>"
+  },
+  {
+    "id": 3859381,
+    "order_number": "S00151",
+    "created": "2024-01-26T20:13:22+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "24001977",
+    "notes": "<p>Commande n&deg;24001977 du 26/01/2024<br />Contact : DA COSTA Charlotte<br />T&eacute;l : 04 70 97 22 82<br />Email :&nbsp;Charlotte.DaCosta@ch-vichy.fr<br />Service CHORUS : PHA</p>"
+  },
+  {
+    "id": 3859385,
+    "order_number": "S00152",
+    "created": "2024-01-26T20:20:27+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "26078518",
+    "notes": "<p>Commande n&deg;26078518 du 25/01/2024<br />Contact : GABANT Christine<br />T&eacute;l : 02 38 25 55 89<br />Email :&nbsp;zahia.belkhir@cnrs-orleans.fr</p>"
+  },
+  {
+    "id": 3859386,
+    "order_number": "S00153",
+    "created": "2024-01-26T20:23:24+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "PHARM603371",
+    "notes": "<p>Commande N&deg;PHARM603371 du 26/01/2024<br />Contact : Mme. St&eacute;phanie Bena&iuml;n<br />T&eacute;l : 02 47 47 90 87<br />E-Mail :&nbsp;N.VERBURGH@chu-tours.fr<br />Code CHORUS : PHARM</p>"
+  },
+  {
+    "id": 3859393,
+    "order_number": "S00154",
+    "created": "2024-01-26T20:31:28+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "290044",
+    "notes": "<p>Commande n&deg;290044 du 26/01/2024<br />Contact : Mme TEIL Julie<br />T&eacute;l : 02 41 53 31 70<br />Email :&nbsp;secretariat.pharmacie@ch-saumur.fr</p>"
+  },
+  {
+    "id": 3859401,
+    "order_number": "S00155",
+    "created": "2024-01-25T20:47:43+01:00",
+    "shipping_date": "2024-01-25",
+    "external_reference": "26071493",
+    "notes": "<p>Commande n&deg;26071493 du 25/01/2024<br />Contact : ZIBAROV Artem<br />T&eacute;l : 05 40 00 68 00<br />Email :&nbsp;k.lanusse@cbmn.u-bordeaux.fr</p>"
+  },
+  {
+    "id": 3859411,
+    "order_number": "S00156",
+    "created": "2024-01-26T20:53:53+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "MA053709",
+    "notes": "<p>Commande N&deg;MA053709 du 25/01/2024<br />Contact : M SENUT REMI<br />T&eacute;l : 04 77 40 70 90<br />E-mail :&nbsp;magasin@hopital-lecorbusier.fr</p>"
+  },
+  {
+    "id": 3859417,
+    "order_number": "S00157",
+    "created": "2024-01-26T20:56:27+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "24002089",
+    "notes": "<p>Commande n&deg;24002089 du 26/01/2021<br />Contact : Isabelle GRANGE<br />T&eacute;l : 04 71 04 38 62<br />E-Mail :&nbsp;karine.reymond@ch-lepuy.fr<br />Service Chorus : PHARMACIE</p>"
+  },
+  {
+    "id": 3859427,
+    "order_number": "S00158",
+    "created": "2024-01-29T20:59:48+01:00",
+    "shipping_date": "2024-01-29",
+    "external_reference": "24000232",
+    "notes": "<p>Commande n&deg;24000232 du 29/01/2024<br />Contact : MME EGRET<br />T&eacute;l : 04 73 33 75 85<br />Email :&nbsp;pharm@ch-clementel.fr<br />Service Chorus : PHARMACIE</p>"
+  },
+  {
+    "id": 3859435,
+    "order_number": "S00159",
+    "created": "2024-01-29T21:03:33+01:00",
+    "shipping_date": "2024-01-29",
+    "external_reference": "26083664",
+    "notes": "<p>Commande n&deg;26083664 du 26/01/2024<br />Contact : M. ROUBEN<br />T&eacute;l : 01 40 78 86 23<br />Email :&nbsp;rouben.nagalingum@inserm.fr</p>"
+  },
+  {
+    "id": 3860013,
+    "order_number": "S00160",
+    "created": "2024-01-31T14:15:12+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157353",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98663 &ndash; Cr&egrave;che Picoty<br />N&deg; d'engagement : E157353<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860014,
+    "order_number": "S00161",
+    "created": "2024-01-31T14:16:43+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157348",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg; E98591 &ndash; Cr&egrave;che Bouquet de Soleils<br />N&deg; d'engagement : E157348<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860015,
+    "order_number": "S00162",
+    "created": "2024-01-31T14:17:28+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157355",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98666 &ndash; Cr&egrave;che Les Petits Paris<br />N&deg; d'engagement : E157355<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860016,
+    "order_number": "S00163",
+    "created": "2024-01-31T14:18:12+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157402",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Commande N&deg;: E98740 &ndash; Cr&egrave;che Tom Pouce<br />N&deg; d'engagement : E157402<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860020,
+    "order_number": "S00164",
+    "created": "2024-01-31T14:19:42+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157406",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98745 &ndash; Cr&egrave;che Les Neiges<br />N&deg; d'engagement : E157406<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860022,
+    "order_number": "S00165",
+    "created": "2024-01-31T14:20:16+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157349",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98648 &ndash; Cr&egrave;che Les Gramminis<br />N&deg; d'engagement : E157349<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860023,
+    "order_number": "S00166",
+    "created": "2024-01-31T14:21:01+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157364",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98688 &ndash; Cr&egrave;che Coccinelle<br />N&deg; d'engagement : E157364<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860024,
+    "order_number": "S00167",
+    "created": "2024-01-31T14:21:37+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157350",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98654 &ndash; Cr&egrave;che Boite &agrave; Calins<br />N&deg; d'engagement : E157350<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860025,
+    "order_number": "S00168",
+    "created": "2024-01-31T14:22:24+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157374",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98704 &ndash; Cr&egrave;che Les Petits Loups<br />N&deg; d'engagement : E157374<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860027,
+    "order_number": "S00169",
+    "created": "2024-01-31T14:23:32+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157379",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98706 &ndash; Cr&egrave;che Les Coquelicots<br />N&deg; d'engagement : E157379<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860028,
+    "order_number": "S00170",
+    "created": "2024-01-31T14:24:09+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157397",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98727 &ndash; Cr&egrave;che Pomme de Reinette<br />N&deg; d'engagement : E157397<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860029,
+    "order_number": "S00171",
+    "created": "2024-01-31T14:24:47+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157369",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98697 &ndash; Cr&egrave;che Le Toboggan Jaune<br />N&deg; d'engagement : E157369<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860030,
+    "order_number": "S00172",
+    "created": "2024-01-31T14:25:30+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157367",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98694 &ndash; Cr&egrave;che Sergent Goubin<br />N&deg; d'engagement : E157367<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860031,
+    "order_number": "S00173",
+    "created": "2024-01-31T14:26:42+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157400",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98748 &ndash; Cr&egrave;che de Rouelles<br />N&deg; d'engagement : E157400<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860032,
+    "order_number": "S00174",
+    "created": "2024-01-31T14:27:23+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157387",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98713 &ndash; Cr&egrave;che Louis Blanc<br />N&deg; d'engagement : E157387<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860033,
+    "order_number": "S00175",
+    "created": "2024-01-31T14:28:16+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "E157360",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98669 &ndash; Cr&egrave;che Brindeau<br />N&deg; d'engagement : E157360<br />P&eacute;riode de livraison : du 01/01/2024 au 31/01/2024</p>"
+  },
+  {
+    "id": 3860037,
+    "order_number": "S00176",
+    "created": "2024-01-25T14:34:40+01:00",
+    "shipping_date": "2024-01-25",
+    "external_reference": "26070993",
+    "notes": "<p>Commande n&deg;26070993 du 24/01/2024<br />Contact : CLEMENCON Emilie<br />T&eacute;l : 04 73 17 82 30<br />Email :&nbsp;emilie.clemencon@uca.fr</p>"
+  },
+  {
+    "id": 3860038,
+    "order_number": "S00177",
+    "created": "2024-01-26T14:35:22+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "AP257835",
+    "notes": "<p>Commande n&deg;AP257835 du 24/01/2024<br />Contact : M. FELDMAN DAVID<br />T&eacute;l : 02 40 84 60 33<br />E-mail :&nbsp;olivier.sellal@chu-nantes.fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3860039,
+    "order_number": "S00178",
+    "created": "2024-01-29T14:35:54+01:00",
+    "shipping_date": "2024-01-29",
+    "external_reference": "A9/2548366",
+    "notes": "<p>Commande N&deg;A9/2548366 du 29/01/2024<br />Contact : M Jean Marie KINOWSKI<br />T&eacute;l : 04 66 68 31 04<br />Courriel :&nbsp;COMMANDEDMNS@chu-nimes.fr<br />Service CHORUS : 002</p>"
+  },
+  {
+    "id": 3860042,
+    "order_number": "S00179",
+    "created": "2024-01-29T14:37:11+01:00",
+    "shipping_date": "2024-01-29",
+    "external_reference": "1213266",
+    "notes": "<p>Commande n&deg;1213266 du 29/01/2024<br />Contact : M FAVRE Nicolas<br />T&eacute;l : 05 65 59 31 95<br />Email :&nbsp;magasin@ch-millau.fr<br />Chorus Pro : FACM</p>"
+  },
+  {
+    "id": 3860043,
+    "order_number": "S00180",
+    "created": "2024-01-30T14:37:47+01:00",
+    "shipping_date": "2024-01-30",
+    "external_reference": "PHARM1878",
+    "notes": "<p>Commande N&deg;PHARM1878 du 30/01/2024<br />Contact : CAHOREAU Maurine<br />T&eacute;l : 02 43 43 26 11<br />Mail :&nbsp;pharmaciecommande@ch-lemans.fr<br />Code CHORUS: PHARM</p>"
+  },
+  {
+    "id": 3860044,
+    "order_number": "S00181",
+    "created": "2024-01-30T14:38:28+01:00",
+    "shipping_date": "2024-01-30",
+    "external_reference": "24000878",
+    "notes": "<p>Commande n&deg;24000878 du 29/01/2024<br />Contact : Mme PIESSARD SYLVIE<br />T&eacute;l : 02 40 80 80 00<br />E-Mail :&nbsp;hopital@hopital-sevre-loire.fr</p>"
+  },
+  {
+    "id": 3860047,
+    "order_number": "S00182",
+    "created": "2024-01-25T14:39:10+01:00",
+    "shipping_date": "2024-01-25",
+    "external_reference": "24012 GT",
+    "notes": "<p>Commande N&deg;24012 GT du 23/01/2024<br />Personne &agrave; contacter : Marie-Lise GRAZIA<br />T&eacute;l : 03 85 77 76 01<br />E-mail :&nbsp;nicolas.groh@filieris.fr<br />Code service : EST_ETAB_TILLION</p>"
+  },
+  {
+    "id": 3860049,
+    "order_number": "S00183",
+    "created": "2024-01-29T14:39:45+01:00",
+    "shipping_date": "2024-01-29",
+    "external_reference": "DP24010012",
+    "notes": "<p>Commande N&deg;DP24010012 du 29/01/2024<br />Contact : DOMINIQUE PAUL<br />T&eacute;l : 03 87 29 25 86<br />E-mail :&nbsp;dominique.paul@filieris.fr</p>"
+  },
+  {
+    "id": 3860051,
+    "order_number": "S00184",
+    "created": "2024-01-31T14:40:27+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "DM170",
+    "notes": "<p>Commande N&deg; DM170 du 30/01/2024<br />Contact : DELAMBILY KARINE<br />T&eacute;l : 02 43 08 73 36<br />Mail :&nbsp;KDelambily@ch-mayenne.fr<br />Chorus Pro : DM</p>"
+  },
+  {
+    "id": 3860054,
+    "order_number": "S00185",
+    "created": "2024-01-29T14:41:23+01:00",
+    "shipping_date": "2024-01-29",
+    "external_reference": "PH046856",
+    "notes": "<p>Commande n&deg;PH046856 du 29/01/2024<br />Contact : Dr Gardan B&eacute;n&eacute;dicte<br />T&eacute;l : 04 76 32 64 76<br />Email :&nbsp;chpb-sec.direction@ghnd.fr<br />Code CHORUS : PH01</p>"
+  },
+  {
+    "id": 3860055,
+    "order_number": "S00186",
+    "created": "2024-01-30T14:42:02+01:00",
+    "shipping_date": "2024-01-30",
+    "external_reference": "24032CHAR",
+    "notes": "<p>Commande N&deg;24032CHAR du 30/01/2024<br />Personne &agrave; contacter : KRETZ Athina<br />T&eacute;l : 03 87 79 49 31<br />E-mail :&nbsp;athina.kretz@filieris.fr<br />Code service : EST_ETAB_CHARLEVILLE</p>"
+  },
+  {
+    "id": 3860057,
+    "order_number": "S00187",
+    "created": "2024-01-31T14:42:53+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "LS634168",
+    "notes": "<p>Commande n&deg;LS634168 du 30/01/2024<br />Contact : Florence CARLINI<br />T&eacute;l : 04 91 43 57 54<br />Email :&nbsp;s.pfl.magfour.cdeliv@ap-hm.fr<br />Code service Chorus : 00</p>"
+  },
+  {
+    "id": 3860058,
+    "order_number": "S00188",
+    "created": "2024-01-31T14:43:43+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "ES640477",
+    "notes": "<p>Commande n&deg;ES640477 du 30/01/2024<br />Contact : Mme BOURAS SCHEHERAZADE<br />T&eacute;l : 04 32 75 39 45<br />Mail :&nbsp;appro-cha@ch-avignon.fr<br />CHORUS : 01</p>"
+  },
+  {
+    "id": 3860059,
+    "order_number": "S00189",
+    "created": "2024-01-31T14:44:48+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "729",
+    "notes": "<p>Commande n&deg;729 du 30/01/2024<br />Contact : Annie CONOGAN<br />T&eacute;l : 02 41 46 24 11<br />Email :&nbsp;a.conogan@lyshyrome.fr<br />Code service : PHARM1</p>"
+  },
+  {
+    "id": 3860060,
+    "order_number": "S00190",
+    "created": "2024-02-01T14:45:31+01:00",
+    "shipping_date": "2024-02-01",
+    "external_reference": "321",
+    "notes": "<p>Commande N&deg;321 du 31/01/2024<br />Adresse de livraison : RTE DE ST-NICOLAS, 02410 SAINT-GOBAIN<br />Contact : MARCINKIEWICZ LAURENT<br />T&eacute;l : 03 23 38 77 65<br />Mail :&nbsp;L.MARCINKIEWICZ@crrfstgobain.fr<br />Code CHORUS : BUREAU DES ACHATS</p>"
+  },
+  {
+    "id": 3860061,
+    "order_number": "S00191",
+    "created": "2024-02-01T14:46:32+01:00",
+    "shipping_date": "2024-02-01",
+    "external_reference": "22/00695713",
+    "notes": "<p>Commande N&deg;22/00695713 du 31/01/2024<br />Contact : Dr. MARTIN Fr&eacute;d&eacute;ric<br />T&eacute;l : 03 86 48 45 57<br />Mail :&nbsp;direction@ch-auxerre.fr<br />Code CHORUS : PHARMACIE</p>"
+  },
+  {
+    "id": 3860063,
+    "order_number": "S00192",
+    "created": "2024-02-01T14:47:10+01:00",
+    "shipping_date": "2024-02-01",
+    "external_reference": "FM122575",
+    "notes": "<p>Commande N&deg;FM122575 du 31/01/2024<br />Contact : Mme BUFFARD SYLVIANE<br />T&eacute;l : 02 31 06 51 03<br />Courriel :&nbsp;buffard-s@chu-caen.fr<br />Code CHORUS : FMC</p>"
+  },
+  {
+    "id": 3860064,
+    "order_number": "S00193",
+    "created": "2024-02-01T14:48:34+01:00",
+    "shipping_date": "2024-02-01",
+    "external_reference": "PH/60624",
+    "notes": "<p>Commande n&deg;PH/60624 du 31/01/2024<br />Contact : Florence VRECKO<br />T&eacute;l : 03 86 93 70 85<br />E-mail :&nbsp;chan.pharmacie.sec@ght58.fr<br />Code service : PH</p>"
+  },
+  {
+    "id": 3860065,
+    "order_number": "S00194",
+    "created": "2024-02-01T14:49:20+01:00",
+    "shipping_date": "2024-02-01",
+    "external_reference": "24001006",
+    "notes": "<p>Commande n&deg;24001006 du 30/01/2024<br />Contact : V&eacute;ronique PLUST<br />T&eacute;l : 03 27 22 96 17<br />Email :&nbsp;vplust@chsa.fr<br />Code CHORUS : C6</p>"
+  },
+  {
+    "id": 3860066,
+    "order_number": "S00195",
+    "created": "2024-02-01T14:50:07+01:00",
+    "shipping_date": "2024-02-01",
+    "external_reference": "26115730",
+    "notes": "<p>Commande n&deg;26115730 du 31/01/2024<br />Contact : CHAN-SENG Delphine<br />T&eacute;l : 03 88 41 40 00<br />Email :&nbsp;katia.bruzzone@ics-cnrs.unistra.fr</p>"
+  },
+  {
+    "id": 3860069,
+    "order_number": "S00196",
+    "created": "2024-02-01T14:51:13+01:00",
+    "shipping_date": "2024-02-01",
+    "external_reference": "26112559",
+    "notes": "<p>Commande n&deg;26112559 du 31/01/2024<br />Contact : Laurent-Emmanuel MONFOULET<br />T&eacute;l : 04 73 62 42 90<br />Email :&nbsp;l-emmanuel.monfoulet@uca.fr</p>"
+  },
+  {
+    "id": 3863541,
+    "order_number": "S00197",
+    "created": "2024-02-02T17:57:33+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "26076411",
+    "notes": null
+  },
+  {
+    "id": 3863554,
+    "order_number": "S00198",
+    "created": "2024-01-30T18:02:49+01:00",
+    "shipping_date": "2024-01-30",
+    "external_reference": "2024/GCENT/167",
+    "notes": "<p>Commande n&deg;2024/GCENT/167 du 01/02/2024<br />Contact : ZARAGOZA Anne Laure<br />T&eacute;l : 04 42 43 27 20<br />E-mail :&nbsp;magasin.central@ch-martigues.fr<br />CHORUS PRO : GCENT</p>"
+  },
+  {
+    "id": 3863567,
+    "order_number": "S00199",
+    "created": "2024-01-31T18:06:27+01:00",
+    "shipping_date": "2024-01-31",
+    "external_reference": "26105644",
+    "notes": null
+  },
+  {
+    "id": 3863648,
+    "order_number": "S00200",
+    "created": "2024-02-01T18:12:17+01:00",
+    "shipping_date": "2024-02-01",
+    "external_reference": "P1126716",
+    "notes": "<p>Commande n&deg;P1126716 du 31/01/2024<br />Contact : Mme VOUTIER Mireille<br />T&eacute;l : 04 69 15 74 63<br />Email :&nbsp;chpo-contact@ghnd.fr<br />Code CHORUS : PHA</p>"
+  },
+  {
+    "id": 3863698,
+    "order_number": "S00201",
+    "created": "2024-02-01T18:15:39+01:00",
+    "shipping_date": "2024-02-01",
+    "external_reference": "743465",
+    "notes": "<p>Commande n&deg;743465 du 01/02/2024<br />Contact : Julie FRAYSSE PELLIZARRO<br />T&eacute;l : 04 73 51 10 68<br />Mail :&nbsp;magasin@ch-thiers.fr<br />Service CHORUS : CS02</p>"
+  },
+  {
+    "id": 3863814,
+    "order_number": "S00202",
+    "created": "2024-02-01T18:24:58+01:00",
+    "shipping_date": "2024-02-01",
+    "external_reference": "26114253",
+    "notes": "<p>Commande n&deg;26114253 du 31/01/2024<br />Contact : GAUDU XAVIER<br />T&eacute;l : 04 67 14 72 03<br />Email :&nbsp;xavier.gaudu@enscm.fr</p>"
+  },
+  {
+    "id": 3896491,
+    "order_number": "S00205",
+    "created": "2024-02-13T11:55:58+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "2400171",
+    "notes": "<p>Commande N&deg;2400171 du 06/02/2024<br />Contact : LAFRANCESCHINA NADINE<br />T&eacute;l : 06 18 64 74 54<br />E-mail :&nbsp;nadine.lafranceschina@assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3873177,
+    "order_number": "S00206",
+    "created": "2024-02-02T23:08:16+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "24/PH/24003662",
+    "notes": "<p>Commande N&deg;24/PH/24003662 du 01/02/2024<br />Contact : Mme COGULET Virginie<br />T&eacute;l : 02 98 34 76 00<br />E-mail :&nbsp;direction-generale@chu-brest.fr<br />Code CHORUS: PH</p>"
+  },
+  {
+    "id": 3873200,
+    "order_number": "S00207",
+    "created": "2024-02-02T23:15:23+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "346600",
+    "notes": "<p>Commande N&deg;346600 du 26/01/2024<br />Contact : Nathalie PINGON<br />T&eacute;l : 03 86 69 40 31<br />Mail :&nbsp;pingon.n@ght58.fr<br />Code CHORUS : 0600</p>"
+  },
+  {
+    "id": 3873208,
+    "order_number": "S00208",
+    "created": "2024-02-02T23:18:48+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "22783784",
+    "notes": "<p>Commande N&deg;22783784 du 31/01/2024<br />Contact : Mme DUPIN Karine<br />T&eacute;l : 03 26 78 34 54<br />Mail :&nbsp;kdupin@chu-reims.fr<br />Code CHORUS : Pharmacie-DM_FACP</p>"
+  },
+  {
+    "id": 3873212,
+    "order_number": "S00209",
+    "created": "2024-02-02T23:22:08+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "0211325",
+    "notes": "<p>Commande n&deg; 0211325 du 05/01/2024<br />Contact : LADEVIE SABRINA PPH<br />T&eacute;l : 04 73 71 88 25<br />E-mail :&nbsp;PHARMACIE@ch-issoire.fr<br />Code chorus : 02 pharmacie</p>"
+  },
+  {
+    "id": 3873238,
+    "order_number": "S00210",
+    "created": "2024-02-02T23:30:18+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "C2400133",
+    "notes": "<p>Commande N&deg;C2400133 du 08/01/2024<br />Contact : Dr Bertocchio Fran&ccedil;oise<br />T&eacute;l : 04 92 25 24 58<br />Mail :&nbsp;pharmacie@ch-briancon.fr</p>"
+  },
+  {
+    "id": 3873254,
+    "order_number": "S00211",
+    "created": "2024-02-02T23:37:11+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "6000204",
+    "notes": "<p>Commande N&deg;6000204 du 01/02/2024<br />Contact : VARRAIN Val&eacute;rie<br />T&eacute;l : 02 41 84 13 85<br />E-mail :&nbsp;vvarrain@esbv.fr</p>"
+  },
+  {
+    "id": 3873269,
+    "order_number": "S00212",
+    "created": "2024-02-02T23:43:35+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "24000842",
+    "notes": "<p>Commande n&deg;24000842 du 01/02/2024<br />Contact : Yoan HULLOIS<br />T&eacute;l : 02 32 27 76 53<br />Mail :&nbsp;yoan.hullois@ch-gisors.fr<br />Service Chorus: Biomedical</p>"
+  },
+  {
+    "id": 3873276,
+    "order_number": "S00213",
+    "created": "2024-02-02T23:46:48+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "26127145",
+    "notes": "<p>Commande n&deg;26127145 du 01/02/2024<br />Contact : LEULLIER Remi<br />T&eacute;l : 01 42 11 42 35<br />Email :&nbsp;remi.leullier@gustaveroussy.fr</p>"
+  },
+  {
+    "id": 3873282,
+    "order_number": "S00214",
+    "created": "2024-02-02T23:53:33+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "26124927",
+    "notes": "<p>Commande n&deg;26124927 du 01/02/2024<br />Contact : DELPHINE GIRLICH<br />T&eacute;l : 01 49 59 67 42<br />Email :&nbsp;delphine.girlich@universite-paris-saclay.fr</p>"
+  },
+  {
+    "id": 3873760,
+    "order_number": "S00215",
+    "created": "2024-02-02T09:21:48+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "26125516",
+    "notes": "<p>Commande n&deg;26125516 du 01/02/2024<br />Contact : SALLE Sophie<br />T&eacute;l : 02 40 41 28 75<br />Email :&nbsp;sophie.salle@univ-nantes.fr</p>"
+  },
+  {
+    "id": 3873779,
+    "order_number": "S00216",
+    "created": "2024-01-26T09:30:12+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": "P4407617",
+    "notes": "<p>Commande n&deg;P4407617 du 18/01/2024<br />Contact : KACED Yordanka<br />T&eacute;l : 05 49 44 43 45<br />E-mail :&nbsp;PrepCmdDMS@chu-poitiers.fr<br />Code CHORUS : FAC_CDE_NON_DEMAT</p>"
+  },
+  {
+    "id": 3873790,
+    "order_number": "S00217",
+    "created": "2024-02-05T09:35:13+01:00",
+    "shipping_date": "2024-02-05",
+    "external_reference": "2024/PHA/269",
+    "notes": "<p>Commande N&deg;2024/PHA/269 du 05/02/2024<br />Contact : KURDZIELEWICZ-GENSONIE PAULINE<br />T&eacute;l : 04 71 67 33 33<br />Courriel :&nbsp;p.kurdzielewicz@ch-mauriac.fr<br />Service Chorus : PHA</p>"
+  },
+  {
+    "id": 3873818,
+    "order_number": "S00218",
+    "created": "2024-02-05T09:44:16+01:00",
+    "shipping_date": "2024-02-05",
+    "external_reference": "24001779",
+    "notes": "<p>Commande N&deg;24001779 du 23/01/2024<br />Contact : Catherine LABOUESSE<br />T&eacute;l : 04 70 02 16 04<br />Courriel :&nbsp;n.oger@ch-montlucon.fr</p>"
+  },
+  {
+    "id": 3873844,
+    "order_number": "S00219",
+    "created": "2024-02-05T09:50:31+01:00",
+    "shipping_date": "2024-02-05",
+    "external_reference": "2024/GPECO/974",
+    "notes": "<p>Commande n&deg;2024/GPECO/974 du 05/02/2024<br />Contact : DUGUET GAUTHIER<br />T&eacute;l : 03 84 98 26 40<br />Email :&nbsp;GAUTIER.DUGUET@hnfc.fr<br />Service Chorus Pro : GPECO</p>"
+  },
+  {
+    "id": 3873851,
+    "order_number": "S00220",
+    "created": "2024-02-05T09:53:48+01:00",
+    "shipping_date": "2024-02-05",
+    "external_reference": "26133474",
+    "notes": "<p>Commande n&deg;26133474 du 02/02/2024<br />Contact : ROY LAVERGNE, NATHALIE<br />T&eacute;l : 02 23 23 35 35<br />Email :&nbsp;nathalie.roy-lavergne@univ-rennes1.fr</p>"
+  },
+  {
+    "id": 3873859,
+    "order_number": "S00221",
+    "created": "2024-02-05T09:57:01+01:00",
+    "shipping_date": "2024-02-05",
+    "external_reference": "M9/01871112",
+    "notes": "<p>Commande N&deg;M9/01871112 du 02/02/2024<br />Contact : M . Meuleau<br />T&eacute;l : 03 80 29 57 97<br />Mail :&nbsp;dael.laboratoires@chu-dijon.fr<br />Code CHORUS : M9</p>"
+  },
+  {
+    "id": 3873881,
+    "order_number": "S00222",
+    "created": "2024-02-05T10:03:39+01:00",
+    "shipping_date": "2024-02-05",
+    "external_reference": "P1125234",
+    "notes": "<p>Commande n&deg;P1125234 du 05/02/2024<br />Contact : Mme Doroth&eacute;e Pecani<br />T&eacute;l : 05 61 77 82 53<br />Mail :&nbsp;pecani.d@chu-toulouse.fr<br />Code service : PHACHU</p>"
+  },
+  {
+    "id": 3873994,
+    "order_number": "S00223",
+    "created": "2024-02-06T10:46:01+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "PH78436",
+    "notes": "<p>Commande N&deg;PH78436 du 05/02/2024<br />Contact : Picquet Val&eacute;rie<br />T&eacute;l : 03 27 73 73 66<br />Courriel :&nbsp;sec.pharmacie@ch-cambrai.fr</p>"
+  },
+  {
+    "id": 3874011,
+    "order_number": "S00224",
+    "created": "2024-02-06T10:53:52+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "942",
+    "notes": "<p>Commande n&deg;942 du 06/02/2024<br />Contact : Mme HUGUES Marie-Laure<br />T&eacute;l : 04 70 67 60 14<br />Mail :&nbsp;ml.hugues@ch-bourbon.fr<br />Code service : Pharmacie</p>"
+  },
+  {
+    "id": 3874032,
+    "order_number": "S00225",
+    "created": "2024-02-06T11:06:24+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "26136641",
+    "notes": "<p>Commande n&deg;26136641 du 05/02/2024<br />Contact : VIAUX Anne-sophie<br />T&eacute;l : 03 80 77 25 07<br />Email :&nbsp;anne-sophie.viaux@agrosupdijon.fr</p>"
+  },
+  {
+    "id": 3876656,
+    "order_number": "S00226",
+    "created": "2024-02-06T20:54:37+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "C2400560",
+    "notes": "<p>Commande N&deg;C2400560 du 02/02/2024<br />Contact : Dr Bertocchio Fran&ccedil;oise<br />T&eacute;l : 04 92 25 24 58<br />Mail :&nbsp;pharmacie@ch-briancon.fr</p>"
+  },
+  {
+    "id": 3876676,
+    "order_number": "S00227",
+    "created": "2024-02-05T21:04:16+01:00",
+    "shipping_date": "2024-02-05",
+    "external_reference": "407-1883024-0410703",
+    "notes": "<p>Commande n&deg;407-1883024-0410703 du 02/02/2024<br />T&eacute;l : 07 83 65 62 35</p>"
+  },
+  {
+    "id": 3876700,
+    "order_number": "S00228",
+    "created": "2024-02-06T21:12:43+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "EB267723",
+    "notes": "<p>Commande n&deg;EB267723 du 05/02/2024<br />Contact : PASTUREL Karine<br />T&eacute;l : 04 67 33 94 23<br />Email :&nbsp;k-pasturel@chu-montpellier.fr<br />CHORUS : GEF-FACM</p>"
+  },
+  {
+    "id": 3876707,
+    "order_number": "S00229",
+    "created": "2024-02-06T21:16:33+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "A9/2550246",
+    "notes": "<p>Commande N&deg;A9/2550246 du 06/02/2024<br />Contact : M Jean Marie KINOWSKI<br />T&eacute;l : 04 66 68 31 04<br />Courriel :&nbsp;COMMANDEDMNS@chu-nimes.fr<br />Service CHORUS : 002</p>"
+  },
+  {
+    "id": 3876725,
+    "order_number": "S00230",
+    "created": "2024-02-06T21:19:51+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "PD1/664586",
+    "notes": "<p>Commande N&deg;PD1/664586 du 05/02/2024<br />Contact : Dr Anne MEUNIER<br />T&eacute;l : 04 78 86 33 59<br />Mail :&nbsp;eugeniagisela.diaz-garcia@chu-lyon.fr<br />Code CHORUS : SGL19</p>"
+  },
+  {
+    "id": 3876746,
+    "order_number": "S00231",
+    "created": "2024-02-06T21:27:14+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "26138166",
+    "notes": "<p>Commande n&deg;26138166 du 05/02/2024<br />Contact : VINCENT GUILLAUME<br />T&eacute;l : 01 69 15 75 48<br />Email :&nbsp;guillaume.vincent@universite-paris-saclay.fr</p>"
+  },
+  {
+    "id": 3876757,
+    "order_number": "S00232",
+    "created": "2024-02-06T21:30:47+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "26138396",
+    "notes": "<p>Commande n&deg;26138396 du 05/02/2024<br />Contact : AURELIE MORAND<br />T&eacute;l : 01 69 15 58 37<br />Email :&nbsp;aurelie.morand@universite-paris-saclay.fr</p>"
+  },
+  {
+    "id": 3876764,
+    "order_number": "S00233",
+    "created": "2024-02-07T21:36:02+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "12365919",
+    "notes": "<p>Commande N&deg;12365919 du 05/02/2024<br />Contact : Mme FRANCE Vanessa<br />TEL : 02 31 51 54 19<br />E-Mail :&nbsp;v.france@ch-ab.fr<br />Code CHORUS : MAGASIN_CP</p>"
+  },
+  {
+    "id": 3876790,
+    "order_number": "S00234",
+    "created": "2024-02-07T21:41:08+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "PH2602",
+    "notes": "<p>Commande N&deg;PH2602 du 06/02/2024<br />Contact : Julien NUNES<br />T&eacute;l : 03 86 26 54 20<br />E-mail :&nbsp;chcl.preparatrice@ght58.fr<br />Code CHORUS : PH</p>"
+  },
+  {
+    "id": 3876805,
+    "order_number": "S00235",
+    "created": "2024-02-07T21:44:40+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "PH55094",
+    "notes": "<p>Commande N&deg;PH55094 du 06/02/2024<br />Contact : Nelly Riolo<br />T&eacute;l : 03 20 69 44 50<br />E-mail :&nbsp;preparateurdmpharmacie@ch-tourcoing.fr<br />Code CHORUS : PHARM</p>"
+  },
+  {
+    "id": 3876819,
+    "order_number": "S00236",
+    "created": "2024-02-07T21:48:29+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "666220",
+    "notes": "<p>Commande n&deg;666220 du 06/02/2024<br />Contact : DEHAESE<br />Tel : 04 73 67 80 56<br />Mail :&nbsp;pharma-prepa@ch-riom.fr<br />Service CHORUS : 04</p>"
+  },
+  {
+    "id": 3876834,
+    "order_number": "S00237",
+    "created": "2024-02-07T21:55:09+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "2024/MAG/200086",
+    "notes": "<p>Commande N&deg;2024/MAG/200086 du 05/02/2024<br />Contact : DAMANT CINDY<br />T&eacute;l : 03 83 15 36 59<br />Mail :&nbsp;c.damant@chru-nancy.fr<br />Code CHORUS : MAG</p>"
+  },
+  {
+    "id": 3876856,
+    "order_number": "S00238",
+    "created": "2024-02-07T22:02:21+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "28187292",
+    "notes": "<p>Commande N&deg;28187292 du 31/01/2024<br />Adresse de livraison : MAGASIN R STOCKS, Rue Jean GERSON, 08300 RETHEL<br />Contact : M GRUSON CHRISTOPHE<br />T&eacute;l : 03 24 30 91 90<br />Mail :&nbsp;christophe.gruson@ch-ghsa.fr<br />Chorus pro: ECONOMA-FACM</p>"
+  },
+  {
+    "id": 3879364,
+    "order_number": "S00240",
+    "created": "2024-02-07T18:17:59+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "26146598",
+    "notes": "<p>Commande n&deg;26146598 du 06/02/2024<br />Contact : DIERYCKX Cindy<br />T&eacute;l : 04 72 72 26 00<br />Email :&nbsp;basma.zamit@ibcp.fr</p>"
+  },
+  {
+    "id": 3879434,
+    "order_number": "S00241",
+    "created": "2024-02-07T18:23:53+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "26145331 ",
+    "notes": "<p>Commande n&deg;26145331 du 06/02/2024<br />Contact : NOUVELLON EVELYNE<br />T&eacute;l : 02 54 55 53 11<br />Email :&nbsp;evelyne.nouvellon@ac-orleans-tours.fr</p>"
+  },
+  {
+    "id": 3879487,
+    "order_number": "S00242",
+    "created": "2024-02-02T18:27:53+01:00",
+    "shipping_date": "2024-02-02",
+    "external_reference": "405-9612414-8617132",
+    "notes": "<p>Commande n&deg;405-9612414-8617132 du 01/02/2024<br />T&eacute;l : 06 73 27 98 10</p>"
+  },
+  {
+    "id": 3879501,
+    "order_number": "S00243",
+    "created": "2024-02-06T18:30:50+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "WM520874 ",
+    "notes": "<p>Commande N&deg;WM520874 du 31/01/2024<br />Contact : Marine MALLAT<br />T&eacute;l : 04 77 12 09 05<br />Courriel :&nbsp;Marine.Mallat@chu-st-etienne.fr<br />Service Chorus : FACTURES_ SUR_COMMANDE</p>"
+  },
+  {
+    "id": 3879518,
+    "order_number": "S00244",
+    "created": "2024-02-07T18:35:00+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "FM122705",
+    "notes": "<p>Commande N&deg;FM122705 du 31/01/2024<br />Contact : Mme CRENN FLORENCE<br />T&eacute;l : 02 31 06 50 90<br />Courriel :&nbsp;crenn-f@chu-caen.fr<br />Code CHORUS : FMC</p>"
+  },
+  {
+    "id": 3879548,
+    "order_number": "S00245",
+    "created": "2024-02-07T18:42:45+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "26147369",
+    "notes": null
+  },
+  {
+    "id": 3879563,
+    "order_number": "S00246",
+    "created": "2024-02-07T18:45:50+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "3331691",
+    "notes": "<p>Commande n&deg;3331691 du 07/02/2024<br />Contact : Mme Charlotte Papailhau<br />T&eacute;l : 04 91 12 74 90<br />E-mail :&nbsp;charlotte.papailhau@cgd13.fr</p>"
+  },
+  {
+    "id": 3879582,
+    "order_number": "S00247",
+    "created": "2024-02-07T18:49:00+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "24002151",
+    "notes": "<p>Commande N&deg;24002151 du 06/02/2024<br />Contact : Justine REMY<br />T&eacute;l : 03 83 76 12 12<br />Courriel :&nbsp;jremy@ghemm.fr<br />Service Chorus : ACHATS</p>"
+  },
+  {
+    "id": 3879600,
+    "order_number": "S00248",
+    "created": "2024-02-08T18:52:47+01:00",
+    "shipping_date": "2024-02-08",
+    "external_reference": "P788245 ",
+    "notes": "<p>Num&eacute;ro d'engagement : P788245 du 07/02/2024<br />Contact : Mme DAVID MANON<br />T&eacute;l : 02 43 66 50 37<br />E-Mail :&nbsp;edi@chlaval.fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3879636,
+    "order_number": "S00249",
+    "created": "2024-02-08T18:58:28+01:00",
+    "shipping_date": "2024-02-08",
+    "external_reference": "PH2396",
+    "notes": "<p>Commande N&deg; PH2396 du 08/02/2024<br />Contact : Julien NUNES<br />T&eacute;l : 03 86 26 54 20<br />E-mail :&nbsp;chcl.preparatrice@ght58.fr<br />Code CHORUS : PH</p>"
+  },
+  {
+    "id": 3879642,
+    "order_number": "S00250",
+    "created": "2024-02-08T19:00:38+01:00",
+    "shipping_date": "2024-02-08",
+    "external_reference": "2024/ADMED/7302",
+    "notes": "<p>Commande n&deg;2024/ADMED/7302 du 08/02/2024<br />Contact : DELMOTE Sandrine<br />T&eacute;l : 03 20 44 54 24<br />Mail :&nbsp;Sandrine.DELMOTE@chu-lille.fr<br />Code service : ADMED</p>"
+  },
+  {
+    "id": 3880074,
+    "order_number": "S00251",
+    "created": "2024-02-08T21:25:27+01:00",
+    "shipping_date": "2024-02-08",
+    "external_reference": "402-6063336-8998700",
+    "notes": "<p>Commande n&deg;402-6063336-8998700 du 07/02/2024<br />T&eacute;l : 06 34 52 60 69</p>"
+  },
+  {
+    "id": 3880077,
+    "order_number": "S00252",
+    "created": "2024-02-08T21:26:54+01:00",
+    "shipping_date": "2024-02-08",
+    "external_reference": "26154277",
+    "notes": "<p>Commande n&deg;26154277 du 07/02/2024<br />Contact : PELAMATTI VERONIQUE<br />T&eacute;l : 04 37 28 76 89<br />Email :&nbsp;veronique.pelamatti@inserm.fr</p>"
+  },
+  {
+    "id": 3886192,
+    "order_number": "S00253",
+    "created": "2024-02-08T19:22:13+01:00",
+    "shipping_date": "2024-02-08",
+    "external_reference": "2024/PHARM/769",
+    "notes": "<p>Commande n&deg;2024/PHARM/769 du 07/02/2024<br />Contact : HERBERT ELISA<br />T&eacute;l : 02 43 70 73 40<br />E-mail :&nbsp;preparateur@ch-hautanjou.fr<br />Service CHORUS PRO : PHARM</p>"
+  },
+  {
+    "id": 3886217,
+    "order_number": "S00254",
+    "created": "2024-02-08T19:26:02+01:00",
+    "shipping_date": "2024-02-08",
+    "external_reference": "290937",
+    "notes": "<p>Commande n&deg;290937 du 08/02/2024<br />Contact : Mme TEIL Julie<br />T&eacute;l : 02 41 53 31 70<br />Email :&nbsp;secretariat.pharmacie@ch-saumur.fr</p>"
+  },
+  {
+    "id": 3886235,
+    "order_number": "S00255",
+    "created": "2024-02-08T19:28:57+01:00",
+    "shipping_date": "2024-02-08",
+    "external_reference": "CAMS505701",
+    "notes": "<p>Commande N&deg;CAMS505701 du 07/02/2024<br />Contact : Vera Boiko-Alaux<br />T&eacute;l : 04 73 75 17 79<br />E-mail :&nbsp;aenguix@chu-clermontferrand.fr<br />Code CHORUS : CAMS</p>"
+  },
+  {
+    "id": 3886249,
+    "order_number": "S00256",
+    "created": "2024-02-08T19:31:40+01:00",
+    "shipping_date": "2024-02-08",
+    "external_reference": "26153749",
+    "notes": "<p>Commande n&deg;26153749 du 07/02/2024<br />Contact : Razafindrakoto Sarah<br />T&eacute;l : 06 26 19 62 30<br />Email :&nbsp;sarah.razafindrakoto@u-paris.fr</p>"
+  },
+  {
+    "id": 3886275,
+    "order_number": "S00257",
+    "created": "2024-02-09T19:36:12+01:00",
+    "shipping_date": "2024-02-09",
+    "external_reference": "744274",
+    "notes": "<p>Commande n&deg;744274 du 08/02/2024<br />Contact : Julie FRAYSSE PELLIZARRO<br />T&eacute;l : 04 73 51 10 57<br />Mail :&nbsp;prepa_pharm@ch-thiers.fr<br />Service CHORUS : CS03</p>"
+  },
+  {
+    "id": 3886292,
+    "order_number": "S00258",
+    "created": "2024-02-09T19:42:53+01:00",
+    "shipping_date": "2024-02-09",
+    "external_reference": "004446",
+    "notes": "<p>Commande n&deg;004446 du 08/02/2024<br />Contact : Laure CHAPPUY<br />T&eacute;l : 04 72 10 72 71<br />Email :&nbsp;pharmacie@chg-neuville.fr</p>"
+  },
+  {
+    "id": 3886323,
+    "order_number": "S00259",
+    "created": "2024-02-09T19:50:32+01:00",
+    "shipping_date": "2024-02-09",
+    "external_reference": "1255570",
+    "notes": "<p>Commande N&deg;1255570 du 06/02/2024<br />Contact : M SOULARD Edouard<br />T&eacute;l : 02 31 40 41 86<br />Courriel :&nbsp;magasin@ch-falaise.fr</p>"
+  },
+  {
+    "id": 3886338,
+    "order_number": "S00260",
+    "created": "2024-02-09T19:53:31+01:00",
+    "shipping_date": "2024-02-09",
+    "external_reference": "26160475",
+    "notes": null
+  },
+  {
+    "id": 3886346,
+    "order_number": "S00261",
+    "created": "2024-02-09T19:56:46+01:00",
+    "shipping_date": "2024-02-09",
+    "external_reference": "26158855",
+    "notes": "<div class=\"container\">\n<div class=\"section\">\n<p>Commande n&deg;26158855 du 08/02/2024<br />Contact : MAGASIN CENTRAL<br />T&eacute;l : 03 72 74 08 76<br />Email :&nbsp;magasincentral-contact@univ-lorraine.fr</p>\n</div>\n</div>\n<div class=\"container overflow-x-auto\">\n<div class=\"section\">\n<div class=\"section-header\">\n<h2 class=\"section-title\">D&eacute;tail</h2>\n</div>\n</div>\n</div>"
+  },
+  {
+    "id": 3886353,
+    "order_number": "S00262",
+    "created": "2024-02-09T19:59:40+01:00",
+    "shipping_date": "2024-02-09",
+    "external_reference": "24003016",
+    "notes": "<p>Commande n&deg;24003016 du 09/02/2024<br />Contact : Isabelle GRANGE<br />T&eacute;l : 04 71 04 38 62<br />E-mail :&nbsp;direction@ch-lepuy.fr<br />Code CHORUS : PHARMACIE</p>"
+  },
+  {
+    "id": 3886375,
+    "order_number": "S00263",
+    "created": "2024-02-06T20:05:25+01:00",
+    "shipping_date": "2024-02-06",
+    "external_reference": "MC127311",
+    "notes": "<p>Commande N&deg;MC127311 du 06/02/2024<br />Contact : Mme PELLAT FINET Agn&egrave;s<br />T&eacute;l : 04 69 15 75 70<br />Courriel :&nbsp;tania.daude@ldpi.fr<br />Service CHORUS : MGA</p>"
+  },
+  {
+    "id": 3910197,
+    "order_number": "S00264",
+    "created": "2024-02-22T12:05:59+01:00",
+    "shipping_date": "2024-02-22",
+    "external_reference": "E0000005",
+    "notes": "<p>Devis n&deg;E0000005 du 13/02/2024<br />Contact : Edouard Cocquempot<br />T&eacute;l : 0321984613<br />E-mail :&nbsp;edouard.cocquempot@hotmail.fr</p>"
+  },
+  {
+    "id": 3890117,
+    "order_number": "S00265",
+    "created": "2024-02-13T22:10:40+01:00",
+    "shipping_date": "2024-02-08",
+    "external_reference": "PHARM2388",
+    "notes": "<p>Commande N&deg;PHARM2388 du 07/02/2024<br />Contact : Mme H&eacute;l&egrave;ne Perrier<br />T&eacute;l : 02 43 43 43 76<br />Mail :&nbsp;pharmaciecommande@ch-lemans.fr<br />Code CHORUS: PHARM</p>"
+  },
+  {
+    "id": 3890129,
+    "order_number": "S00266",
+    "created": "2024-02-09T22:14:31+01:00",
+    "shipping_date": "2024-02-09",
+    "external_reference": "PHARM2438",
+    "notes": "<p>Commande N&deg;PHARM2438 du 08/02/2024<br />Contact : Mme H&eacute;l&egrave;ne Perrier<br />T&eacute;l : 02 43 43 43 76<br />Mail :&nbsp;pharmaciecommande@ch-lemans.fr<br />Code CHORUS: PHARM</p>"
+  },
+  {
+    "id": 3890152,
+    "order_number": "S00267",
+    "created": "2024-02-09T22:22:54+01:00",
+    "shipping_date": "2024-02-09",
+    "external_reference": "2024/PHARM/798",
+    "notes": "<p>Commande n&deg;2024/PHARM/798 du 09/02/2024<br />Contact : GUERRIER Aurore<br />T&eacute;l : 02 43 70 73 40<br />E-mail :&nbsp;preparateur@ch-hautanjou.fr<br />Service CHORUS PRO : PHARM</p>"
+  },
+  {
+    "id": 3890171,
+    "order_number": "S00268",
+    "created": "2024-02-09T22:28:46+01:00",
+    "shipping_date": "2024-02-09",
+    "external_reference": "26160594",
+    "notes": "<p>Commande n&deg;26160594 du 08/02/2024<br />Contact : MIREILLE bossert<br />T&eacute;l : 04 89 15 07 03<br />Email :&nbsp;mireille.bossert-cutajar@unice.fr</p>"
+  },
+  {
+    "id": 3891870,
+    "order_number": "S00269",
+    "created": "2024-02-12T16:17:41+01:00",
+    "shipping_date": "2024-02-12",
+    "external_reference": "P788870",
+    "notes": "<p>Num&eacute;ro d'engagement : P788870 du 09/02/2024<br />Contact : Mme DAVID MANON<br />T&eacute;l : 02 43 66 50 37<br />E-Mail :&nbsp;edi@chlaval.fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3891876,
+    "order_number": "S00270",
+    "created": "2024-02-12T16:19:03+01:00",
+    "shipping_date": "2024-02-12",
+    "external_reference": "26164511",
+    "notes": "<p>Commande n&deg;26164511 du 09/02/2024<br />Contact : Donet Sebastien-Nathalie<br />T&eacute;l : 04 38 78 30 50<br />Email :&nbsp;sebastien.donet@cea.fr</p>"
+  },
+  {
+    "id": 3892963,
+    "order_number": "S00271",
+    "created": "2024-02-12T22:36:04+01:00",
+    "shipping_date": "2024-02-12",
+    "external_reference": "DI705019",
+    "notes": "<p>Commande N&deg;DI705019 du 12/02/2024<br />Contact : Roselyne BRACONI<br />TEL : 04 92 03 72 26<br />Mail :&nbsp;sni@chu-nice.fr<br />Code CHORUS : PHARDMS</p>"
+  },
+  {
+    "id": 3892992,
+    "order_number": "S00272",
+    "created": "2024-02-12T22:53:44+01:00",
+    "shipping_date": "2024-02-12",
+    "external_reference": "26167225",
+    "notes": "<p>Commande n&deg;26167225 du 09/02/2024<br />Contact : KOLODZIEJ Emilie<br />T&eacute;l : 01 69 15 47 12<br />Email :&nbsp;emilie.kolodziej@u-psud.fr</p>"
+  },
+  {
+    "id": 3893000,
+    "order_number": "S00273",
+    "created": "2024-02-13T23:03:23+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "15/00335627",
+    "notes": "<p>Commande N&deg;15/00335627 du 12/02/2024<br />Contact : Mme Aline EXBRAYAT BONNET<br />T&eacute;l : 04 71 50 98 07<br />E-mail :&nbsp;direction@ch-brioude.fr<br />Code CHORUS : 02</p>"
+  },
+  {
+    "id": 3893012,
+    "order_number": "S00274",
+    "created": "2024-02-13T23:06:46+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "NS385081",
+    "notes": "<p>Commande N&deg;NS385081 du 08/02/2024<br />Contact : M GERARD Romain<br />T&eacute;l : 03 26 69 60 28<br />Courriel :&nbsp;rgerard@ch-chalonsenchampagne.fr</p>"
+  },
+  {
+    "id": 3893023,
+    "order_number": "S00275",
+    "created": "2024-02-13T23:10:19+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "PR83584",
+    "notes": "<p>Commande n&deg;PR83584 du 12/02/2024<br />Contact : Antoine LINGOUNGOU<br />T&eacute;l : 03 25 21 95 23<br />Mail : gham.pharmacie.ry@hcs-sante fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3896480,
+    "order_number": "S00276",
+    "created": "2024-02-13T11:51:10+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "2400191",
+    "notes": "<p>Commande N&deg;2400191 du 09/02/2024<br />Contact : EL HADJ BERANGERE<br />T&eacute;l : 04 75 78 16 14<br />E-mail :&nbsp;berangere.el-hadj@assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3896482,
+    "order_number": "S00277",
+    "created": "2024-02-13T11:51:58+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "02/00324435",
+    "notes": "<p>Commande N&deg;02/00324435 du 13/02/2024<br />Contact : Mme Am&eacute;lie FONTVIEILLE<br />TEL : 04 73 82 73 90<br />Mail :&nbsp;direction@ch-ambert.fr</p>"
+  },
+  {
+    "id": 3896484,
+    "order_number": "S00278",
+    "created": "2024-02-13T11:52:39+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "850",
+    "notes": "<p>Commande n&deg;850 du 09/02/2024<br />Contact : BROSSAUD SANDRINE<br />T&eacute;l : 02 32 23 60 00<br />Email :&nbsp;sandrine.brossaud@vbr-sudeure.fr</p>"
+  },
+  {
+    "id": 3896485,
+    "order_number": "S00279",
+    "created": "2024-02-13T11:53:15+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "26176611",
+    "notes": "<p>Commande n&deg;26176611 du 12/02/2024<br />Contact : MILENE Berthelot<br />T&eacute;l : 01 57 27 74 84<br />Email :&nbsp;milene.berthelot@inserm.fr</p>"
+  },
+  {
+    "id": 3896488,
+    "order_number": "S00280",
+    "created": "2024-02-13T11:54:24+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "26176192",
+    "notes": "<p>Commande n&deg;26176192 du 12/02/2024<br />Contact : CABON SYLVIE<br />T&eacute;l : 02 51 78 55 28<br />Email :&nbsp;sylvie.cabon@oniris-nantes.fr</p>"
+  },
+  {
+    "id": 3896489,
+    "order_number": "S00281",
+    "created": "2024-02-13T11:55:20+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "26175488",
+    "notes": "<p>Commande n&deg;26175488 du 12/02/2024<br />Contact : PASCAL MAGALI<br />T&eacute;l : 04 76 90 53 45<br />Email :&nbsp;lessources@ugecam.assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3896836,
+    "order_number": "S00282",
+    "created": "2024-02-07T14:53:21+01:00",
+    "shipping_date": "2024-02-07",
+    "external_reference": "2024/BPHAR/541",
+    "notes": "<p>Commande N&deg; 2024/BPHAR/541 du 05/02/2024<br />Contact : THORE Laurence<br />T&eacute;l : 03 80 24 44 89<br />E-mail :&nbsp;laurence.thore@ch-beaune.fr<br />Service ex&eacute;cutant : BPHAR</p>"
+  },
+  {
+    "id": 3896852,
+    "order_number": "S00283",
+    "created": "2024-02-13T14:56:24+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "3331938",
+    "notes": "<div class=\"container\">\n<div class=\"section\">\n<p>Commande n&deg;3331938 du 12/02/2024<br />Contact : Alexia Touchard<br />T&eacute;l : 04 86 57 81 37<br />E-mail :&nbsp;alexia.touchard@cgd13.fr<br />CHORUS PRO : sce 03</p>\n</div>\n</div>\n<div class=\"container overflow-x-auto\">\n<div class=\"section\">&nbsp;</div>\n</div>"
+  },
+  {
+    "id": 3896860,
+    "order_number": "S00284",
+    "created": "2024-02-14T15:00:14+01:00",
+    "shipping_date": "2024-02-14",
+    "external_reference": "2550564",
+    "notes": "<p>Commande N&deg;2550564 du 06/02/2024<br />Contact : MULLER Florian<br />T&eacute;l : 04 66 68 30 80<br />Courriel :&nbsp;COMMANDEDMNS@chu-nimes.fr<br />Service CHORUS : 002</p>"
+  },
+  {
+    "id": 3896892,
+    "order_number": "S00285",
+    "created": "2024-02-14T15:20:34+01:00",
+    "shipping_date": "2024-02-14",
+    "external_reference": "BC2401441",
+    "notes": "<p>Commande n&deg;BC2401441 du 13/02/2024<br />Contact : Sabine MATHIEU<br />T&eacute;l : 05 56 77 37 39<br />Mail :&nbsp;sabine.mathieu@ugecam.assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3896981,
+    "order_number": "S00286",
+    "created": "2024-02-14T15:52:53+01:00",
+    "shipping_date": "2024-02-14",
+    "external_reference": "319884",
+    "notes": "<p>Commande n&deg;319884 du 08/02/2024<br />CONTACT: FABIEN SEILLER<br />Tel : 03 80 81 73 22<br />Mail :&nbsp;fabien.seiller@ch-hco.fr<br />Service CHORUS : 04</p>"
+  },
+  {
+    "id": 3896991,
+    "order_number": "S00287",
+    "created": "2024-02-14T15:55:14+01:00",
+    "shipping_date": "2024-02-14",
+    "external_reference": "2024A00170",
+    "notes": "<p>Commande N&deg;2024A00170 du 14/02/2024<br />Contact : Dr Julie LEFEBVRE<br />T&eacute;l : 03 88 49 54 96<br />Courriel :&nbsp;j.lefebvrepui@hopital-rosheim.fr</p>"
+  },
+  {
+    "id": 3897011,
+    "order_number": "S00288",
+    "created": "2024-02-14T15:59:34+01:00",
+    "shipping_date": "2024-02-14",
+    "external_reference": "26184911",
+    "notes": "<p>Commande n&deg;26184911 du 13/02/2024<br />Contact : DERTHIER Benjamin<br />T&eacute;l : 01 69 33 60 40<br />Email :&nbsp;benjamin.derthier@u-psud.fr</p>"
+  },
+  {
+    "id": 3902334,
+    "order_number": "S00289",
+    "created": "2024-02-19T17:23:07+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "24.2.20.a",
+    "notes": "<p>AO n&deg;2024LDAR001</p>\n<p>T&eacute;l : 05 53 06 80 00</p>\n<p>Mail : <a href=\"mailto:cd24.ldar.direction@dordogne.fr\">cd24.ldar.direction@dordogne.fr</a></p>"
+  },
+  {
+    "id": 3897595,
+    "order_number": "S00290",
+    "created": "2024-02-13T19:02:24+01:00",
+    "shipping_date": "2024-02-13",
+    "external_reference": "LS639669",
+    "notes": "<p>Commande n&deg;LS639669 du 09/02/2024<br />Contact : Florence CARLINI<br />T&eacute;l : 04 91 43 57 54<br />Email :&nbsp;s.pfl.magfour.cdeliv@ap-hm.fr<br />Code service Chorus : 00</p>"
+  },
+  {
+    "id": 3897605,
+    "order_number": "S00291",
+    "created": "2024-02-14T19:05:36+01:00",
+    "shipping_date": "2024-02-14",
+    "external_reference": "24049CHAR",
+    "notes": "<p>Commande N&deg;24049CHAR du 14/02/2024<br />Personne &agrave; contacter : KRETZ Athina<br />T&eacute;l : 03 87 79 49 31<br />E-mail :&nbsp;athina.kretz@filieris.fr<br />Code service : EST_ETAB_CHARLEVILLE</p>"
+  },
+  {
+    "id": 3897654,
+    "order_number": "S00292",
+    "created": "2024-02-14T19:17:33+01:00",
+    "shipping_date": "2024-02-14",
+    "external_reference": "26183819",
+    "notes": "<p>Commande n&deg;26183819 du 13/02/2024<br />Contact : MAZUEL Philippe<br />T&eacute;l : 04 73 40 74 48<br />Email :&nbsp;philippe.mazuel@uca.fr</p>"
+  },
+  {
+    "id": 3897663,
+    "order_number": "S00293",
+    "created": "2024-02-14T19:22:06+01:00",
+    "shipping_date": "2024-02-14",
+    "external_reference": "26181946",
+    "notes": "<p>Commande n&deg;26181946 du 13/02/2024<br />Contact : DI MAURO Diane<br />T&eacute;l : 04 13 94 58 60<br />Email :&nbsp;diane.di-mauro@univ-amu.fr</p>"
+  },
+  {
+    "id": 3897674,
+    "order_number": "S00294",
+    "created": "2024-02-14T19:25:02+01:00",
+    "shipping_date": "2024-02-14",
+    "external_reference": "P2401120",
+    "notes": "<p>Commande n&deg;P2401120 du 13/02/2024<br />Contact : CHAUSSIS Julie<br />T&eacute;l : 02 32 14 75 47<br />Mail :&nbsp;secretariatpharmacie@ch-dieppe.fr<br />Code service : 3210</p>"
+  },
+  {
+    "id": 3897700,
+    "order_number": "S00295",
+    "created": "2024-02-15T19:32:59+01:00",
+    "shipping_date": "2024-02-15",
+    "external_reference": "26190476",
+    "notes": "<p>Commande n&deg;26190476 du 14/02/2024<br />Contact : GILLET Ang&eacute;lique<br />T&eacute;l : 05 61 55 96 63<br />Email :&nbsp;apham@insa-toulouse.fr</p>"
+  },
+  {
+    "id": 3897708,
+    "order_number": "S00296",
+    "created": "2024-02-15T19:37:02+01:00",
+    "shipping_date": "2024-02-15",
+    "external_reference": "26188522",
+    "notes": "<p>Commande n&deg;26188522 du 14/02/2024<br />Contact : Vittier Melanie<br />T&eacute;l : 03 26 91 35 99<br />Email :&nbsp;melanie.vittier@univ-reims.fr</p>"
+  },
+  {
+    "id": 3899145,
+    "order_number": "S00297",
+    "created": "2024-02-09T21:09:13+01:00",
+    "shipping_date": "2024-02-09",
+    "external_reference": "26160109",
+    "notes": null
+  },
+  {
+    "id": 3899160,
+    "order_number": "S00298",
+    "created": "2024-02-12T21:29:43+01:00",
+    "shipping_date": "2024-02-12",
+    "external_reference": "2024-024",
+    "notes": "<p>Commande 2024-024 du 06/02/2024<br />Contact : Ana&euml;lle Detrait<br />T&eacute;l : 05 56 16 18 14<br />E-mail :&nbsp;anaelle.detrait@eysines.fr</p>"
+  },
+  {
+    "id": 3899167,
+    "order_number": "S00299",
+    "created": "2024-02-15T21:35:47+01:00",
+    "shipping_date": "2024-02-15",
+    "external_reference": "SE340667",
+    "notes": "<p>Commande n&deg;SE340667 du 09/02/2024<br />Contact : Mme DELCORTE Odile<br />T&eacute;l : 03 27 24 30 24<br />E-mail :&nbsp;odelcorte@ch-denain.fr<br />Service CHORUS PRO : ECONOMAT</p>"
+  },
+  {
+    "id": 3899170,
+    "order_number": "S00300",
+    "created": "2024-02-15T21:41:09+01:00",
+    "shipping_date": "2024-02-15",
+    "external_reference": "80732571",
+    "notes": "<p>Commande n&deg;80732571 du 09/02/2024<br />Contact : M ROY SEBASTIEN<br />T&eacute;l : 03 22 25 52 30<br />E-mail :&nbsp;roy.sebastien@ch-abbeville.fr<br />CHORUS PRO : DSE</p>"
+  },
+  {
+    "id": 3937045,
+    "order_number": "S00300",
+    "created": "2024-03-04T23:43:58+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "80732571",
+    "notes": "<p>Commande n&deg;80732571 du 09/02/2024<br />Contact : M ROY SEBASTIEN<br />T&eacute;l : 03 22 25 52 30<br />E-mail :&nbsp;roy.sebastien@ch-abbeville.fr<br />CHORUS PRO : DSE</p>"
+  },
+  {
+    "id": 3899173,
+    "order_number": "S00301",
+    "created": "2024-02-15T21:45:38+01:00",
+    "shipping_date": "2024-02-15",
+    "external_reference": "1295904",
+    "notes": "<p>Commande n&deg;1295904 du 09/02/2024<br />Contact : VALERIE PERCHAT<br />T&eacute;l : 05 57 55 34 57<br />Email :&nbsp;valerie.perchat@ch-libourne.fr<br />Code chorus : BIOMEDICAL</p>"
+  },
+  {
+    "id": 3899189,
+    "order_number": "S00302",
+    "created": "2024-02-15T22:01:52+01:00",
+    "shipping_date": "2024-02-15",
+    "external_reference": "2024-030",
+    "notes": "<p>Commande 2024-030 du 12/02/2024<br />Contact : Ana&euml;lle Detrait<br />T&eacute;l : 05 56 16 18 14<br />E-mail :&nbsp;anaelle.detrait@eysines.fr</p>"
+  },
+  {
+    "id": 3899192,
+    "order_number": "S00303",
+    "created": "2024-02-15T22:10:13+01:00",
+    "shipping_date": "2024-02-15",
+    "external_reference": "W087139",
+    "notes": "<p>Commande n&deg;W087139 du 05/02/2024<br />Contact : KAREN SOYER<br />T&eacute;l : 02 32 88 53 21<br />Email :&nbsp;KAREN.SOYER@CHUROUEN.FR<br />Code CHORUS: DAHLIB</p>"
+  },
+  {
+    "id": 3899196,
+    "order_number": "S00304",
+    "created": "2024-02-16T22:15:08+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "70181592",
+    "notes": "<p>Commande n&deg;70181592 du 15/02/2024<br />Contact : Mme F.PEREIRA<br />T&eacute;l : 03 85 20 30 40<br />E-mail :&nbsp;pharmadm@ch-macon.fr</p>"
+  },
+  {
+    "id": 3899200,
+    "order_number": "S00305",
+    "created": "2024-02-16T22:20:06+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "P1856",
+    "notes": "<p>Commande n&deg;P1856 du 14/02/2024<br />Contact : Laure Guillossou<br />T&eacute;l : 02 72 27 85 96<br />E-Mail :&nbsp;pharmacie.arsenal@ch-saintnazaire.fr</p>"
+  },
+  {
+    "id": 3899204,
+    "order_number": "S00306",
+    "created": "2024-02-16T22:22:59+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "666686",
+    "notes": "<p>Commande n&deg;666686 du 14/02/2024<br />Contact : DEHAESE<br />Tel : 04 73 67 80 56<br />Mail :&nbsp;pharma-prepa@ch-riom.fr<br />Service CHORUS : 04</p>"
+  },
+  {
+    "id": 3899206,
+    "order_number": "S00307",
+    "created": "2024-02-16T22:27:16+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "GD705520",
+    "notes": "<p>Commande N&deg;GD705520 du 13/02/2024<br />Contact : St&eacute;phane MONTALTO<br />TEL : 04 92 03 22 18<br />Mail :&nbsp;montalto.s@chu-nice.fr<br />Code CHORUS : FOURMED</p>"
+  },
+  {
+    "id": 3899210,
+    "order_number": "S00308",
+    "created": "2024-02-16T22:30:07+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "P1127898",
+    "notes": "<p>Commande n&deg;P1127898 du 14/02/2024<br />Contact : Mme VOUTIER Mireille<br />T&eacute;l : 04 69 15 74 63<br />Email :&nbsp;chpo-contact@ghnd.fr<br />Code CHORUS : PHA</p>"
+  },
+  {
+    "id": 3899218,
+    "order_number": "S00309",
+    "created": "2024-02-16T22:33:48+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "C2401338",
+    "notes": "<p>Commande n&deg;C2401338 du 15/02/2024<br />Contact : Margo ANGELETTI<br />T&eacute;l : 03 86 86 19 61<br />Mail :&nbsp;mangeletti@ch-sens.fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3899221,
+    "order_number": "S00310",
+    "created": "2024-02-16T22:37:07+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "PHARM1298",
+    "notes": "<p>Commande N&deg;PHARM1298 du 18/01/2024<br />Contact : Coline Smalley<br />T&eacute;l : 02 43 43 26 11<br />Mail :&nbsp;pharmaciecommande@ch-lemans.fr<br />Code CHORUS: PHARM</p>"
+  },
+  {
+    "id": 3899225,
+    "order_number": "S00311",
+    "created": "2024-02-16T22:42:22+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "BC2401464",
+    "notes": "<p>Commande n&deg;BC2401464 du 15/02/2024<br />Contact : BERNARD MARINA<br />T&eacute;l : 02 97 66 32 10<br />E-Mail :&nbsp;marina.bernard@ugecam.assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3899231,
+    "order_number": "S00312",
+    "created": "2024-02-16T22:47:09+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "2024/MN/400588",
+    "notes": "<p>Commande n&deg;2024/MN/400588 du 15/02/2024<br />Contact : VERONESE Fabien<br />T&eacute;l : 04 73 75 11 68<br />E-mail :&nbsp;fveronese@chu-clermontferrand.fr<br />Code Chorus : MN</p>"
+  },
+  {
+    "id": 3899236,
+    "order_number": "S00313",
+    "created": "2024-02-16T22:51:23+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "24001071",
+    "notes": "<p>Commande N&deg;24001071 du 01/02/2024<br />Contact : CEDRIC JUVIN<br />T&eacute;l : 06 75 65 97 87<br />Mail :&nbsp;cjuvin@ch-bagnolssurceze.fr<br />Code CHORUS : ACH003</p>"
+  },
+  {
+    "id": 3899244,
+    "order_number": "S00314",
+    "created": "2024-02-16T22:56:43+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "PHARM605601",
+    "notes": "<p>Commande N&deg;PHARM605601 du 15/02/2024<br />Contact : Mme. St&eacute;phanie Bena&iuml;n<br />T&eacute;l : 02 47 47 90 87<br />E-Mail :&nbsp;N.VERBURGH@chu-tours.fr<br />Code CHORUS : PHARM</p>"
+  },
+  {
+    "id": 3899251,
+    "order_number": "S00315",
+    "created": "2024-02-16T23:05:36+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "26197462",
+    "notes": "<p>Commande n&deg;26197462 du 15/02/2024<br />Contact : BLANCHARD Emilie<br />T&eacute;l : 02 41 73 50 20<br />Email :&nbsp;emilie.blanchard@univ-angers.fr</p>"
+  },
+  {
+    "id": 3899256,
+    "order_number": "S00316",
+    "created": "2024-02-16T23:11:24+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "26197054",
+    "notes": "<p>Commande n&deg;26197054 du 15/02/2024<br />Contact : RIFF JONATHAN<br />T&eacute;l : 03 68 85 16 00<br />Email :&nbsp;magasinchimie@unistra.fr</p>"
+  },
+  {
+    "id": 3899264,
+    "order_number": "S00317",
+    "created": "2024-02-16T23:16:16+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "26196620",
+    "notes": "<p>Commande n&deg;26196620 du 15/02/2024<br />Contact : BLANCHARD Emilie<br />T&eacute;l : 02 41 73 50 20<br />Email :&nbsp;emilie.blanchard@univ-angers.fr</p>"
+  },
+  {
+    "id": 3899271,
+    "order_number": "S00318",
+    "created": "2024-02-16T23:23:36+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "2400178",
+    "notes": "<p>Commande N&deg;2400178 du 08/02/2024<br />Contact : LAVAUD FRANCOIS<br />T&eacute;l : 04 77 42 24 25<br />E-mail :&nbsp;francois.lavaud@assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3899282,
+    "order_number": "S00319",
+    "created": "2024-02-16T23:30:50+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "2400179",
+    "notes": "<p>Commande N&deg;2400179 du 08/02/2024<br />Contact : Mme LASSUDRIE Sylvie<br />T&eacute;l : 04 71 46 57 39<br />E-mail :&nbsp;sylvie.lassudrie@assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3899296,
+    "order_number": "S00320",
+    "created": "2024-02-16T23:46:26+01:00",
+    "shipping_date": "2024-02-16",
+    "external_reference": "2024-024",
+    "notes": "<p>Compl&eacute;ment commande 2024-024 du 06/02/2024<br />Contact : Ana&euml;lle Detrait<br />T&eacute;l : 05 56 16 18 14<br />E-mail :&nbsp;anaelle.detrait@eysines.fr</p>"
+  },
+  {
+    "id": 3900648,
+    "order_number": "S00321",
+    "created": "2024-02-19T09:53:39+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "24.2.23.a",
+    "notes": "<p>AO OPH24<br />Contact : Mme CRISTOFOL et M. FERRATO<br />T&eacute;l : 04 91 38 19 50<br />Mail : christelle.labrande@ap-hm.fr</p>"
+  },
+  {
+    "id": 3927110,
+    "order_number": "S00321",
+    "created": "2024-02-29T14:34:18+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "24.2.23.a",
+    "notes": "<p>AO OPH24<br />Contact : Mme CRISTOFOL et M. FERRATO<br />T&eacute;l : 04 91 38 19 50<br />Mail : christelle.labrande@ap-hm.fr</p>"
+  },
+  {
+    "id": 3906630,
+    "order_number": "S00322",
+    "created": "2024-02-20T00:12:57+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "MT310130",
+    "notes": "<p>Commande n&deg;MT310130 du 26/01/2024<br />Contact : Rebecca Delafontaine<br />Tel : 04 77 31 17 70<br />Mail :&nbsp;rebecca.delafontaine@hopitaldugier.fr<br />Code service : SERVICE_LOGISTIQUE</p>"
+  },
+  {
+    "id": 3903487,
+    "order_number": "S00323",
+    "created": "2024-02-19T23:35:58+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "2024/GPECO/953",
+    "notes": "<p>Commande n&deg;2024/GPECO/953 du 02/02/2024<br />Contact : KARA NADERA<br />T&eacute;l : 03 84 98 26 62<br />Email :&nbsp;nadera.kara@hnfc.fr<br />Service Chorus Pro : GPECO</p>"
+  },
+  {
+    "id": 3937038,
+    "order_number": "S00324",
+    "created": "2024-03-04T23:39:09+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "M5 958005",
+    "notes": "<p>Commande N&deg;M5 958005 du 05/02/2024<br />Contact : Eric KOLMANN<br />T&eacute;l : 03 25 45 87 61<br />Mail :&nbsp;cht.magasin.central@hcs-sante.fr​<br />Service CHORUS : ACHATS</p>"
+  },
+  {
+    "id": 3914175,
+    "order_number": "S00325",
+    "created": "2024-02-22T22:27:12+01:00",
+    "shipping_date": "2024-02-22",
+    "external_reference": "P1136004",
+    "notes": "<p>Commande n&deg;P1136004 du 14/02/2024<br />Contact : Mme Doroth&eacute;e Pecani<br />T&eacute;l : 05 61 77 82 53<br />Mail :&nbsp;logipharma.ardm@chutoulouse.fr<br />Code service : PHACHU</p>"
+  },
+  {
+    "id": 3937083,
+    "order_number": "S00326",
+    "created": "2024-03-04T00:05:02+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "P4413315",
+    "notes": "<p>Commande n&deg;P4413315 du 13/02/2024<br />Contact : KACED Yordanka<br />T&eacute;l : 05 49 44 43 45<br />E-mail :&nbsp;PrepCmdDMS@chu-poitiers.fr<br />Code CHORUS : FAC_CDE_NON_DEMAT</p>"
+  },
+  {
+    "id": 3903167,
+    "order_number": "S00327",
+    "created": "2024-02-19T22:18:41+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "745432",
+    "notes": "<p>Commande n&deg;745432 du 16/02/2024<br />Contact : Julie FRAYSSE PELLIZARRO<br />T&eacute;l : 04 73 51 10 57<br />Mail :&nbsp;prepa_pharm@ch-thiers.fr<br />Service CHORUS : CS03</p>"
+  },
+  {
+    "id": 3903179,
+    "order_number": "S00328",
+    "created": "2024-02-19T22:21:19+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "880011478",
+    "notes": "<p>Commande n&deg;880011478 du 16/01/2024<br />Contact : Mich&egrave;le LARUE<br />T&eacute;l : 04 90 44 93 65<br />Email :&nbsp;secrspad@ch-salon.fr<br />Code CHORUS : PHARMACIE13658</p>"
+  },
+  {
+    "id": 3936552,
+    "order_number": "S00329",
+    "created": "2024-03-04T20:18:14+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "HST/676092",
+    "notes": "<p>Commande N&deg;HST/676092 du 16/02/2024<br />Contact : isela DIAZ-GARCIA<br />T&eacute;l : 04 72 07 15 69<br />Mail :&nbsp;eugeniagisela.diaz-garcia@chu-lyon.fr<br />Code CHORUS : SGL18</p>"
+  },
+  {
+    "id": 3937047,
+    "order_number": "S00330",
+    "created": "2024-03-04T23:45:38+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "24001376",
+    "notes": "<p>Commande N&deg;24001376 du 16/02/2024<br />Contact : BAUDRY Christelle<br />T&eacute;l : 03 27 56 47 14<br />E-mail :&nbsp;Christelle.baudry@ch-fourmies.fr<br />Service Chorus : ECONOMAT</p>"
+  },
+  {
+    "id": 3900708,
+    "order_number": "S00331",
+    "created": "2024-02-19T10:19:49+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "24.3.1.c",
+    "notes": "<p>AO &nbsp;23GHT54<br />Contact : &nbsp;Mme GRAS Corinne<br />T&eacute;l : &nbsp;02 48 48 57 94<br />Mail : &nbsp;corinne.gras@ch-bourges.fr</p>"
+  },
+  {
+    "id": 3903124,
+    "order_number": "S00332",
+    "created": "2024-02-19T22:13:49+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "CA/00106207",
+    "notes": "<p>Commande N&deg;CA/00106207 du 16/02/2024<br />Contact : Mr Ludwig GRANGEASSE<br />T&eacute;l : 03 85 67 60 60<br />Mail :&nbsp;secdirection.montceau@gh-cm.fr<br />Code CHORUS : PHARMAAC</p>"
+  },
+  {
+    "id": 3903165,
+    "order_number": "S00333",
+    "created": "2024-02-19T22:17:25+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "2402076",
+    "notes": "<p>Commande N&deg;2402076 du 16/02/2024<br />Contact : C&eacute;cile PARTANT<br />T&eacute;l : 02 98 52 61 24<br />Mail : c.partant@ch-cornouaille.fr<br />Chorus code service : COPHQ</p>"
+  },
+  {
+    "id": 3903232,
+    "order_number": "S00334",
+    "created": "2024-02-19T22:30:48+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "CACI0000006757",
+    "notes": "<p>Commande N&deg;CACI0000006757 du 16/02/2024<br />Contact : Mme V&eacute;ronique CHANRON<br />T&eacute;l : 04 74 79 27 53<br />Mail :&nbsp;pharmacie.cls.lacote@orange.fr</p>"
+  },
+  {
+    "id": 3903268,
+    "order_number": "S00335",
+    "created": "2024-02-19T22:40:13+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "2024/ADMED/6626",
+    "notes": "<p>Commande n&deg;2024/ADMED/6626 du 05/02/2024<br />Contact : GILME Gabin<br />T&eacute;l : 03 62 94 37 01<br />Mail :&nbsp;Gabin.GILME@chu-lille.fr<br />Code service : ADMED</p>"
+  },
+  {
+    "id": 3903353,
+    "order_number": "S00336",
+    "created": "2024-02-19T22:58:08+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "SS-2024-26984",
+    "notes": "<p>Commande N&deg;SS-2024-26984 du 15/02/2024<br />Contact : AMMANN MARIE ELISABETH<br />T&eacute;l : 03 69 55 33 45<br />Mail : pharmacieapprodmshs_groupea@chrustrasbourg.fr<br />Code CHORUS : PHARMACIE</p>"
+  },
+  {
+    "id": 3903366,
+    "order_number": "S00337",
+    "created": "2024-02-19T23:01:39+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "26206308",
+    "notes": "<p>Commande n&deg;26206308 du 16/02/2024<br />Contact : YAROU CARMEL<br />T&eacute;l : 01 40 09 89 07<br />Email :&nbsp;carmel.yarou_sonkplan@sorbonne-universite.fr</p>"
+  },
+  {
+    "id": 3903407,
+    "order_number": "S00338",
+    "created": "2024-02-19T23:05:38+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "26206548",
+    "notes": "<p>Commande n&deg;26206548 du 16/02/2024<br />Contact : PONTAT VIVIANE<br />T&eacute;l : 01 49 72 54 07<br />Email :&nbsp;viviane.pontat@ofii.fr</p>"
+  },
+  {
+    "id": 3903418,
+    "order_number": "S00339",
+    "created": "2024-02-19T23:09:32+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "26206149",
+    "notes": "<p>Commande n&deg;26206149 du 16/02/2024<br />Contact : RAT THIERRY<br />T&eacute;l : 03 68 85 35 14<br />Email :&nbsp;thierry.rat@unistra.fr</p>"
+  },
+  {
+    "id": 3903452,
+    "order_number": "S00340",
+    "created": "2024-02-19T23:18:03+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "26205520",
+    "notes": "<p>Commande n&deg;26205520 du 16/02/2024<br />Contact : BLANCHARD Emilie<br />T&eacute;l : 02 41 73 50 20<br />Email :&nbsp;emilie.blanchard@univ-angers.fr</p>"
+  },
+  {
+    "id": 3903477,
+    "order_number": "S00341",
+    "created": "2024-02-19T23:29:47+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "2024-036",
+    "notes": "<p>Commande 2024-036 du 16/02/2024<br />Contact : Ana&euml;lle Detrait<br />T&eacute;l : 05 56 16 18 14<br />E-mail :&nbsp;anaelle.detrait@eysines.fr</p>"
+  },
+  {
+    "id": 3903508,
+    "order_number": "S00342",
+    "created": "2024-02-19T23:46:17+01:00",
+    "shipping_date": "2024-02-19",
+    "external_reference": "24.1.31.a",
+    "notes": "<p>AO n&deg;23A518<br />Contact : Gabie GUYON-CASTERET<br />T&eacute;l : 02 96 44 56 71<br />Mail : pharmaciens.guingamp@armorsante.bzh</p>"
+  },
+  {
+    "id": 3924142,
+    "order_number": "S00342",
+    "created": "2024-02-28T14:19:02+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "24.1.31.a",
+    "notes": "<p>AO n&deg;23A518<br />Contact : Gabie GUYON-CASTERET<br />T&eacute;l : 02 96 44 56 71<br />Mail : pharmaciens.guingamp@armorsante.bzh</p>"
+  },
+  {
+    "id": 3905639,
+    "order_number": "S00344",
+    "created": "2024-02-20T17:48:02+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "23.11.15.a",
+    "notes": "<p>AO DMS<br />Contact : Nathalie Dumont<br />T&eacute;l : 03 21 99 33 03<br />Mail : n.dumont@ch-boulogne.fr</p>"
+  },
+  {
+    "id": 3905674,
+    "order_number": "S00345",
+    "created": "2024-02-20T18:01:15+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "24.1.22.a",
+    "notes": "<p>AO 2024 PHARMAUVERGNE<br />Contact : Adrien BIARD<br />T&eacute;l : 04 73 75 17 76<br />E-mail : abiard@chu-clermontferrand.fr</p>"
+  },
+  {
+    "id": 3907244,
+    "order_number": "S00346",
+    "created": "2024-02-20T10:28:09+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "E7 892425",
+    "notes": "<p>Commande N&deg; : E7 892425 du 02-01-2023<br />Contact : Catherine DUPUIS<br />T&eacute;l : 03 25 49 75 90<br />Mail :&nbsp;catherine.depuis@hcs-sante.fr<br />(Commande mensuelle : Mars)</p>"
+  },
+  {
+    "id": 3906633,
+    "order_number": "S00347",
+    "created": "2024-02-21T00:14:37+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "EB272210",
+    "notes": "<p>Commande n&deg;EB272210 du 19/02/2024<br />Contact : PASTUREL Karine<br />T&eacute;l : 04 67 33 94 23<br />Email :&nbsp;k-pasturel@chu-montpellier.fr<br />CHORUS : GEF-FACM</p>"
+  },
+  {
+    "id": 3907231,
+    "order_number": "S00348",
+    "created": "2024-02-20T10:23:34+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "23.12.11.c",
+    "notes": "<p>AO CLSF_2023_42<br />Contact : Benjamin Rey-Rubio<br />T&eacute;l : 02 97 06 75 13<br />Mail : b.rey@ghbs.bzh</p>"
+  },
+  {
+    "id": 3907246,
+    "order_number": "S00349",
+    "created": "2024-02-20T10:29:22+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "697",
+    "notes": "<p>Commande n&deg;697 du 20/02/2024<br />Contact : C&eacute;cile DE L'ESCALOPIER<br />T&eacute;l : 02 41 83 46 09<br />Email :&nbsp;pharmacien@chdouelafontaine.fr<br />Code Chorus : PHAR01</p>"
+  },
+  {
+    "id": 3907253,
+    "order_number": "S00350",
+    "created": "2024-02-20T10:33:49+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "P789884",
+    "notes": "<p>Commande N&deg;P789884 du 16/02/2024<br />Contact : Mme DAVID MANON<br />T&eacute;l : 02 43 66 50 37<br />E-Mail :&nbsp;edi@chlaval.fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3907250,
+    "order_number": "S00351",
+    "created": "2024-02-20T10:31:26+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "PH/61135",
+    "notes": "<p>Commande n&deg;PH/61135 du 19/02/2024<br />Contact : DESBOUIS CHRISTELLE<br />T&eacute;l : 03 86 93 70 85<br />E-mail :&nbsp;chan.pharmacie.sec@ght58.fr<br />Code service : PH</p>"
+  },
+  {
+    "id": 3914250,
+    "order_number": "S00352",
+    "created": "2024-02-22T22:52:17+01:00",
+    "shipping_date": "2024-02-22",
+    "external_reference": "EK24-03",
+    "notes": "<p>Commande n&deg;EK24-03 du 20/02/2024<br />Contact : Esther Kitsoukou<br />T&eacute;l : 02 40 38 59 93<br />Email :&nbsp;magasin.prmt@ugecam.assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3907281,
+    "order_number": "S00353",
+    "created": "2024-02-20T10:47:09+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "26211867",
+    "notes": "<div class=\"container\">\n<div class=\"section\">\n<p>Commande n&deg;26211867 du 19/02/2024<br />Contact : REMUSON Florent<br />T&eacute;l : 04 78 69 68 35<br />Email :&nbsp;florent.remuson@anses.fr</p>\n</div>\n</div>\n<div class=\"container overflow-x-auto\">\n<div class=\"section\">\n<div class=\"section-header\">\n<h2 class=\"section-title\">D&eacute;tail</h2>\n</div>\n</div>\n</div>"
+  },
+  {
+    "id": 3907264,
+    "order_number": "S00354",
+    "created": "2024-02-20T10:37:00+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "26210125",
+    "notes": "<p>Commande n&deg;26210125 du 19/02/2024<br />Contact : HENNI Sara<br />T&eacute;l : 01 43 93 81 36<br />Email :&nbsp;shenni@seinesaintdenis.fr</p>"
+  },
+  {
+    "id": 3907259,
+    "order_number": "S00355",
+    "created": "2024-02-20T10:35:46+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "26214095",
+    "notes": "<p>Commande n&deg;26214095 du 19/02/2024<br />Contact : MIREILLE Bossert<br />T&eacute;l : 04 89 15 07 03<br />Email :&nbsp;mireille.bossert-cutajar@unice.fr</p>"
+  },
+  {
+    "id": 3907265,
+    "order_number": "S00356",
+    "created": "2024-02-20T10:37:56+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "26212017",
+    "notes": "<p>Commande n&deg;26212017 du 19/02/2024<br />Contact : MAGASIN CENTRAL UL<br />T&eacute;l : 03 72 74 08 76<br />Email :&nbsp;magasincentral-contact@univ-lorraine.fr</p>"
+  },
+  {
+    "id": 3909353,
+    "order_number": "S00357",
+    "created": "2024-02-21T00:01:40+01:00",
+    "shipping_date": "2024-02-21",
+    "external_reference": "BC2401510",
+    "notes": "<p>Commande n&deg;BC2401510 du 20/02/2024<br />Contact : Sabine MATHIEU<br />T&eacute;l : 05 56 77 37 39<br />Mail :&nbsp;sabine.mathieu@ugecam.assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3925322,
+    "order_number": "S00358",
+    "created": "2024-02-28T19:59:57+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "E4302153",
+    "notes": "<p>Commande N&deg;E4302153 du 20/02/2024<br />Personne &agrave; contacter : Mme LE-LOUP Cindy<br />T&eacute;l : 02 96 66 23 40<br />Mail :&nbsp;Cindy.LE-LOUP@ch-centre-bretagne.fr<br />Chorus Pro : LOGIPOLE</p>"
+  },
+  {
+    "id": 3907524,
+    "order_number": "S00359",
+    "created": "2024-02-20T12:50:09+01:00",
+    "shipping_date": "2024-02-20",
+    "external_reference": "24.1.22.a",
+    "notes": "<p>AO 2024 PHARMAUVERGNE<br />Contact : Dr Marion DE LAULANIE<br />T&eacute;l : 04 70 02 40 71<br />Mail : m.delaulaniedesainte@ch-montlucon.fr</p>"
+  },
+  {
+    "id": 3909344,
+    "order_number": "S00360",
+    "created": "2024-02-21T23:52:25+01:00",
+    "shipping_date": "2024-02-21",
+    "external_reference": "24003667",
+    "notes": "<p>Commande n&deg;24003667 du 20/02/2021<br />Contact : Isabelle GRANGE<br />T&eacute;l : 04 71 04 38 62<br />E-Mail :&nbsp;karine.reymond@ch-lepuy.fr<br />Service Chorus : PHARMACIE</p>"
+  },
+  {
+    "id": 3909342,
+    "order_number": "S00361",
+    "created": "2024-02-21T23:49:54+01:00",
+    "shipping_date": "2024-02-21",
+    "external_reference": "26226",
+    "notes": "<p>Commande n&deg;26226 du 20/02/2021<br />Contact : Mme Alexandre Coralie<br />T&eacute;l : 04 93 04 30 12<br />E-Mail :&nbsp;pharmacie@hopitalsospel.fr</p>"
+  },
+  {
+    "id": 3914152,
+    "order_number": "S00362",
+    "created": "2024-02-22T22:17:00+01:00",
+    "shipping_date": "2024-02-22",
+    "external_reference": "MEDIM490",
+    "notes": "<p>Commande N&deg;MEDIM490 du 20/02/2024<br />Contact : PANCOURT peggy<br />T&eacute;l : 02 43 43 28 92<br />Mail :&nbsp;ppancourt@ch-lemans.fr<br />Code CHORUS: MEDIM</p>"
+  },
+  {
+    "id": 3914273,
+    "order_number": "S00364",
+    "created": "2024-02-23T23:04:41+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "24051 PGC",
+    "notes": "<p>Commande N&deg;24051 PGC du 22/02/2024<br />Personne &agrave; contacter : KRETZ Athina<br />T&eacute;l : 03 87 29 36 71<br />E-mail :&nbsp;athina.kretz@filieris.fr<br />Code service : EST_ETAB_CREUTZWALD</p>\n<p><br />&nbsp;</p>"
+  },
+  {
+    "id": 3914196,
+    "order_number": "S00365",
+    "created": "2024-02-22T22:31:22+01:00",
+    "shipping_date": "2024-02-22",
+    "external_reference": "A9/2553803",
+    "notes": null
+  },
+  {
+    "id": 3909378,
+    "order_number": "S00366",
+    "created": "2024-02-21T00:30:54+01:00",
+    "shipping_date": "2024-02-21",
+    "external_reference": "26217834",
+    "notes": "<p>Commande n&deg;26217834 du 20/02/2024<br />Contact : BALESTRA REMY<br />T&eacute;l : 04 42 17 99 58<br />Email :&nbsp;remy.balestra@ccas-aixenprovence.org</p>"
+  },
+  {
+    "id": 3909380,
+    "order_number": "S00367",
+    "created": "2024-02-21T00:33:29+01:00",
+    "shipping_date": "2024-02-21",
+    "external_reference": "26219321",
+    "notes": "<p>Commande n&deg;26219321 du 20/02/2024<br />Contact : MADRIERES Carine<br />T&eacute;l : 04 92 40 67 25<br />Email :&nbsp;carine.madrieres@chicas-gap.fr</p>"
+  },
+  {
+    "id": 3909385,
+    "order_number": "S00368",
+    "created": "2024-02-21T00:36:11+01:00",
+    "shipping_date": "2024-02-21",
+    "external_reference": "26220541",
+    "notes": "<p>Commande n&deg;26220541 du 20/02/2024<br />Contact : PUGIN CATHERINE<br />T&eacute;l : 02 38 59 72 70<br />Email :&nbsp;gestion.closferbois@ac-orleans-tours.fr</p>"
+  },
+  {
+    "id": 3909387,
+    "order_number": "S00369",
+    "created": "2024-02-21T00:39:13+01:00",
+    "shipping_date": "2024-02-21",
+    "external_reference": "26220541 et 26220576",
+    "notes": "<p>Commande n&deg;26220576 du 20/02/2024<br />Contact : PUGIN CATHERINE<br />T&eacute;l : 02 38 59 72 70<br />Email :&nbsp;gestion.closferbois@ac-orleans-tours.fr</p>"
+  },
+  {
+    "id": 3937031,
+    "order_number": "S00370",
+    "created": "2024-03-04T23:35:19+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "24002861",
+    "notes": "<p>Commande N&deg;24002861 du 20/02/2024<br />Contact : Aur&eacute;lie BASTIEN<br />T&eacute;l : 03 83 76 12 12<br />Courriel :&nbsp;commandes@ghemm.fr<br />Service Chorus : ACHATS</p>"
+  },
+  {
+    "id": 3914113,
+    "order_number": "S00371",
+    "created": "2024-02-22T22:01:34+01:00",
+    "shipping_date": "2024-02-22",
+    "external_reference": "DM282",
+    "notes": "<p>Commande N&deg; DM282 du 21/01/2024<br />Contact : DELAMBILY KARINE<br />T&eacute;l : 02 43 08 73 36<br />Mail :&nbsp;KDelambily@ch-mayenne.fr<br />Chorus Pro : DM</p>"
+  },
+  {
+    "id": 3914120,
+    "order_number": "S00372",
+    "created": "2024-02-22T22:04:08+01:00",
+    "shipping_date": "2024-02-22",
+    "external_reference": "6000339",
+    "notes": "<p>Commande N&deg;6000339 du 21/02/2024<br />Contact : VARRAIN Val&eacute;rie<br />T&eacute;l : 02 41 84 13 85<br />E-mail :&nbsp;vvarrain@esbv.fr</p>"
+  },
+  {
+    "id": 3914124,
+    "order_number": "S00373",
+    "created": "2024-02-22T22:07:55+01:00",
+    "shipping_date": "2024-02-22",
+    "external_reference": "15188002",
+    "notes": "<p>Commande N&deg;15188002 du 21/02/2024<br />Contact : H&eacute;l&egrave;ne MACAIGNE<br />T&eacute;l : 03 24 38 76 82<br />Mail :&nbsp;helene.macaigne@ch-ghsa.fr</p>"
+  },
+  {
+    "id": 3914277,
+    "order_number": "S00377",
+    "created": "2024-02-23T23:10:25+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "2024/MN/400676",
+    "notes": "<p>Commande n&deg;2024/MN/400676 du 22/02/2024<br />Contact : VERONESE Fabien<br />T&eacute;l : 04 73 75 11 68<br />E-mail :&nbsp;fveronese@chu-clermontferrand.fr<br />Code Chorus : MN</p>"
+  },
+  {
+    "id": 3937057,
+    "order_number": "S00378",
+    "created": "2024-03-04T23:52:58+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "MA054578",
+    "notes": "<p>Commande N&deg;MA054578 du 22/02/2024<br />Contact : M SENUT REMI<br />T&eacute;l : 04 77 40 70 90<br />E-mail :&nbsp;magasin@hopital-lecorbusier.fr<br />Code chorus : MA</p>"
+  },
+  {
+    "id": 3914132,
+    "order_number": "S00379",
+    "created": "2024-02-22T22:10:02+01:00",
+    "shipping_date": "2024-02-22",
+    "external_reference": "2024/MED/195",
+    "notes": "<p>LIVRAISON PARTIELLE (600 unit&eacute;s au lieu de 1800 unit&eacute;s)<br />Commande N&deg;2024/MED/195 du 19/02/2024<br />Contact : QUEAU GWENAELLE<br />T&eacute;l : 02 98 52 61 63<br />Mail : gwenaelle.queau@ch-cornouaille.fr<br />Chorus code service : MED</p>"
+  },
+  {
+    "id": 3937749,
+    "order_number": "S00379",
+    "created": "2024-03-05T09:59:42+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "2024/MED/195",
+    "notes": "<p>COMPLEMENT DE LIVRAISON</p>\n<p>Commande N&deg;2024/MED/195 du 19/02/2024<br />Contact : QUEAU GWENAELLE<br />T&eacute;l : 02 98 52 61 63<br />Mail : gwenaelle.queau@ch-cornouaille.fr<br />Chorus code service : MED</p>"
+  },
+  {
+    "id": 3914162,
+    "order_number": "S00380",
+    "created": "2024-02-22T22:20:09+01:00",
+    "shipping_date": "2024-02-22",
+    "external_reference": "26227867",
+    "notes": "<p>Commande n&deg;26227867 du 21/02/2024<br />Contact : ONOFRE MELANIE<br />T&eacute;l : 04 48 79 22 34<br />Email :&nbsp;melanie.onofre@umontpellier.fr</p>"
+  },
+  {
+    "id": 3914166,
+    "order_number": "S00381",
+    "created": "2024-02-22T22:22:33+01:00",
+    "shipping_date": "2024-02-22",
+    "external_reference": "26228211",
+    "notes": "<p>Commande n&deg;26228211 du 21/02/2024<br />Contact : MITRAN MARIE-ANGE<br />T&eacute;l : 01 69 53 87 03<br />Email :&nbsp;marie-ange.mitran@scl.finances.gouv.fr</p>"
+  },
+  {
+    "id": 3914260,
+    "order_number": "S00382",
+    "created": "2024-02-23T22:56:46+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "2024/PHARM/1061",
+    "notes": "<p>Commande n&deg;2024/PHARM/1061 du 22/02/2024<br />Contact : MOTTIER AUDREY<br />T&eacute;l : 02 43 70 73 40<br />E-mail :&nbsp;preparateur@ch-hautanjou.fr<br />Service CHORUS PRO : PHARM</p>"
+  },
+  {
+    "id": 3938680,
+    "order_number": "S00383",
+    "created": "2024-03-04T15:16:10+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "1820237",
+    "notes": "<p>Commande n&deg;1820237 du 22/02/2024<br />Contact : SYLVIE ROBION<br />T&eacute;l : 02 32 73 35 23<br />E-mail :&nbsp;sylvie.robion@ch-havre.fr<br />Service CHORUS PRO : DRIB</p>"
+  },
+  {
+    "id": 3938739,
+    "order_number": "S00383",
+    "created": "2024-03-05T15:26:31+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "1820237",
+    "notes": "<p>Commande n&deg;1820237 du 22/02/2024<br />Contact : SYLVIE ROBION<br />T&eacute;l : 02 32 73 35 23<br />E-mail :&nbsp;sylvie.robion@ch-havre.fr<br />Service CHORUS PRO : DRIB</p>"
+  },
+  {
+    "id": 3914256,
+    "order_number": "S00384",
+    "created": "2024-02-23T22:55:07+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "745628",
+    "notes": "<p>Commande n&deg;745628 du 22/02/2024<br />Contact : Julie FRAYSSE PELLIZARRO<br />T&eacute;l : 04 73 51 10 57<br />Mail :&nbsp;prepa_pharm@ch-thiers.fr<br />Service CHORUS : CS03</p>"
+  },
+  {
+    "id": 3922217,
+    "order_number": "S00385",
+    "created": "2024-02-27T18:25:31+01:00",
+    "shipping_date": "2024-02-27",
+    "external_reference": "24003614",
+    "notes": "<p>Commande N&deg;24003614 du 20/02/2024<br />Contact : Mme RACAT Marie<br />T&eacute;l : 04 70 02 16 04<br />Courriel :&nbsp;n.oger@ch-montlucon.fr</p>"
+  },
+  {
+    "id": 3937062,
+    "order_number": "S00385",
+    "created": "2024-03-04T23:53:56+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "24003614",
+    "notes": "<p>Commande N&deg;24003614 du 20/02/2024<br />Contact : Mme RACAT Marie<br />T&eacute;l : 04 70 02 16 04<br />Courriel :&nbsp;n.oger@ch-montlucon.fr</p>"
+  },
+  {
+    "id": 3919420,
+    "order_number": "S00387",
+    "created": "2024-02-23T20:06:16+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "BC2024005115",
+    "notes": "<p>Commande N&deg;BC2024005115 du 22/02/2024<br />Personne &agrave; contacter : Mr Aur&eacute;lien LESAGE<br />T&eacute;l : 02 51 85 44 63<br />E-mail :&nbsp;contact.gestion-stocks@inovalys.fr<br />Code Service : NEBIO</p>"
+  },
+  {
+    "id": 3922107,
+    "order_number": "S00388",
+    "created": "2024-02-23T17:42:24+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "2024/PH/282",
+    "notes": "<p>Commande n&deg;2024/PH/282 du 23/02/2024<br />Contact : RABU NADINE<br />T&eacute;l : 03 86 77 76 88<br />E-mail :&nbsp;rabu.n@ght58.fr<br />Service CHORUS : PH</p>"
+  },
+  {
+    "id": 3914302,
+    "order_number": "S00389",
+    "created": "2024-02-23T23:32:58+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "E1375664",
+    "notes": "<p>Commande n&deg;E1375664 du 16/02/2024<br />Contact : Mme AUCLERE Nad&egrave;ge<br />T&eacute;l : 02 99 74 14 24<br />E-mail :&nbsp;nadege.auclere@ch-vitre.fr</p>"
+  },
+  {
+    "id": 3914310,
+    "order_number": "S00390",
+    "created": "2024-02-23T23:37:16+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "26234200",
+    "notes": "<p>Commande n&deg;26234200 du 22/02/2024<br />Contact : GOUNOU C&eacute;line<br />T&eacute;l : 05 40 00 68 00<br />Email :&nbsp;c.gauthier@cbmn.u-bordeaux.fr</p>"
+  },
+  {
+    "id": 3914317,
+    "order_number": "S00391",
+    "created": "2024-02-23T23:43:18+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "EK24-02",
+    "notes": "<p>Commande n&deg;EK24-02 du 24/01/2024<br />Contact : Esther Kitsoukou<br />T&eacute;l : 02 40 38 59 93<br />Email : magasin.prmt@ugecam.assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3914320,
+    "order_number": "S00392",
+    "created": "2024-02-23T23:47:42+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "1416546",
+    "notes": "<p>Commande N&deg;1416546 du 22/02/2024<br />Personne &agrave; contacter : Mme OHAYON Christelle<br />T&eacute;l : 04 42 84 70 29<br />E-mail :&nbsp;christelle.ohayon@ch-aubagne.fr</p>"
+  },
+  {
+    "id": 3914327,
+    "order_number": "S00393",
+    "created": "2024-02-23T23:53:40+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "24001800",
+    "notes": "<p>Commande n&deg;24001800 du 23/02/2024<br />Contact : Dr GALLIANO Sylvie<br />TEL : 04 92 73 42 46<br />Mail :&nbsp;sm.hopitaldejour@ch-manosque.fr<br />Code CHORUS : 3</p>"
+  },
+  {
+    "id": 3914329,
+    "order_number": "S00394",
+    "created": "2024-02-23T23:58:28+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "3056",
+    "notes": null
+  },
+  {
+    "id": 3914334,
+    "order_number": "S00395",
+    "created": "2024-02-24T00:01:18+01:00",
+    "shipping_date": "2024-02-23",
+    "external_reference": "CU140573",
+    "notes": "<p>Commande n&deg;CU140573 du 23/02/2024<br />Contact : Mme Doroth&eacute;e Pecani<br />T&eacute;l : 05 31 15 52 61<br />Mail :&nbsp;logipharma.ardm@chutoulouse.fr<br />Code service : PHAIUC</p>"
+  },
+  {
+    "id": 3937080,
+    "order_number": "S00396",
+    "created": "2024-03-04T00:03:24+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "P4414704",
+    "notes": "<p>Commande n&deg;P4414704 du 20/02/2024<br />Contact : KACED Yordanka<br />T&eacute;l : 05 49 44 43 45<br />E-mail :&nbsp;PrepCmdDMS@chu-poitiers.fr<br />Code CHORUS : FAC_CDE_NON_DEMAT</p>"
+  },
+  {
+    "id": 3940112,
+    "order_number": "S00397",
+    "created": "2024-03-05T22:29:50+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "PH195385",
+    "notes": "<p>Commande n&deg;PH195385 du 23/02/2024<br />Contact : Ang&eacute;lique QUENAULT<br />T&eacute;l : 03 86 27 61 35<br />E-mail :&nbsp;pharmacie@ch-clamecy.fr<br />Service CHORUS : Pharmacie</p>"
+  },
+  {
+    "id": 3915697,
+    "order_number": "S00398",
+    "created": "2024-01-26T11:55:14+01:00",
+    "shipping_date": "2024-01-26",
+    "external_reference": null,
+    "notes": "<p>Contact : A. Paillat<br />T&eacute;l : 05 49 50 40 51<br />Mail : pui@theodore-arnault.org</p>"
+  },
+  {
+    "id": 3915712,
+    "order_number": "S00399",
+    "created": "2024-02-12T13:10:34+01:00",
+    "shipping_date": "2024-02-12",
+    "external_reference": "23.6.2.a",
+    "notes": "<p>DM CACIC (P)<br />Contact : Laetitia GILARDI-PROUST<br />T&eacute;l : 04 75 82 72 21<br />Mail : Laetitia.GILARDIPROUST@SDIS26.fr</p>"
+  },
+  {
+    "id": 3917888,
+    "order_number": "S00400",
+    "created": "2024-02-26T14:25:04+01:00",
+    "shipping_date": "2024-02-26",
+    "external_reference": "23.11.15.a",
+    "notes": "<p>AO 2023-132<br />Contact : Isabelle Boussemart<br />T&eacute;l : 03 27 73 73 73<br />Mail : i.boussemart@ch-cambrai.fr</p>"
+  },
+  {
+    "id": 3919139,
+    "order_number": "S00401",
+    "created": "2024-02-26T18:59:37+01:00",
+    "shipping_date": "2024-02-26",
+    "external_reference": "MG749305",
+    "notes": "<p>Commande N&deg;MG749305 du 12/02/2024<br />Contact : CILLIER Severine<br />T&eacute;l : 03 23 38 54 15<br />E-mail : Severine.Cillier@ch-chauny.fr</p>"
+  },
+  {
+    "id": 3919149,
+    "order_number": "S00402",
+    "created": "2024-02-26T19:03:24+01:00",
+    "shipping_date": "2024-02-26",
+    "external_reference": "1302752",
+    "notes": "<p>Commande n&deg;1302752 du 21/02/2024<br />Contact : VALERIE PERCHAT<br />T&eacute;l : 05 57 55 34 57<br />Email :&nbsp;valerie.perchat@ch-libourne.fr<br />Code chorus : BIOMEDICAL</p>"
+  },
+  {
+    "id": 3919168,
+    "order_number": "S00403",
+    "created": "2024-02-26T19:09:33+01:00",
+    "shipping_date": "2024-02-26",
+    "external_reference": "PH172143",
+    "notes": "<p>Commande N&deg;PH172143 du 01/02/2024<br />Contact : Sabine RAETZ<br />T&eacute;l : 04 94 40 21 88<br />Mail : secretariat.pharmacie@chi-fsr.fr<br />Code Chorus : PHARMACIE</p>"
+  },
+  {
+    "id": 3919187,
+    "order_number": "S00404",
+    "created": "2024-02-26T19:11:57+01:00",
+    "shipping_date": "2024-02-26",
+    "external_reference": "PH172560",
+    "notes": "<p>Commande N&deg;PH172560 du 16/02/2024<br />Contact : Sabine RAETZ<br />T&eacute;l : 04 94 40 21 88<br />Mail : secretariat.pharmacie@chi-fsr.fr<br />Code Chorus : PHARMACIE</p>"
+  },
+  {
+    "id": 3919197,
+    "order_number": "S00405",
+    "created": "2024-02-26T19:13:51+01:00",
+    "shipping_date": "2024-02-26",
+    "external_reference": "PH172768",
+    "notes": "<p>Commande N&deg;PH172768 du 23/02/2024<br />Contact : Sabine RAETZ<br />T&eacute;l : 04 94 40 21 88<br />Mail : secretariat.pharmacie@chi-fsr.fr<br />Code Chorus : PHARMACIE</p>"
+  },
+  {
+    "id": 3919222,
+    "order_number": "S00406",
+    "created": "2024-02-26T19:16:02+01:00",
+    "shipping_date": "2024-02-26",
+    "external_reference": "C2400938",
+    "notes": "<p>Commande N&deg;C2400938 du 26/02/2024<br />Contact : Dr Bertocchio Fran&ccedil;oise<br />T&eacute;l : 04 92 25 24 58<br />Mail :&nbsp;pharmacie@ch-briancon.fr</p>"
+  },
+  {
+    "id": 3919238,
+    "order_number": "S00407",
+    "created": "2024-02-26T19:22:01+01:00",
+    "shipping_date": "2024-02-26",
+    "external_reference": "26240811",
+    "notes": "<p>Commande n&deg;26240811 du 23/02/2024<br />Contact : PERCHE F&eacute;d&eacute;rico<br />T&eacute;l : 02 38 25 55 40<br />Email :&nbsp;christine.gabant@cnrs-orleans.fr</p>"
+  },
+  {
+    "id": 3919261,
+    "order_number": "S00408",
+    "created": "2024-02-26T19:25:43+01:00",
+    "shipping_date": "2024-02-26",
+    "external_reference": "26241056",
+    "notes": "<p>Commande n&deg;26241056 du 23/02/2024<br />Contact : BOUSQUET Christine<br />T&eacute;l : 04 67 14 42 87<br />Email :&nbsp;christine.bousquet@umontpellier.fr</p>"
+  },
+  {
+    "id": 3922227,
+    "order_number": "S00409",
+    "created": "2024-02-27T18:28:36+01:00",
+    "shipping_date": "2024-02-27",
+    "external_reference": "50/1535174",
+    "notes": "<p>Commande N&deg;50/1535174 du 26/02/2024<br />Contact : Anne-Marie FREY<br />T&eacute;l : 03 89 12 53 01<br />E-mail :&nbsp;anne-marie.frey@ch-colmar.fr<br />Code CHORUS: 1A</p>"
+  },
+  {
+    "id": 3922223,
+    "order_number": "S00410",
+    "created": "2024-02-27T18:27:40+01:00",
+    "shipping_date": "2024-02-27",
+    "external_reference": "XM/2585625",
+    "notes": "<p>Commande N&deg;XM/2585625 du 26/02/2024<br />Contact : MULLER Florian<br />T&eacute;l : 04 66 68 30 80<br />Courriel :&nbsp;COMMANDEDMNS@chu-nimes.fr<br />Service CHORUS : 002</p>"
+  },
+  {
+    "id": 3922212,
+    "order_number": "S00411",
+    "created": "2024-02-27T18:24:00+01:00",
+    "shipping_date": "2024-02-27",
+    "external_reference": "PHARM3430",
+    "notes": "<p>Commande N&deg;PHARM3430 du 26/02/2024<br />Contact : Mme B&eacute;n&eacute;dicte JAUDRAY<br />T&eacute;l : 02 43 43 43 76<br />Mail :&nbsp;pharmacietracabilitecommande@ch-lemans.fr<br />Code CHORUS : PHARM</p>"
+  },
+  {
+    "id": 3919370,
+    "order_number": "S00412",
+    "created": "2024-02-26T19:49:46+01:00",
+    "shipping_date": "2024-02-26",
+    "external_reference": "23.7.3.c",
+    "notes": "<p>DM USAGE COURANT VF<br />Contact : Mme Canchon<br />T&eacute;l : 02 32 88 14 72<br />Mail : Marianne.Arrii@chu-rouen.fr</p>"
+  },
+  {
+    "id": 3922246,
+    "order_number": "S00413",
+    "created": "2024-02-27T18:35:23+01:00",
+    "shipping_date": "2024-02-27",
+    "external_reference": "26255733",
+    "notes": "<p>Commande n&deg;26255733 du 26/02/2024<br />Contact : MOHAMMEDI Rabei<br />T&eacute;l : 01 69 33 47 00<br />Email :&nbsp;hopheybea.da-silva@polytechnique.edu</p>"
+  },
+  {
+    "id": 3922252,
+    "order_number": "S00414",
+    "created": "2024-02-27T18:38:26+01:00",
+    "shipping_date": "2024-02-27",
+    "external_reference": "26254738",
+    "notes": "<p>Commande n&deg;26254738 du 26/02/2024<br />Contact : VANPOUCKE AURORE<br />T&eacute;l : 02 28 08 02 13<br />Email :&nbsp;aurore.vanpoucke@univ-nantes.fr</p>"
+  },
+  {
+    "id": 3922258,
+    "order_number": "S00415",
+    "created": "2024-02-27T18:41:40+01:00",
+    "shipping_date": "2024-02-27",
+    "external_reference": "26254466",
+    "notes": "<p>Commande n&deg;26254466 du 26/02/2024<br />Contact : LOSLIER CAROLE<br />T&eacute;l : 02 31 47 02 19<br />Email :&nbsp;loslier@cyceron.fr</p>"
+  },
+  {
+    "id": 3922270,
+    "order_number": "S00416",
+    "created": "2024-02-27T18:45:24+01:00",
+    "shipping_date": "2024-02-27",
+    "external_reference": "2517/24023",
+    "notes": "<p>Commande N&deg;2517/24023 du 22/01/2024<br />Contact : William Lahcene<br />T&eacute;l : 03 87 81 80 49<br />E-mail :&nbsp;william.lahcene@filieris.fr</p>"
+  },
+  {
+    "id": 3937051,
+    "order_number": "S00417",
+    "created": "2024-03-04T23:47:31+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "24003041",
+    "notes": "<p>Commande N&deg;24003041 du 26/02/2024<br />Contact : PERRIN EVAN<br />T&eacute;l : 04 77 44 30 18<br />Mail :&nbsp;Central.MAGASIN@ch-roanne.fr<br />Service Chorus: C46MAL42</p>"
+  },
+  {
+    "id": 3927368,
+    "order_number": "S00418",
+    "created": "2024-02-28T15:59:14+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "725769",
+    "notes": "<p>Commande N&deg;725769 du 27/02/2024<br />Contact : AIRIAU Caroline<br />T&eacute;l : 02 41 49 66 17<br />E-mail :&nbsp;direction@ch-cholet.fr</p>"
+  },
+  {
+    "id": 3927457,
+    "order_number": "S00419",
+    "created": "2024-02-28T16:20:03+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "P 478071",
+    "notes": "<p>Commande : P 478071 du 26/02/2024<br />Contact : Dr ARMAND-BRANGER Sophie<br />T&eacute;l : 02 41 80 79 21<br />E-mail :&nbsp;dg.secretariat@ch-cesame-angers.fr</p>"
+  },
+  {
+    "id": 3927463,
+    "order_number": "S00420",
+    "created": "2024-02-28T16:21:42+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "2024/MAG/200122",
+    "notes": "<p>Commande N&deg;2024/MAG/200122 du 27/02/2024<br />Contact : DAMANT CINDY<br />T&eacute;l : 03 83 15 36 59<br />Mail :&nbsp;c.damant@chru-nancy.fr<br />Code CHORUS : MAG</p>"
+  },
+  {
+    "id": 3927464,
+    "order_number": "S00421",
+    "created": "2024-02-28T16:23:07+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "4P-2024-25949",
+    "notes": "<p>Commande N&deg;4P-2024-25949 du 27/02/2024<br />Contact : Mr SCHOENN Jeremy<br />T&eacute;l : 03 69 55 33 21<br />E-mail :&nbsp;jeremy.schoenn@chrustrasbourg.fr<br />Code CHORUS : AFFAIRES_LOGISTIQUES</p>"
+  },
+  {
+    "id": 3936562,
+    "order_number": "S00422",
+    "created": "2024-03-04T20:20:10+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "S-2024-33864",
+    "notes": "<p>Commande N&deg;JS-2024-33864 du 27/02/2024<br />Contact : Bauer Martine<br />T&eacute;l : 03 88 11 60 96<br />E-mail :&nbsp;Martine.Bauer@chrustrasbourg.fr<br />Code CHORUS : AFFAIRES_LOGISTIQUES</p>"
+  },
+  {
+    "id": 3937053,
+    "order_number": "S00423",
+    "created": "2024-03-04T23:49:12+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "24003820",
+    "notes": "<p>Commande n&deg;24003820 du 27/02/2024<br />Contact : DA COSTA Charlotte<br />T&eacute;l : 04 70 97 22 82<br />Email :&nbsp;Charlotte.DaCosta@ch-vichy.fr<br />Service CHORUS : PHA</p>"
+  },
+  {
+    "id": 3937032,
+    "order_number": "S00424",
+    "created": "2024-03-04T23:37:03+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "2024/GCENT/253",
+    "notes": "<p>Commande n&deg;2024/GCENT/253 du 01/03/2024<br />Contact : ZARAGOZA Anne Laure<br />T&eacute;l : 04 42 43 27 20<br />E-mail :&nbsp;magasin.central@ch-martigues.fr<br />CHORUS PRO : GCENT</p>"
+  },
+  {
+    "id": 3927468,
+    "order_number": "S00425",
+    "created": "2024-02-28T16:24:12+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "405-5213726-4853165",
+    "notes": "<p>Commande n&deg;405-5213726-4853165 du 26/02/2024<br />T&eacute;l : +59 06 90 40 30 12</p>"
+  },
+  {
+    "id": 3927540,
+    "order_number": "S00426",
+    "created": "2024-02-28T16:50:16+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "26264021",
+    "notes": "<p>Commande n&deg;26264021 du 27/02/2024<br />Contact : MONFORT MARIE-SOPHIE<br />T&eacute;l : 04 67 14 38 59<br />Email :&nbsp;marie-sophie.monfort@umontpellier.fr</p>"
+  },
+  {
+    "id": 3927563,
+    "order_number": "S00427",
+    "created": "2024-02-28T16:57:32+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "26263460",
+    "notes": "<p>Commande n&deg;26263460 du 27/02/2024<br />Contact : VENET Anne-Sophie<br />T&eacute;l : 02 47 36 60 79<br />Email :&nbsp;anne-sophie.venet@univ-tours.fr</p>"
+  },
+  {
+    "id": 3927478,
+    "order_number": "S00428",
+    "created": "2024-02-28T16:27:52+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "26262585",
+    "notes": "<p>Commande n&deg;26262585 du 27/02/2024<br />Contact : DI MAURO Diane<br />T&eacute;l : 04 13 94 58 60<br />Email :&nbsp;diane.di-mauro@univ-amu.fr</p>"
+  },
+  {
+    "id": 3927482,
+    "order_number": "S00429",
+    "created": "2024-02-28T16:30:03+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "26262518",
+    "notes": "<p>Commande n&deg;26262518 du 27/02/2024<br />Contact : DI MAURO Diane<br />T&eacute;l : 04 13 94 58 60<br />Email :&nbsp;diane.di-mauro@univ-amu.fr</p>"
+  },
+  {
+    "id": 3927556,
+    "order_number": "S00430",
+    "created": "2024-02-28T16:56:14+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "26261720",
+    "notes": "<p>Commande n&deg;26261720 du 27/02/2024<br />Contact : RIFF JONATHAN<br />T&eacute;l : 03 68 85 16 00<br />Email :&nbsp;magasinchimie@unistra.fr</p>"
+  },
+  {
+    "id": 3926661,
+    "order_number": "S00431",
+    "created": "2024-02-29T11:18:34+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "24.3.4.a",
+    "notes": "<p>AO n&deg;2024AODRAPAGE<br />Contact : &nbsp;Madame CELETTE Sabine<br />T&eacute;l : 0<span aria-label=\"Appeler le +33 4 69 15 70 00\">4 69 15 70 00</span><br />Mail : scelette@ghnd.fr<br /><br /></p>\n<p>&nbsp;</p>"
+  },
+  {
+    "id": 3927067,
+    "order_number": "S00432",
+    "created": "2024-02-29T14:19:24+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "24.3.8.c",
+    "notes": "<p>AO n&deg;2024-09<br />Contact : Mme Astrid CHARLIER<br />T&eacute;l : 0<span aria-label=\"Appeler le +33 3 25 49 49 49\">3 25 49 49 49</span><br />Mail : direction@ch-troyes.fr</p>"
+  },
+  {
+    "id": 3937041,
+    "order_number": "S00433",
+    "created": "2024-03-04T23:40:28+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "22788719",
+    "notes": "<p>Commande N&deg;22788719 du 28/02/2024<br />Contact : Mme LORENZ Aur&eacute;lie<br />T&eacute;l : 03 26 83 24 59<br />Mail :&nbsp;apierret@chu-reims.fr<br />Code CHORUS : Pharmacie-DM_FACP</p>"
+  },
+  {
+    "id": 3947684,
+    "order_number": "S00434",
+    "created": "2024-03-08T14:54:32+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "24008468",
+    "notes": "<p>Commande N&deg;24008468 du 27/02/2024<br />Contact : FERNEZ Tatiana<br />T&eacute;l : 05 46 95 10 16<br />Mail :&nbsp;magasin-central@ch-saintonge.fr<br />Code CHORUS : MEDIC</p>"
+  },
+  {
+    "id": 3953852,
+    "order_number": "S00435",
+    "created": "2024-03-11T16:12:04+01:00",
+    "shipping_date": "2024-03-11",
+    "external_reference": "26277494",
+    "notes": "<p>Commande n&deg;26277494 du 28/02/2024<br />Contact : VALERY GUILLOU<br />T&eacute;l : 06 06 47 94 43<br />Email :&nbsp;guillou@cerege.fr</p>"
+  },
+  {
+    "id": 3928142,
+    "order_number": "S00436",
+    "created": "2024-02-29T20:04:17+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "2024/MN/400742",
+    "notes": "<p>Commande n&deg;2024/MN/400742 du 29/02/2024<br />Contact : VERONESE Fabien<br />T&eacute;l : 04 73 75 11 68<br />E-mail :&nbsp;fveronese@chu-clermontferrand.fr<br />Code Chorus : MN</p>"
+  },
+  {
+    "id": 3930753,
+    "order_number": "S00437",
+    "created": "2024-03-01T19:14:22+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "2079",
+    "notes": "<p>Commande N&deg;2079 du 29/02/2024<br />Contact : GRASSIN Emilie<br />T&eacute;l : 02 43 44 77 77<br />E-mail :&nbsp;efigueiredo@ch-chateauduloir.fr</p>"
+  },
+  {
+    "id": 3937087,
+    "order_number": "S00438",
+    "created": "2024-03-04T00:06:30+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "24001992",
+    "notes": "<p>Commande n&deg;24001992 du 27/02/2024<br />Contact : Giacometti C&eacute;cile<br />Tel : 04 90 44 97 87<br />Email :&nbsp;cecile.giacometti@ch-salon.fr<br />CODE CHORUS : DASITAPPRO</p>"
+  },
+  {
+    "id": 3930755,
+    "order_number": "S00439",
+    "created": "2024-03-01T19:15:33+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "107230",
+    "notes": "<p>Commande n&deg;107230 du 29/02/2024<br />Contact : M LEVILLAIN Jean-Pascal<br />T&eacute;l : 03 86 73 37 33<br />E-mail :&nbsp;jplevillain@gcsp89.fr</p>"
+  },
+  {
+    "id": 3927841,
+    "order_number": "S00440",
+    "created": "2024-02-28T18:23:44+01:00",
+    "shipping_date": "2024-02-28",
+    "external_reference": "26240452",
+    "notes": "<p>Commande n&deg;26240452 du 23/02/2024<br />Contact : LE MAITRE Anne-Sophie<br />T&eacute;l : 02 51 12 57 30<br />Email :&nbsp;anne-sophie.lemaitre@univ-nantes.fr</p>"
+  },
+  {
+    "id": 3927857,
+    "order_number": "S00441",
+    "created": "2024-02-29T18:32:00+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157353",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98663 &ndash; Cr&egrave;che Picoty<br />N&deg; d'engagement : E157353<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927862,
+    "order_number": "S00442",
+    "created": "2024-02-29T18:35:26+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157348",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg; E98591 &ndash; Cr&egrave;che Bouquet de Soleils<br />N&deg; d'engagement : E157348<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927866,
+    "order_number": "S00443",
+    "created": "2024-02-29T18:39:33+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157355",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98666 &ndash; Cr&egrave;che Les Petits Paris<br />N&deg; d'engagement : E157355<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927871,
+    "order_number": "S00444",
+    "created": "2024-02-29T18:42:05+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157402",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Commande N&deg;: E98740 &ndash; Cr&egrave;che Tom Pouce<br />N&deg; d'engagement : E157402<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927901,
+    "order_number": "S00445",
+    "created": "2024-02-29T18:50:25+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157406",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98745 &ndash; Cr&egrave;che Les Neiges<br />N&deg; d'engagement : E157406<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927917,
+    "order_number": "S00446",
+    "created": "2024-02-29T18:53:52+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157349",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98648 &ndash; Cr&egrave;che Les Gramminis<br />N&deg; d'engagement : E157349<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927925,
+    "order_number": "S00447",
+    "created": "2024-02-29T18:57:45+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157364",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98688 &ndash; Cr&egrave;che Coccinelle<br />N&deg; d'engagement : E157364<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927929,
+    "order_number": "S00448",
+    "created": "2024-02-29T19:00:31+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157350",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98654 &ndash; Cr&egrave;che Boite &agrave; Calins<br />N&deg; d'engagement : E157350<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927934,
+    "order_number": "S00449",
+    "created": "2024-02-29T19:03:24+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157374",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98704 &ndash; Cr&egrave;che Les Petits Loups<br />N&deg; d'engagement : E157374<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927947,
+    "order_number": "S00450",
+    "created": "2024-02-29T19:06:45+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157379",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98706 &ndash; Cr&egrave;che Les Coquelicots<br />N&deg; d'engagement : E157379<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927951,
+    "order_number": "S00451",
+    "created": "2024-02-29T19:09:15+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157397",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98727 &ndash; Cr&egrave;che Pomme de Reinette<br />N&deg; d'engagement : E157397<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927958,
+    "order_number": "S00452",
+    "created": "2024-02-29T19:13:16+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157369",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98697 &ndash; Cr&egrave;che Le Toboggan Jaune<br />N&deg; d'engagement : E157369<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927962,
+    "order_number": "S00453",
+    "created": "2024-02-29T19:15:48+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157367",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98694 &ndash; Cr&egrave;che Sergent Goubin<br />N&deg; d'engagement : E157367<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927990,
+    "order_number": "S00454",
+    "created": "2024-02-29T19:19:18+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157400",
+    "notes": "<div class=\"container\">\n<div class=\"section\">\n<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98748 &ndash; Cr&egrave;che de Rouelles<br />N&deg; d'engagement : E157400<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>\n</div>\n</div>"
+  },
+  {
+    "id": 3927994,
+    "order_number": "S00455",
+    "created": "2024-02-29T19:21:37+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157387",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98713 &ndash; Cr&egrave;che Louis Blanc<br />N&deg; d'engagement : E157387<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3927997,
+    "order_number": "S00456",
+    "created": "2024-02-29T19:23:41+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157360",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98669 &ndash; Cr&egrave;che Brindeau<br />N&deg; d'engagement : E157360<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3928014,
+    "order_number": "S00457",
+    "created": "2024-02-29T19:27:35+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E157390",
+    "notes": "<p>March&eacute; N&deg;: 2022372214<br />Fourniture et livraison de couches jetables pour les enfants de 0 &agrave; 5 ans dans les &eacute;tablissements d&rsquo;accueil du jeune enfant<br />Bon de commande N&deg;E98719 &ndash; Cr&egrave;che des Gobelins<br />N&deg; d'engagement : E157390<br />P&eacute;riode de livraison : du 01/02/2024 au 29/02/2024</p>"
+  },
+  {
+    "id": 3928135,
+    "order_number": "S00458",
+    "created": "2024-02-29T20:02:41+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "CAMS508397",
+    "notes": "<p>Commande N&deg;CAMS508397 du 28/02/2024<br />Contact : Vera Boiko-Alaux<br />T&eacute;l : 04 73 75 17 79<br />E-mail :&nbsp;aenguix@chu-clermontferrand.fr<br />Code CHORUS : CAMS</p>"
+  },
+  {
+    "id": 3928158,
+    "order_number": "S00459",
+    "created": "2024-02-29T20:13:10+01:00",
+    "shipping_date": "2024-02-29",
+    "external_reference": "E211816",
+    "notes": "<p>Compl&eacute;ment commande : BC2401363 du 02/02/2024&nbsp;</p>"
+  },
+  {
+    "id": 3997724,
+    "order_number": "S00459",
+    "created": "2024-03-27T16:23:04+01:00",
+    "shipping_date": "2024-03-27",
+    "external_reference": "E211816",
+    "notes": "<p>BC2401634 du 25/03/2024</p>"
+  },
+  {
+    "id": 3930505,
+    "order_number": "S00460",
+    "created": "2024-03-01T17:44:11+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "24.3.5.a",
+    "notes": "<p>AO n&deg; MAPA 2024.011<br />Contact : &nbsp;Monsieur Truillard Sylvain<br />T&eacute;l : 02 37 53 75 75<br />Mail : <a href=\"mailto:direction@ch-nogentlerotrou.fr\">direction@ch-nogentlerotrou.fr</a></p>"
+  },
+  {
+    "id": 3930526,
+    "order_number": "S00461",
+    "created": "2024-03-01T17:54:31+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "24.3.5.a",
+    "notes": "<p>AO n&deg; MAPA 2024.011<br />Contact : &nbsp;Monsieur Truillard Sylvain<br />T&eacute;l : 02 37 51 52 53<br />Mail : <a href=\"mailto:direction@ch-dreux.fr\">direction@ch-dreux.fr</a></p>"
+  },
+  {
+    "id": 3947750,
+    "order_number": "S00462",
+    "created": "2024-03-08T15:12:15+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "24001036",
+    "notes": "<p>Commande n&deg;24001036 du 29/02/2024<br />Contact : Mme Christine MONTES<br />T&eacute;l : 03 86 34 66 36<br />Email :&nbsp;christine.montes@ch-avallon.fr</p>"
+  },
+  {
+    "id": 3978068,
+    "order_number": "S00463",
+    "created": "2024-03-20T08:15:10+01:00",
+    "shipping_date": "2024-03-20",
+    "external_reference": "BC2024005624",
+    "notes": "<p>Commande N&deg;BC2024005624 du 29/02/2024<br />Personne &agrave; contacter : Mr Vincent GEMIN<br />T&eacute;l : 02 51 85 44 63<br />E-mail :&nbsp;contact.gestion-stocks@inovalys.fr<br />Code Service : NAOEN</p>"
+  },
+  {
+    "id": 3930761,
+    "order_number": "S00464",
+    "created": "2024-03-01T19:17:25+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "CAMS508689",
+    "notes": "<p>Commande N&deg;CAMS508689 du 01/03/2024<br />Contact : Vera Boiko-Alaux<br />T&eacute;l : 04 73 75 17 79<br />E-mail :&nbsp;aenguix@chu-clermontferrand.fr<br />Code CHORUS : CAMS</p>"
+  },
+  {
+    "id": 3930766,
+    "order_number": "S00465",
+    "created": "2024-03-01T19:18:49+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "PH172900",
+    "notes": "<p>Commande N&deg;PH172900 du 01/03/2024<br />Contact : Sabine RAETZ<br />T&eacute;l : 04 94 40 20 31<br />E-Mail :&nbsp;sabine.raetz@chi-fsr.fr<br />Code Chorus : PHARMACIE</p>"
+  },
+  {
+    "id": 3930774,
+    "order_number": "S00466",
+    "created": "2024-03-01T19:21:23+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "FM125977",
+    "notes": "<p>Commande N&deg;FM125977 du 29/02/2024<br />Contact : Mme BUFFARD SYLVIANE<br />T&eacute;l : 02 31 06 51 03<br />Courriel :&nbsp;buffard-s@chu-caen.fr<br />Code CHORUS : FMC</p>"
+  },
+  {
+    "id": 3930772,
+    "order_number": "S00467",
+    "created": "2024-03-01T19:20:45+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "A9/2586862",
+    "notes": "<p>Commande N&deg;A9/2586862 du 01/03/2024<br />Contact : M Jean Marie KINOWSKI<br />T&eacute;l : 04 66 68 31 04<br />Courriel :&nbsp;COMMANDEDMNS@chu-nimes.fr<br />Service CHORUS : 002</p>"
+  },
+  {
+    "id": 3930769,
+    "order_number": "S00468",
+    "created": "2024-03-01T19:19:50+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "407-8804602-2811531",
+    "notes": "<p>Commande N&deg;407-8804602-2811531 du 01/03/2024<br />Contact : Anne-Sophie Biclet<br />T&eacute;l : 06 62 63 32 47</p>"
+  },
+  {
+    "id": 3930791,
+    "order_number": "S00469",
+    "created": "2024-03-01T19:25:28+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "26287851",
+    "notes": "<p>Commande n&deg;26287851 du 29/02/2024<br />Contact : VOGELS Amal<br />T&eacute;l : 01 60 87 35 14<br />Email :&nbsp;amal.vogels@genopole.fr</p>"
+  },
+  {
+    "id": 3930793,
+    "order_number": "S00470",
+    "created": "2024-03-01T19:26:45+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "26287641",
+    "notes": "<p>Commande n&deg;26287641 du 29/02/2024<br />Contact : Mme MYRIAM Ramadour<br />T&eacute;l : 04 91 82 87 18<br />Email :&nbsp;myriam.ramadour@inserm.fr</p>"
+  },
+  {
+    "id": 3930778,
+    "order_number": "S00471",
+    "created": "2024-03-01T19:24:17+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "26287278",
+    "notes": "<p>Commande n&deg;26287278 du 29/02/2024<br />Contact : LEFEVRE-VIVIER BENOIT<br />T&eacute;l : 06 73 50 42 39<br />Email :&nbsp;benoit.lefevre-vivier@msm-normandie.fr</p>"
+  },
+  {
+    "id": 3930776,
+    "order_number": "S00472",
+    "created": "2024-03-01T19:22:39+01:00",
+    "shipping_date": "2024-03-01",
+    "external_reference": "P2476",
+    "notes": "<p>Commande n&deg;P2476 du 01/03/2024<br />Contact : Laure Guillossou<br />T&eacute;l : 02 72 27 85 96<br />E-Mail :&nbsp;pharmacie.arsenal@ch-saintnazaire.fr</p>"
+  },
+  {
+    "id": 3934317,
+    "order_number": "S00473",
+    "created": "2024-03-04T11:20:10+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "BC2024005816",
+    "notes": "<p>Commande N&deg;BC2024005816 du 04/03/2024<br />Personne &agrave; contacter : Mr Aur&eacute;lien LESAGE<br />T&eacute;l : 02 97 46 14 15<br />E-mail : contact.gestion-stocks@inovalys.fr<br />Code Service : VVBIM</p>"
+  },
+  {
+    "id": 3934336,
+    "order_number": "S00474",
+    "created": "2024-03-04T11:25:20+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "4510669961 ",
+    "notes": "<p>Commande n&deg;4510669961 du 04/03/2024<br />Contact : DIOT Catherine<br />T&eacute;l : 01 42 49 45 88<br />Email : catherine.diot@sls.aphp.fr<br />Code chorus : 076</p>"
+  },
+  {
+    "id": 3935968,
+    "order_number": "S00475",
+    "created": "2024-03-04T17:43:39+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "26293621",
+    "notes": "<p>Commande n&deg;26293621 du 01/03/2024<br />Contact : CATHERINE LE-CALLONEC<br />T&eacute;l : 01 80 00 63 58<br />Email :&nbsp;sandrine.delarue-cochin@universite-paris-saclay.fr</p>"
+  },
+  {
+    "id": 3935969,
+    "order_number": "S00476",
+    "created": "2024-03-04T17:44:11+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "26293251 ",
+    "notes": "<p>Commande n&deg;26293251 du 01/03/2024<br />Contact : PERAL FABRICE<br />T&eacute;l : 06 83 76 18 11<br />Email :&nbsp;fperal@igesa.fr</p>"
+  },
+  {
+    "id": 3935973,
+    "order_number": "S00477",
+    "created": "2024-03-04T17:45:05+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "26293197 ",
+    "notes": null
+  },
+  {
+    "id": 3937738,
+    "order_number": "S00478",
+    "created": "2024-03-05T09:53:22+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "2024/ECO/401",
+    "notes": "<p>COMMANDE: 2024/ECO/401 du 04/03/2024<br />Personne &agrave; contacter : PAMART Pascal<br />Mail :&nbsp;pamart-p@ch-valenciennes.fr<br />T&eacute;l : 03 27 14 33 33<br />Service : ECO</p>"
+  },
+  {
+    "id": 3937741,
+    "order_number": "S00479",
+    "created": "2024-03-05T09:54:20+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "PD1/688171",
+    "notes": "<p>Commande N&deg;PD1/688171 du 04/03/2024<br />Contact : Dr Anne MEUNIER<br />T&eacute;l : 04 78 86 33 59<br />Mail :&nbsp;eugeniagisela.diaz-garcia@chu-lyon.fr<br />Code CHORUS : SGL19</p>"
+  },
+  {
+    "id": 3937743,
+    "order_number": "S00480",
+    "created": "2024-03-05T09:55:49+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "0212210 ",
+    "notes": "<p>Commande n&deg; 0212210 du 04/03/2024<br />Contact : GLEIZE Alexandrine<br />T&eacute;l : 04 73 71 88 25<br />E-mail :&nbsp;agleize@ch-issoire.fr<br />Code chorus : 02 pharmacie</p>"
+  },
+  {
+    "id": 3937745,
+    "order_number": "S00481",
+    "created": "2024-03-05T09:56:35+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "C2401791",
+    "notes": "<p>Commande n&deg;C2401791 du 04/03/2024<br />Contact : Margo ANGELETTI<br />T&eacute;l : 03 86 86 19 61<br />Mail :&nbsp;mangeletti@ch-sens.fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3937746,
+    "order_number": "S00482",
+    "created": "2024-03-05T09:57:20+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "E211820",
+    "notes": "<p>BC2401609 du 04/03/2024</p>"
+  },
+  {
+    "id": 3965542,
+    "order_number": "S00482",
+    "created": "2024-03-15T10:39:32+01:00",
+    "shipping_date": "2024-03-15",
+    "external_reference": "E211820",
+    "notes": "<p>BC2401625 du 14/03/2024</p>"
+  },
+  {
+    "id": 3937077,
+    "order_number": "S00483",
+    "created": "2024-03-04T00:01:17+01:00",
+    "shipping_date": "2024-03-04",
+    "external_reference": "2024/MAG/20013",
+    "notes": "<p>Commande N&deg;2024/MAG/200134 du 28/02/2024<br />Contact : DAMANT CINDY<br />T&eacute;l : 03 83 15 36 59<br />Mail :&nbsp;c.damant@chru-nancy.fr<br />Code CHORUS : MAG</p>"
+  },
+  {
+    "id": 3937772,
+    "order_number": "S00484",
+    "created": "2024-03-05T10:15:43+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "A9/2587430",
+    "notes": "<p>Commande N&deg;A9/2587430 du 05/03/2024<br />Contact : MULLER Florian<br />T&eacute;l : 04 66 68 30 80<br />Courriel :&nbsp;COMMANDEDMNS@chu-nimes.fr<br />Service CHORUS : 002</p>"
+  },
+  {
+    "id": 3937894,
+    "order_number": "S00485",
+    "created": "2024-03-05T10:57:56+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "26298902 ",
+    "notes": "<p>Commande n&deg;26298902 du 04/03/2024<br />Contact : FABRE Catherine<br />T&eacute;l : 06 27 64 40 15<br />Email :&nbsp;catherine.fabre@univ-grenoble-alpes.fr</p>"
+  },
+  {
+    "id": 3937903,
+    "order_number": "S00486",
+    "created": "2024-03-05T11:01:25+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "26300339 ",
+    "notes": "<p>Commande n&deg;26300339 du 04/03/2024<br />Contact : BLANCHET Jerome<br />T&eacute;l : 02 31 45 28 74<br />Email :&nbsp;jerome.blanchet@ensicaen.fr</p>"
+  },
+  {
+    "id": 3937953,
+    "order_number": "S00487",
+    "created": "2024-03-05T11:19:40+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "4501769917 ",
+    "notes": "<p>Commande n&deg;4501769917 du 04/03/2024<br />Contact : Mr NESSILI<br />T&eacute;l : 04 91 01 25 90<br />Email :&nbsp;Herve.LIGOT@efs.sante.fr</p>"
+  },
+  {
+    "id": 3938196,
+    "order_number": "S00488",
+    "created": "2024-03-05T12:26:00+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "2402749 ",
+    "notes": "<p>Commande N&deg;2402749 du 05/03/2024<br />CONTACT: C&eacute;cile PARTANT<br />T&eacute;l : 02 98 52 61 24<br />mail :&nbsp;c.partant@ch-cornouaille.fr<br />Chorus code service : COPHQ</p>"
+  },
+  {
+    "id": 3938244,
+    "order_number": "S00489",
+    "created": "2024-03-05T12:37:50+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "2024/ADMED/11321",
+    "notes": "<p>Commande n&deg;2024/ADMED/11321 du 05/03/2024<br />Contact : GILME Gabin<br />T&eacute;l : 03 62 94 37 01<br />Mail :&nbsp;Gabin.GILME@chu-lille.fr<br />Code service : ADMED</p>"
+  },
+  {
+    "id": 3938249,
+    "order_number": "S00490",
+    "created": "2024-03-05T12:46:44+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "E211798",
+    "notes": "<p>BC2401610 DU 04/03/2024</p>"
+  },
+  {
+    "id": 3956456,
+    "order_number": "S00490",
+    "created": "2024-03-12T12:14:37+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "E211798",
+    "notes": "<p>BC2401610 DU 04/03/2024</p>"
+  },
+  {
+    "id": 3974908,
+    "order_number": "S00490",
+    "created": "2024-03-19T09:59:51+01:00",
+    "shipping_date": "2024-03-19",
+    "external_reference": "E211798",
+    "notes": "<p>BC2401628 DU 18/03/2024</p>"
+  },
+  {
+    "id": 3938268,
+    "order_number": "S00491",
+    "created": "2024-03-05T12:52:53+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "E211795",
+    "notes": "<p>BC2401611 DU 04/03/2024</p>"
+  },
+  {
+    "id": 3956005,
+    "order_number": "S00491",
+    "created": "2024-03-12T10:27:32+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "E211795",
+    "notes": "<p>BC2401611 DU 04/03/2024</p>"
+  },
+  {
+    "id": 3974978,
+    "order_number": "S00491",
+    "created": "2024-03-19T10:17:41+01:00",
+    "shipping_date": "2024-03-19",
+    "external_reference": "E211795",
+    "notes": "<p>BC2401629 DU 19/03/2024</p>"
+  },
+  {
+    "id": 3993920,
+    "order_number": "S00491",
+    "created": "2024-03-26T13:05:26+01:00",
+    "shipping_date": "2024-03-26",
+    "external_reference": "E211795",
+    "notes": "<p>BC2401635 DU 26/03/2024</p>"
+  },
+  {
+    "id": 3938281,
+    "order_number": "S00492",
+    "created": "2024-03-05T13:03:11+01:00",
+    "shipping_date": "2024-03-05",
+    "external_reference": "BC2401612 ",
+    "notes": "<p>Commande n&deg;BC2401612 du 04/03/2024<br />Contact : Sabine MATHIEU<br />T&eacute;l : 05 56 77 37 39<br />Mail :&nbsp;sabine.mathieu@ugecam.assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3940683,
+    "order_number": "S00493",
+    "created": "2024-03-06T09:17:20+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "24000895",
+    "notes": "<p>Commande N&deg;24000895 du 05/03/2024<br />Contact : Dr. CRAVEUR-PILVEN<br />T&eacute;l : 02 43 35 03 40<br />Mail :&nbsp;cleray@ch-saintcalais.fr</p>"
+  },
+  {
+    "id": 3940686,
+    "order_number": "S00494",
+    "created": "2024-03-06T09:20:01+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "PHARM3826 ",
+    "notes": "<p>Commande N&deg;PHARM3826 du 05/03/2024<br />Contact : Mme B&eacute;n&eacute;dicte JAUDRAY<br />T&eacute;l : 02 43 43 43 76<br />Mail :&nbsp;pharmacietracabilitecommande@ch-lemans.fr<br />Code CHORUS : PHARM</p>"
+  },
+  {
+    "id": 3940689,
+    "order_number": "S00495",
+    "created": "2024-03-06T09:22:57+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "PH55984 ",
+    "notes": "<p>Commande N&deg;PH55984 du 05/03/2024<br />Contact : Nelly Riolo<br />T&eacute;l : 03 20 69 44 50<br />E-mail :&nbsp;preparateurdmpharmacie@ch-tourcoing.fr<br />Code CHORUS : PHARM</p>"
+  },
+  {
+    "id": 3940720,
+    "order_number": "S00496",
+    "created": "2024-03-06T09:30:45+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "2024/GPECO/1654",
+    "notes": "<p>Commande n&deg;2024/GPECO/1654 du 05/03/2024<br />Adresse de livraison : POLE LOGISTIQUE , MAG GAL. PHARMA, ROUTE DE MOVAL , 90400 TREVENANS<br />Contact : Pascal CAGNON<br />T&eacute;l : 03 84 98 26 49<br />Email :&nbsp;Pascal.CAGNON@hnfc.fr<br />Service Chorus Pro : GPECO</p>"
+  },
+  {
+    "id": 3940772,
+    "order_number": "S00497",
+    "created": "2024-03-06T09:45:23+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "DI712043 ",
+    "notes": "<p>Commande N&deg;DI712043 du 05/03/2024<br />Adresse de livraison : UCAADMS Secteur DMS quai liv pharmacie Pasteur 2, 30, ave de la voie romaine CS CS51069, 06001 Nice cedex1<br />Contact : St&eacute;phane MONTALTO<br />TEL : 04 92 03 72 16<br />Mail :&nbsp;ucaadms.comptabilite@chunice.fr<br />Code CHORUS : PHARDMS</p>"
+  },
+  {
+    "id": 3940774,
+    "order_number": "S00498",
+    "created": "2024-03-06T09:47:03+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "WM523737",
+    "notes": "<p>Commande N&deg;WM523737 du 04/03/2024<br />Adresse de livraison : MAGASIN CENTRAL, 8 rue Bossuet, 42055 Saint-Etienne Cedex 2<br />Contact : Marine MALLAT<br />T&eacute;l : 04 77 12 09 05<br />Courriel :&nbsp;Marine.Mallat@chu-st-etienne.fr<br />Service Chorus : FACTURES_ SUR_COMMANDE</p>"
+  },
+  {
+    "id": 3960772,
+    "order_number": "S00499",
+    "created": "2024-03-13T16:09:30+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "24.1.12.a",
+    "notes": "<p>AO 2023AO33013&nbsp;<br />Contact : S.DAZY<br />T&eacute;l : 03 85 27 53 34<br />Mail : pharmadm@ch-macon.fr</p>"
+  },
+  {
+    "id": 3947800,
+    "order_number": "S00500",
+    "created": "2024-03-08T15:23:15+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "24004451",
+    "notes": "<p>Commande N&deg;24004451 du 05/03/2024<br />Contact : Mme RACAT Marie<br />T&eacute;l : 04 70 02 16 04<br />Courriel :&nbsp;n.oger@ch-montlucon.fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3945216,
+    "order_number": "S00501",
+    "created": "2024-03-07T16:40:59+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "23.12.11.c",
+    "notes": "<p>AO CLSF_2023_42<br />Contact : &nbsp;Nora RIOUAL<br />T&eacute;l : 02 97 01 41 11<br />Mail : nora.rioual@ch-bretagne-atlantique.fr</p>"
+  },
+  {
+    "id": 3942188,
+    "order_number": "S00502",
+    "created": "2024-03-06T17:21:13+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "2024/PA/2266",
+    "notes": "<p>LIVRAISON PARTIELLE (Reste 500 sondes de chacune des r&eacute;f&eacute;rences CO-BF-ZP-B08-40 et CO-BF-ZP-B10-40)</p>\n<p>Commande n&deg;2023/PA/2266 du 05/03/2024<br />Contact : RAMPON ENZO<br />T&eacute;l : 04 71 46 47 39<br />E-mail :&nbsp;sec.pharmacie@ch-aurillac.fr<br />Service : PA</p>"
+  },
+  {
+    "id": 3947835,
+    "order_number": "S00502",
+    "created": "2024-03-08T15:32:21+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "2024/PA/2266",
+    "notes": "<p>LIVRAISON PARTIELLE (Livraison de 300 sondes de r&eacute;f&eacute;rence CO-BF-ZP-B08-40 au lieu de 500 sondes)</p>\n<p>Commande n&deg;2023/PA/2266 du 05/03/2024<br />Contact : RAMPON ENZO<br />T&eacute;l : 04 71 46 47 39<br />E-mail :&nbsp;sec.pharmacie@ch-aurillac.fr<br />Service : PA</p>"
+  },
+  {
+    "id": 3978082,
+    "order_number": "S00502",
+    "created": "2024-03-20T08:25:36+01:00",
+    "shipping_date": "2024-03-20",
+    "external_reference": "2024/PA/2266",
+    "notes": "<p>COMPLEMENT DE LIVRAISON</p>\n<p>Commande n&deg;2023/PA/2266 du 05/03/2024<br />Contact : RAMPON ENZO<br />T&eacute;l : 04 71 46 47 39<br />E-mail :&nbsp;sec.pharmacie@ch-aurillac.fr<br />Service : PA</p>"
+  },
+  {
+    "id": 3941154,
+    "order_number": "S00503",
+    "created": "2024-03-06T11:51:08+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "P791846 ",
+    "notes": "<p>Num&eacute;ro d'engagement : P791846 DU 06/03/2024<br />Contact : Mme GOUGEON NATHALIE<br />T&eacute;l : 02 43 66 50 37<br />E-Mail :&nbsp;edi@chlaval.fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3941171,
+    "order_number": "S00504",
+    "created": "2024-03-06T12:01:26+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "26309087 ",
+    "notes": "<p>Commande n&deg;26309087 du 05/03/2024<br />Contact : PERRET Florent<br />T&eacute;l : 04 72 43 44 04<br />Email :&nbsp;florent.perret@univ-lyon1.fr</p>"
+  },
+  {
+    "id": 3941177,
+    "order_number": "S00505",
+    "created": "2024-03-06T12:06:41+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "E211813",
+    "notes": "<p>BC2401613 du 05/03/2024</p>"
+  },
+  {
+    "id": 3965492,
+    "order_number": "S00505",
+    "created": "2024-03-15T10:33:03+01:00",
+    "shipping_date": "2024-03-15",
+    "external_reference": "E211813",
+    "notes": "<p>BC2401624 du 14/03/2024</p>"
+  },
+  {
+    "id": 3941217,
+    "order_number": "S00506",
+    "created": "2024-03-06T12:20:54+01:00",
+    "shipping_date": "2024-03-06",
+    "external_reference": "E211792",
+    "notes": "<p>BC2401614 du 06/03/2024</p>"
+  },
+  {
+    "id": 3997786,
+    "order_number": "S00506",
+    "created": "2024-03-27T16:37:23+01:00",
+    "shipping_date": "2024-03-27",
+    "external_reference": "E211792",
+    "notes": "<p>BC2401637 du 27/03/2024</p>"
+  },
+  {
+    "id": 3945175,
+    "order_number": "S00507",
+    "created": "2024-03-07T16:30:46+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "23.12.11.c",
+    "notes": "<p>AO CLSF_2023_42<br />Contact : Irina SIMONENKO<br />T&eacute;l : 02 99 28 42 50<br />Mail : vincent.gicquel@chu-rennes.fr</p>"
+  },
+  {
+    "id": 3945181,
+    "order_number": "S00508",
+    "created": "2024-03-07T16:33:01+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "23.12.11.c",
+    "notes": "<p>AO CLSF_2023_42<br />Contact : Pierre LE GUEVELLO<br />T&eacute;l : 02 96 05 71 53<br />Mail : pharmaciens@ch-lannion.fr</p>"
+  },
+  {
+    "id": 3945184,
+    "order_number": "S00509",
+    "created": "2024-03-07T16:33:51+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "23.12.11.c",
+    "notes": "<p>AO CLSF_2023_42<br />Contact : Gabrielle Guillois<br />T&eacute;l : 02 96 44 56 71<br />Mail : pharmaciens.guingamp@armorsante.bzh</p>"
+  },
+  {
+    "id": 3945189,
+    "order_number": "S00510",
+    "created": "2024-03-07T16:34:41+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "23.12.11.c",
+    "notes": "<p>AO CLSF_2023_42<br />Contact : Anne-Yvonne ABAUT<br />T&eacute;l : 02 99 17 71 22<br />Mail : ayabaut@ch-fougeres,f</p>"
+  },
+  {
+    "id": 3945196,
+    "order_number": "S00511",
+    "created": "2024-03-07T16:35:54+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "23.12.11.c",
+    "notes": "<p>AO CLSF_2023_42<br />Contact : Flavie NOYRIGAT<br />T&eacute;l : 02 98 52 61 24<br />Mail : f.noyrigat@ch-cornouaille.fr</p>"
+  },
+  {
+    "id": 3945177,
+    "order_number": "S00512",
+    "created": "2024-03-07T16:32:03+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "23.12.11.c",
+    "notes": "<p>AO CLSF_2023_42<br />Contact : Elodie PEGUET<br />T&eacute;l : 02 96 01 71 96<br />Mail : eleonore.legris@armorsante.bzh</p>"
+  },
+  {
+    "id": 3945167,
+    "order_number": "S00513",
+    "created": "2024-03-07T16:28:45+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "23.12.11.c",
+    "notes": "<p>AO CLSF_2023_42<br />Contact : Benjamin Rey-Rubio<br />T&eacute;l : 02 97 06 75 13<br />Mail : b.rey@ghbs.bzh</p>"
+  },
+  {
+    "id": 3941436,
+    "order_number": "S00514",
+    "created": "2024-03-06T14:03:40+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "22789733 ",
+    "notes": "<p>Commande N&deg;22789733 du 06/03/2024<br />Contact : Mme DUPIN Karine<br />T&eacute;l : 03 26 78 34 54<br />Mail :&nbsp;kdupin@chu-reims.fr<br />Code CHORUS : Pharmacie-DM_FACP</p>"
+  },
+  {
+    "id": 3941481,
+    "order_number": "S00515",
+    "created": "2024-03-06T14:10:42+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "M9/01899095",
+    "notes": "<p>COMMANDE : M9/01899095 du 05/03/2024<br />Contact : M . Meuleau<br />T&eacute;l : 03 80 29 57 97<br />Mail :&nbsp;dael.laboratoires@chu-dijon.fr<br />Code CHORUS : M9</p>"
+  },
+  {
+    "id": 3941567,
+    "order_number": "S00516",
+    "created": "2024-03-06T14:44:27+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "MA054847",
+    "notes": "<p>COMMANDE N&deg;MA054847 du 06/03/2024<br />Contact : M SENUT REMI<br />T&eacute;l : 04 77 40 70 90<br />E-mail :&nbsp;magasin@hopital-lecorbusier.fr<br />Code chorus : MA</p>"
+  },
+  {
+    "id": 3944021,
+    "order_number": "S00517",
+    "created": "2024-03-07T11:34:46+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "24003255 ",
+    "notes": "<p>Commande N&deg;24003255 du 06/03/2024<br />Contact : Christelle Muller<br />T&eacute;l : 04 77 96 77 03<br />Courriel :&nbsp;preparateur.dms@ch-forez.fr<br />Service Chorus: FAC7813BC</p>"
+  },
+  {
+    "id": 3944030,
+    "order_number": "S00518",
+    "created": "2024-03-07T11:38:31+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "PH386389 ",
+    "notes": "<p>Commande N&deg;PH386389 du 07/03/2024<br />Contact : Armelle LEVRON<br />T&eacute;l : 02 99 71 71 74<br />Courriel :&nbsp;secretariat.direction@ch-redon.fr</p>"
+  },
+  {
+    "id": 3944060,
+    "order_number": "S00519",
+    "created": "2024-03-07T11:42:54+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "26316669 ",
+    "notes": "<p>Commande n&deg;26316669 du 06/03/2024<br />Contact : MINET C&eacute;cile<br />T&eacute;l : 04 67 59 39 60<br />Email :&nbsp;cecile.minet@cirad.fr</p>"
+  },
+  {
+    "id": 3944104,
+    "order_number": "S00520",
+    "created": "2024-03-07T11:47:34+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "26315316",
+    "notes": "<p>Commande n&deg;26315316 du 06/03/2024<br />Contact : Ludivine Jacquin<br />T&eacute;l : 04 81 10 65 05<br />Email :&nbsp;ludivine.jacquin@inserm.fr</p>"
+  },
+  {
+    "id": 3944110,
+    "order_number": "S00521",
+    "created": "2024-03-07T11:50:31+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "26315266 ",
+    "notes": "<p>Commande n&deg;26315266 du 06/03/2024<br />Contact : TIPHAINE guida<br />T&eacute;l : 02 23 23 38 31<br />Email :&nbsp;tiphaine.guida@univ-rennes.fr</p>"
+  },
+  {
+    "id": 3944405,
+    "order_number": "S00522",
+    "created": "2024-03-07T13:11:55+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "24.1.12.a",
+    "notes": "<p>AO 2023AO33013&nbsp;<br />Contact : S.DAZY<br />T&eacute;l : 03 85 27 53 34<br />Mail : pharmadmis@ch-macon.fr</p>"
+  },
+  {
+    "id": 3945322,
+    "order_number": "S00523",
+    "created": "2024-03-07T17:13:44+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "24.1.26.a",
+    "notes": "<p>AO n&deg; 24-10C<br />T&eacute;l : 03 44 31 56 21<br />Mail : joel.schlatter@aphp.fr</p>"
+  },
+  {
+    "id": 3945325,
+    "order_number": "S00524",
+    "created": "2024-03-07T17:14:08+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "24.1.26.a",
+    "notes": "<p>AO n&deg; 24-10C<br />T&eacute;l : 01 45 37 47 51<br />Mail : severine.foucher@aphp.fr</p>"
+  },
+  {
+    "id": 3945326,
+    "order_number": "S00525",
+    "created": "2024-03-07T17:14:31+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "24.1.26.a",
+    "notes": "<p>AO n&deg; 24-10C<br />T&eacute;l : 01 71 28 08 14<br />Mail : raphaelle.pesque@aphp.fr</p>"
+  },
+  {
+    "id": 3945332,
+    "order_number": "S00526",
+    "created": "2024-03-07T17:15:25+01:00",
+    "shipping_date": "2024-03-07",
+    "external_reference": "24.1.26.a",
+    "notes": "<p>AO n&deg; 24-10C<br />T&eacute;l : 01 69 83 64 64<br />Mail : patrick.leglise@aphp.fr&nbsp;</p>"
+  },
+  {
+    "id": 3946690,
+    "order_number": "S00527",
+    "created": "2024-03-08T09:13:51+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "2402882 ",
+    "notes": "<p>Commande N&deg;2402882 du 07/03/2024<br />CONTACT: C&eacute;cile PARTANT<br />T&eacute;l : 02 98 52 61 24<br />mail :&nbsp;c.partant@ch-cornouaille.fr<br />Chorus code service : COPHQ</p>"
+  },
+  {
+    "id": 3946702,
+    "order_number": "S00528",
+    "created": "2024-03-08T09:22:27+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "24.1.12.a",
+    "notes": "<p>AO 2023AO33013&nbsp;<br />Contact : S.DAZY<br />T&eacute;l : 03 85 27 53 34<br />Mail : pharmadmis@ch-macon.fr</p>"
+  },
+  {
+    "id": 3947142,
+    "order_number": "S00529",
+    "created": "2024-03-08T11:08:37+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "407-7157305-9830732",
+    "notes": "<div class=\"container\">\n<div class=\"section\">\n<p>Commande n&deg;407-7157305-9830732 du 08/03/2024<br />Contact : Cindy Louis-joseph<br />T&eacute;l : 07 83 65 62 35</p>\n</div>\n</div>\n<div class=\"container overflow-x-auto\">\n<div class=\"section\">&nbsp;</div>\n</div>"
+  },
+  {
+    "id": 3947152,
+    "order_number": "S00530",
+    "created": "2024-03-08T11:15:31+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "E211800",
+    "notes": "<p>BC2401615 DU 06/03/2024</p>"
+  },
+  {
+    "id": 3970468,
+    "order_number": "S00530",
+    "created": "2024-03-18T10:03:24+01:00",
+    "shipping_date": "2024-03-18",
+    "external_reference": "E211800",
+    "notes": "<p>BC2401627 DU 15/03/2024</p>"
+  },
+  {
+    "id": 3999763,
+    "order_number": "S00530",
+    "created": "2024-03-28T11:18:02+01:00",
+    "shipping_date": "2024-03-28",
+    "external_reference": "E211800",
+    "notes": "<p>BC2401638 du 28/03/2024</p>"
+  },
+  {
+    "id": 3947162,
+    "order_number": "S00531",
+    "created": "2024-03-08T11:20:55+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "E211803 ",
+    "notes": "<p>BC2401616 DU 08/03/2024</p>"
+  },
+  {
+    "id": 3965581,
+    "order_number": "S00531",
+    "created": "2024-03-15T10:52:52+01:00",
+    "shipping_date": "2024-03-15",
+    "external_reference": "E211803 ",
+    "notes": "<p>BC2401626 DU 15/03/2024</p>"
+  },
+  {
+    "id": 3989962,
+    "order_number": "S00531",
+    "created": "2024-03-25T12:16:08+01:00",
+    "shipping_date": "2024-03-25",
+    "external_reference": "E211803 ",
+    "notes": "<p>BC2401633 DU 22/03/2024</p>"
+  },
+  {
+    "id": 3997768,
+    "order_number": "S00531",
+    "created": "2024-03-27T16:31:33+01:00",
+    "shipping_date": "2024-03-27",
+    "external_reference": "E211803 ",
+    "notes": "<p>BC2401636 du 27/03/2024</p>"
+  },
+  {
+    "id": 3947198,
+    "order_number": "S00532",
+    "created": "2024-03-08T11:30:28+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "3332761 ",
+    "notes": "<p>Commande n&deg;3332761 du 08/03/2024<br />Contact : Mme PAPAILHAU CHARLOTTE<br />T&eacute;l : 04 91 12 76 98<br />E-mail :&nbsp;charlotte.papailhau@cgd13.fr<br />CHORUS PRO : sce 03</p>"
+  },
+  {
+    "id": 3947261,
+    "order_number": "S00533",
+    "created": "2024-03-08T11:53:51+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "24000963 ",
+    "notes": "<p>Commande n&deg;24000963 du 08/03/2024<br />Contact : Sylvie Gode<br />Tel : 03 22 32 33 33<br />Email :&nbsp;s2gode@ch-doullens.fr<br />SERVICE CHORUS : PHARMACIE1</p>"
+  },
+  {
+    "id": 3947369,
+    "order_number": "S00534",
+    "created": "2024-03-08T12:33:13+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "PH109432 ",
+    "notes": "<p>Commande N&deg;PH109432 du 08/03/2024<br />Contact : Guillaume PHILIPPE<br />T&eacute;l : 04 92 30 14 61<br />Mail :&nbsp;secretariat.direction@ch-digne.fr<br />Chorus pro : PHARMACIE_FACM</p>"
+  },
+  {
+    "id": 3947545,
+    "order_number": "S00535",
+    "created": "2024-03-08T14:03:41+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "E211804",
+    "notes": "<p>BC0000526 DU 08/03/2024</p>"
+  },
+  {
+    "id": 3981075,
+    "order_number": "S00535",
+    "created": "2024-03-21T08:52:20+01:00",
+    "shipping_date": "2024-03-21",
+    "external_reference": "E211804",
+    "notes": "<p>BL0000648 DU 20/03/2024</p>"
+  },
+  {
+    "id": 3997861,
+    "order_number": "S00535",
+    "created": "2024-03-27T17:02:34+01:00",
+    "shipping_date": "2024-03-27",
+    "external_reference": "E211804",
+    "notes": "<p>Compl&eacute;ment commande</p>\n<p>BC0000526 du 08/03/2024</p>"
+  },
+  {
+    "id": 3947563,
+    "order_number": "S00536",
+    "created": "2024-03-08T14:09:43+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "E211789",
+    "notes": "<p>BC0000527 DU 08/03/2024</p>"
+  },
+  {
+    "id": 3978923,
+    "order_number": "S00536",
+    "created": "2024-03-20T13:17:17+01:00",
+    "shipping_date": "2024-03-20",
+    "external_reference": "E211789",
+    "notes": "<p>BC2401631 DU 19/03/2024</p>"
+  },
+  {
+    "id": 3947594,
+    "order_number": "S00537",
+    "created": "2024-03-08T14:21:23+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "24004745 ",
+    "notes": "<p>Commande n&deg;24004745 du 08/03/2024<br />Contact : Isabelle GRANGE<br />T&eacute;l : 04 71 04 38 62<br />E-Mail :&nbsp;karine.reymond@ch-lepuy.fr<br />Service Chorus : PHARMACIE</p>"
+  },
+  {
+    "id": 3947819,
+    "order_number": "S00538",
+    "created": "2024-03-08T15:27:23+01:00",
+    "shipping_date": "2024-03-08",
+    "external_reference": "2024/PH/373",
+    "notes": "<p>Commande n&deg;2024/PH/373 du 08/03/2024<br />Contact : RABU NADINE<br />T&eacute;l : 03 86 77 76 88<br />E-mail :&nbsp;rabu.n@ght58.fr<br />Service CHORUS : PH</p>"
+  },
+  {
+    "id": 3951483,
+    "order_number": "S00539",
+    "created": "2024-03-11T09:07:12+01:00",
+    "shipping_date": "2024-03-11",
+    "external_reference": "PR24030012 ",
+    "notes": "<p>Commande N&deg;PR24030012 du 08/03/2024<br />Personne &agrave; contacter : CHARLINE PALANDRE<br />T&eacute;l : 03 87 79 13 52<br />E-mail :&nbsp;charline.palandre@filieris.fr<br />Code service Chorus : EST_ETAB_CHARLEVILLE</p>"
+  },
+  {
+    "id": 3952472,
+    "order_number": "S00540",
+    "created": "2024-03-11T12:17:10+01:00",
+    "shipping_date": "2024-03-11",
+    "external_reference": "SE342430 ",
+    "notes": "<p>Commande n&deg;SE342430 du 08/03/2024<br />Contact : Mme DELSARTE AMANDINE<br />T&eacute;l : 03 27 24 30 23<br />E-mail :&nbsp;adelsarte@ch-denain.fr<br />Service CHORUS PRO : ECONOMAT</p>"
+  },
+  {
+    "id": 3952457,
+    "order_number": "S00541",
+    "created": "2024-03-11T12:12:14+01:00",
+    "shipping_date": "2024-03-11",
+    "external_reference": "26327451 ",
+    "notes": "<p>Commande n&deg;26327451 du 08/03/2024<br />Contact : CASTEL St&eacute;phane<br />T&eacute;l : 04 67 14 30 78<br />Email :&nbsp;stephane.castel@umontpellier.fr</p>"
+  },
+  {
+    "id": 3952713,
+    "order_number": "S00542",
+    "created": "2024-03-11T12:58:36+01:00",
+    "shipping_date": "2024-03-11",
+    "external_reference": "24.3.12.a",
+    "notes": "<p>AOO 24017<br />Contact : Olivier SELLAL<br />T&eacute;l : 02 40 84 64 41<br />Mail : pharmaciecentrale@chu-nantes.fr</p>"
+  },
+  {
+    "id": 3952710,
+    "order_number": "S00543",
+    "created": "2024-03-11T12:57:50+01:00",
+    "shipping_date": "2024-03-11",
+    "external_reference": "24.3.12.a",
+    "notes": "<p>AOO 24017<br />Contact : LANGREE Bastien<br />T&eacute;l : 02 40 55 88 08<br />Mail : pharmaciecentrale@chu-nantes.fr</p>"
+  },
+  {
+    "id": 3953819,
+    "order_number": "S00544",
+    "created": "2024-03-11T16:05:59+01:00",
+    "shipping_date": "2024-03-11",
+    "external_reference": "24.3.14.a",
+    "notes": "<p>AO N&deg; 24-09<br />Contact : BONNES Pascal<br />T&eacute;l : 04 90 03 94 13<br />Mail : pascal.bonnes@ch-montfavet.fr</p>"
+  },
+  {
+    "id": 3965280,
+    "order_number": "S00545",
+    "created": "2024-03-15T08:38:24+01:00",
+    "shipping_date": "2024-03-15",
+    "external_reference": "1642 ",
+    "notes": "<p>Commande n&deg;1642 du 11/03/2024<br />Contact : Annie CONOGAN<br />T&eacute;l : 02 41 46 24 11<br />Email :&nbsp;a.conogan@lyshyrome.fr<br />Code service : PHARM1</p>"
+  },
+  {
+    "id": 3955759,
+    "order_number": "S00546",
+    "created": "2024-03-12T08:05:10+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "PHARM607954 ",
+    "notes": "<p>Commande N&deg;PHARM607954 du 11/03/2024<br />Contact : Mme. St&eacute;phanie Bena&iuml;n<br />T&eacute;l : 02 47 47 90 87<br />E-Mail :&nbsp;N.VERBURGH@chu-tours.fr<br />Code CHORUS : PHARM</p>"
+  },
+  {
+    "id": 3955773,
+    "order_number": "S00547",
+    "created": "2024-03-12T08:24:36+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "ES646120 ",
+    "notes": "<p>Commande n&deg;ES646120 du 12/03/2024<br />Contact : Mme BOURAS SCHEHERAZADE<br />T&eacute;l : 04 32 75 39 45<br />Mail :&nbsp;appro-cha@ch-avignon.fr<br />CHORUS : 01</p>"
+  },
+  {
+    "id": 3955807,
+    "order_number": "S00548",
+    "created": "2024-03-12T08:36:06+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "PH411901 ",
+    "notes": "<p>Commande n&deg;PH411901 du 11/03/2024<br />Contact : SURBIER CEDRICK<br />T&eacute;l : 05 49 44 38 01<br />E-mail :&nbsp;PrepCmdDMS@chu-poitiers.fr<br />Code CHORUS : FAC_CDE_DEMAT</p>"
+  },
+  {
+    "id": 3955925,
+    "order_number": "S00549",
+    "created": "2024-03-12T09:57:45+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "23.12.22.a",
+    "notes": "<p>AO&nbsp;Gauloys</p>\n<p>Contact :&nbsp;<span style=\"font-family: arial, helvetica, sans-serif;\">Fabienne Chatillon</span></p>\n<p>T&eacute;l :&nbsp;04 74 09&nbsp;29 07</p>\n<p>Mail :&nbsp;fchatillon@hno.fr</p>"
+  },
+  {
+    "id": 3956430,
+    "order_number": "S00550",
+    "created": "2024-03-12T12:00:36+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "DI713506 ",
+    "notes": "<p>Commande N&deg;DI713506 du 11/03/2024<br />Contact : St&eacute;phane MONTALTO<br />TEL : 04 92 03 72 16<br />Mail :&nbsp;ucaadms.comptabilite@chunice.fr<br />Code CHORUS : PHARDMS</p>"
+  },
+  {
+    "id": 3956436,
+    "order_number": "S00551",
+    "created": "2024-03-12T12:04:28+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "E211828",
+    "notes": "<p>BC2401618 du 11/03/2024</p>"
+  },
+  {
+    "id": 3956505,
+    "order_number": "S00552",
+    "created": "2024-03-12T12:18:06+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "E211824",
+    "notes": "<p>BC2401620 du 11/03/2024</p>"
+  },
+  {
+    "id": 3956518,
+    "order_number": "S00553",
+    "created": "2024-03-12T12:21:54+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "BC2401619",
+    "notes": "<p>Commande n&deg;BC2401619 du 11/03/2024<br />Contact : ANITA LUMEAU<br />T&eacute;l : 02 40 57 40 57<br />Email:&nbsp;Anita.lumeau@ugecam.assurance-maladie.fr</p>"
+  },
+  {
+    "id": 3956557,
+    "order_number": "S00554",
+    "created": "2024-03-12T12:32:36+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "26339078",
+    "notes": "<p>Commande n&deg;26339078 du 11/03/2024<br />Contact : VENET Anne-Sophie<br />T&eacute;l : 02 47 36 60 79<br />Email :&nbsp;anne-sophie.venet@univ-tours.fr</p>"
+  },
+  {
+    "id": 3956573,
+    "order_number": "S00555",
+    "created": "2024-03-12T12:35:41+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "26337115 ",
+    "notes": "<p>Commande n&deg;26337115 du 11/03/2024<br />Contact : NOUAILLE JEAN-MICHEL<br />T&eacute;l : 06 10 38 27 29<br />Email :&nbsp;jm.nouaille@sdis23.fr</p>"
+  },
+  {
+    "id": 3956581,
+    "order_number": "S00556",
+    "created": "2024-03-12T12:38:44+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "26336905 ",
+    "notes": "<p>Commande n&deg;26336905 du 11/03/2024<br />Contact : GIMAP Cgauss<br />T&eacute;l : 04 77 42 14 00<br />Email :&nbsp;commande-gauss-gimap@univ-st-etienne.fr</p>"
+  },
+  {
+    "id": 3956587,
+    "order_number": "S00557",
+    "created": "2024-03-12T12:41:38+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "26335402 ",
+    "notes": "<p>Commande n&deg;26335402 du 11/03/2024<br />Contact : FRANCOIS Yuka<br />T&eacute;l : 03 20 12 58 00<br />Email :&nbsp;francois.yuka@smmil-e.com</p>"
+  },
+  {
+    "id": 3956599,
+    "order_number": "S00558",
+    "created": "2024-03-12T12:44:33+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "4323606 ",
+    "notes": "<p>Commande n&deg;4323606 du 11/03/2024<br />Contact : Mme VANDERNOTH Delphine<br />T&eacute;l : 02 99 17 71 01<br />Email :&nbsp;dvandernoth@ch-fougeres.fr<br />Code chorus : 4_BIOMEDICAL_DM_LINGE</p>"
+  },
+  {
+    "id": 3956655,
+    "order_number": "S00559",
+    "created": "2024-03-12T13:12:35+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "PH169188 ",
+    "notes": "<p>Commande n&deg;PH169188 du 12/03/2024<br />Contact : Mme MARIETTE Anais<br />T&eacute;l : 03 23 51 55 42<br />Mail :&nbsp;preparatrices@ch-guise.fr<br />Service CHORUS : FACTURES_PHARMACIE</p>"
+  },
+  {
+    "id": 3956760,
+    "order_number": "S00560",
+    "created": "2024-03-12T13:51:27+01:00",
+    "shipping_date": "2024-03-12",
+    "external_reference": "PHA46809",
+    "notes": "<p>Commande n&deg;PHA46809 du 08/03/2024<br />Contact : Sandra Angely<br />T&eacute;l : 01 49 84 71 60<br />Mail :&nbsp;sandra.angely@epsnf.fr</p>"
+  },
+  {
+    "id": 3978092,
+    "order_number": "S00561",
+    "created": "2024-03-20T08:28:59+01:00",
+    "shipping_date": "2024-03-20",
+    "external_reference": "24004564 ",
+    "notes": "<p>Commande n&deg;24004564 du 12/03/2024<br />Contact : Mr David FAURE<br />T&eacute;l : 04 70 97 22 81<br />Email :&nbsp;patrick.janowiez@ch-vichy.fr<br />Service CHORUS : PHA</p>"
+  },
+  {
+    "id": 3959053,
+    "order_number": "S00562",
+    "created": "2024-03-13T08:49:52+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "PH/61792",
+    "notes": "<p>Commande n&deg;PH/61792 du 11/03/2024<br />Contact : DESBOUIS CHRISTELLE<br />T&eacute;l : 03 86 93 70 85<br />E-mail :&nbsp;chan.pharmacie.sec@ght58.fr<br />Code service : PH</p>"
+  },
+  {
+    "id": 3959063,
+    "order_number": "S00563",
+    "created": "2024-03-13T08:58:34+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "FM126896 ",
+    "notes": "<p>COMMANDE N&deg;FM126896 du 11/03/2024<br />Contact : Mme CRENN FLORENCE<br />T&eacute;l : 02 31 06 50 90<br />Courriel :&nbsp;crenn-f@chu-caen.fr<br />Code CHORUS : FMC</p>"
+  },
+  {
+    "id": 3959087,
+    "order_number": "S00564",
+    "created": "2024-03-13T09:09:05+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "672948 ",
+    "notes": "<p>Commande n&deg;672948 du 12/03/2024<br />Contact : DEHAESE<br />Tel : 04 73 67 80 56<br />Mail :&nbsp;pharma-prepa@ch-riom.fr<br />Service CHORUS : 04</p>"
+  },
+  {
+    "id": 3959109,
+    "order_number": "S00565",
+    "created": "2024-03-13T09:16:37+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "3420 ",
+    "notes": "<p>Commande N&deg;3420 du 11/03/2024<br />Contact : Mme COLOMBIER Anne<br />T&eacute;l : 02 43 71 62 03<br />Mail : Sophie&nbsp;as.colombier@ch-lafertebernard.fr</p>"
+  },
+  {
+    "id": 3959124,
+    "order_number": "S00566",
+    "created": "2024-03-13T09:25:27+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "P2401730 ",
+    "notes": "<p>Commande n&deg;P2401730 du 12/03/2024<br />Contact : MECHIN CELINE<br />T&eacute;l : 02 32 14 75 47<br />Mail :&nbsp;secretariatpharmacie@ch-dieppe.fr<br />Code service : 3210</p>"
+  },
+  {
+    "id": 3959148,
+    "order_number": "S00567",
+    "created": "2024-03-13T09:34:25+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "PR87040 ",
+    "notes": "<p>Commande n&deg;PR87040 du 12/03/2024<br />Contact : Antoine LINGOUNGOU<br />T&eacute;l : 03 25 21 95 23<br />Mail : gham.pharmacie.ry@hcs-sante fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3959412,
+    "order_number": "S00568",
+    "created": "2024-03-13T09:49:29+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "FC189500 ",
+    "notes": "<p>Commande N&deg;FC189500 du 12/03/2024<br />Contact : Mme Marie SOUCHARD<br />T&eacute;l : 02 99 28 91 12<br />E-mail :&nbsp;Marie.souchard@chu-rennes.fr<br />Code service : Achats</p>"
+  },
+  {
+    "id": 3959819,
+    "order_number": "S00569",
+    "created": "2024-03-13T11:50:03+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "AP263746 ",
+    "notes": "<p>Commande n&deg;AP263746 du 12/03/2024<br />Contact : M. FELDMAN DAVID<br />T&eacute;l : 02 40 84 60 33<br />E-mail :&nbsp;olivier.sellal@chu-nantes.fr<br />Code service : PHARMACIE</p>"
+  },
+  {
+    "id": 3959846,
+    "order_number": "S00570",
+    "created": "2024-03-13T11:53:08+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "MG750301 ",
+    "notes": "<p>Commande N&deg;MG750301 du 13/03/2024<br />Contact : STEVENS Valerie<br />T&eacute;l : 03 23 38 54 11<br />E-mail :&nbsp;Valerie.STEVENS@ch-chauny.fr</p>"
+  },
+  {
+    "id": 3962980,
+    "order_number": "S00570",
+    "created": "2024-03-14T11:55:32+01:00",
+    "shipping_date": "2024-03-14",
+    "external_reference": "MG750301 ",
+    "notes": "<p>COMPLEMENT DE LIVRAISON</p>\n<p>Commande N&deg;MG750301 du 13/03/2024<br />Contact : STEVENS Valerie<br />T&eacute;l : 03 23 38 54 11<br />E-mail :&nbsp;Valerie.STEVENS@ch-chauny.fr</p>"
+  },
+  {
+    "id": 3959851,
+    "order_number": "S00571",
+    "created": "2024-03-13T11:56:02+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "A9/2589727",
+    "notes": "<p>Commande N&deg;A9/2589727 du 13/03/2024<br />Contact : M Jean Marie KINOWSKI<br />T&eacute;l : 04 66 68 31 04<br />Courriel :&nbsp;COMMANDEDMNS@chu-nimes.fr<br />Service CHORUS : 002</p>"
+  },
+  {
+    "id": 3959893,
+    "order_number": "S00572",
+    "created": "2024-03-13T12:12:28+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "24.1.26.b",
+    "notes": "<p>AO n&deg; 224101</p>\n<p>Contact : MALAT C&eacute;cile</p>\n<p>T&eacute;l : 03 23 06 77 17</p>\n<p>Mail : Cecile.MALAT@ch-stquentin.fr</p>"
+  },
+  {
+    "id": 3959902,
+    "order_number": "S00573",
+    "created": "2024-03-13T12:15:34+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "26347654 ",
+    "notes": "<p>Commande n&deg;26347654 du 12/03/2024<br />Contact : COLLEGE JULES MASSENET<br />T&eacute;l : 04 91 09 53 95<br />Email :&nbsp;ges.clg.massenet@ac-aix-marseille.fr</p>"
+  },
+  {
+    "id": 3959907,
+    "order_number": "S00574",
+    "created": "2024-03-13T12:18:13+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "P1151865 ",
+    "notes": "<p>Commande n&deg;P1151865 du 13/03/2024<br />Contact : Mme Doroth&eacute;e Pecani<br />T&eacute;l : 05 61 77 82 53<br />Mail :&nbsp;logipharma.ardm@chutoulouse.fr<br />Code service : PHACHU</p>"
+  },
+  {
+    "id": 3959853,
+    "order_number": "S00575",
+    "created": "2024-03-13T11:56:52+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "XM2589827",
+    "notes": "<p>Commande N&deg;XM2589827 du 13/03/2024<br />Contact : MULLER Florian<br />T&eacute;l : 04 66 68 30 80<br />Courriel :&nbsp;COMMANDEDMNS@chu-nimes.fr<br />Service CHORUS : 002</p>"
+  },
+  {
+    "id": 3959928,
+    "order_number": "S00576",
+    "created": "2024-03-13T12:24:15+01:00",
+    "shipping_date": "2024-03-13",
+    "external_reference": "E211831",
+    "notes": "<p>BC2401623 du 12/03/2024</p>"
+  },
+  {
+    "id": 3962468,
+    "order_number": "S00577",
+    "created": "2024-03-14T08:26:10+01:00",
+    "shipping_date": "2024-03-14",
+    "external_reference": "PH56212 ",
+    "notes": "<p>Commande N&deg;PH56212 du 13/03/2024<br />Contact : Selami Karim<br />T&eacute;l : 03 20 69 44 50<br />E-mail :&nbsp;preparateurdmpharmacie@ch-tourcoing.fr<br />Code CHORUS : PHARM</p>"
+  },
+  {
+    "id": 3962473,
+    "order_number": "S00578",
+    "created": "2024-03-14T08:29:31+01:00",
+    "shipping_date": "2024-03-14",
+    "external_reference": "50/01538305",
+    "notes": "<p>Commande N&deg;50/01538305 du 13/03/2024<br />Contact : Anne-Marie FREY<br />T&eacute;l : 03 89 12 53 01<br />E-mail :&nbsp;anne-marie.frey@ch-colmar.fr<br />Code CHORUS: 1A</p>"
+  },
+  {
+    "id": 3962474,
+    "order_number": "S00579",
+    "created": "2024-03-14T08:33:37+01:00",
+    "shipping_date": "2024-03-14",
+    "external_reference": "24000964 ",
+    "notes": "<p>Commande N&deg;24000964 du 13/03/2024<br />Contact : florence GROLLEAU<br />T&eacute;l : 04 90 91 56 32<br />E-mail :&nbsp;florence.GROLLEAU@hdpdc.fr<br />Code CHORUS : PHARMA</p>"
+  },
+  {
+    "id": 3962479,
+    "order_number": "S00580",
+    "created": "2024-03-14T08:36:30+01:00",
+    "shipping_date": "2024-03-14",
+    "external_reference": "PP/00683277",
+    "notes": "<p>Commande n&deg;PP/00683277 du 13/03/2024<br />Contact : Jean-Fran&ccedil;ois PENAUD<br />T&eacute;l : 03 85 91 01 29<br />E-mil :&nbsp;pharmacie.wm@ch-chalon71.fr<br />Service CHORUS : SPDM</p>"
+  },
+  {
+    "id": 3962492,
+    "order_number": "S00581",
+    "created": "2024-03-14T08:51:24+01:00",
+    "shipping_date": "2024-03-14",
+    "external_reference": "23.12.22.a",
+    "notes": "<p>AO DMS- Groupement GAULoYS<br />Contact : LOISY lois</p>\n<p>T&eacute;l : 03 80 24 44 89</p>\n<p>Mail : estelle.loisy@ch-beaune.fr</p>"
+  },
+  {
+    "id": 3981023,
+    "order_number": "S00582",
+    "created": "2024-03-21T08:21:59+01:00",
+    "shipping_date": "2024-03-14",
+    "external_reference": "2400233 ",
+    "notes": "<p>Commande n&deg;2400233 du 11/03/2024<br />Contact : Fran&ccedil;oise RABUSSEAU<br />T&eacute;l : 07 63 46 33 82<br />E-mil :&nbsp;philippe.carreric@asurance-maladie.fr<br />Service CHORUS : USGFE</p>"
+  }
+]

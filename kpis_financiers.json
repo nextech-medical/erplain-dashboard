@@ -1,0 +1,37 @@
+{
+  "ca_total": 593972.97,
+  "ca_ht": 507020.44999999995,
+  "taxes": 1829.81,
+  "nb_factures": 2911,
+  "nb_clients": 2561,
+  "nb_produits_vendus": 3390335.0,
+  "facture_moyenne": 204.04430436276192,
+  "top_produits": {
+    "Mise à disposition de deux personnels": 25000.0,
+    "Compresse en non tissé stérile 7,5 cm x 7,5 cm": 24582.19,
+    "Gel pour échographie 250 ml, (Carton de 25 flacons)": 20481.36,
+    "Compresse en non tissé stérile 7,5 cm x 7,5 cm - Sachet de 5 pcs": 19240.6,
+    "Gel échographie stérile Turkuaz double emballage - Sachet de 20ml (PC020) - Boite de 48 pièces": 18626.94,
+    "Compresse non tissé stérile 40 g/m2 , 10 cm x 10cm": 11059.42,
+    "Gants d'examen vinyle non poudrés Taille M, (Boite de 100 pièces)": 10150.699999999999,
+    "Installation": 9940.0,
+    "Gants d'examen vinyle non poudrés Taille L, (Boite de 100 pièces)": 9707.32,
+    "Gants Nitriles Non Poudrés Taille M, (Boite de 100 pièces)": 9012.630000000001
+  },
+  "top_clients": {
+    "INTERNATIONAL INTEGRITY CORPORATION LLP IIC. UK": 25000.0,
+    "CENTRE DE SOINS DE SUITE KORN-ERHOUET": 22241.52,
+    "CH DE MACON": 19566.97,
+    "CH SENS": 18660.08,
+    "HNO - Centre hospitalier de Villefranche sur Saône": 18225.8,
+    "THYNA TECH MEDICAL Sàrl": 17399.97,
+    "CENTRE HOSPITALIER CHALON SUR SAONE ": 16683.64,
+    "CHRU DE BREST": 14911.52,
+    "CHU NANTES": 14423.65,
+    "CENTRE HOSPITALIER DE CHOLET": 12873.34
+  },
+  "evolution_mensuelle": {
+    "2026-04": 399875.4,
+    "2026-05": 194097.57
+  }
+}

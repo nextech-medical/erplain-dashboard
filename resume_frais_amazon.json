@@ -1,0 +1,11 @@
+{
+  "total_commandes": 1900,
+  "total_ca": 194612.16,
+  "total_frais": 0.0,
+  "total_gain": 0.0,
+  "taux_moyen_frais": 0.0,
+  "frais_moyen_par_commande": 0.0,
+  "ca_moyen_par_commande": 102.43,
+  "commande_min_frais": null,
+  "commande_max_frais": null
+}

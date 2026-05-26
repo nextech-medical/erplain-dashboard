@@ -1,0 +1,56 @@
+{
+  "ca_ht": 173664.93,
+  "cogs_total": 86832.46,
+  "shipping_total": 0.0,
+  "amazon_fees_total": 0.0,
+  "marge_brute": 86832.46,
+  "taux_marge_brute": 50.0,
+  "marge_avec_transport": 86832.46,
+  "taux_marge_avec_transport": 50.0,
+  "marge_nette": 86832.46,
+  "taux_marge_nette": 50.0,
+  "nb_factures": 1849,
+  "nb_clients": 1705,
+  "nb_produits_vendus": 1749188,
+  "facture_moyenne": 93.92,
+  "top_produits_ca": {
+    "SUG-0001": 15878.14,
+    "NL755-S-40": 10376.67,
+    "99.800.20": 9920.39,
+    "NL755-S-40_Sachet de 5 pcs": 5321.84,
+    "RNBM10001": 2828.96,
+    "RNBL10001": 2741.17,
+    " SPA639": 2500.0,
+    "BDSL4.20": 2435.04,
+    "1000022654": 2318.0,
+    "CH020L": 2165.14
+  },
+  "top_produits_marge": {
+    "SUG-0001": 7939.07,
+    "NL755-S-40": 5188.34,
+    "99.800.20": 4960.19,
+    "NL755-S-40_Sachet de 5 pcs": 2660.92,
+    "RNBM10001": 1414.48,
+    "RNBL10001": 1370.59,
+    " SPA639": 1250.0,
+    "BDSL4.20": 1217.52,
+    "1000022654": 1159.0,
+    "CH020L": 1082.57
+  },
+  "top_clients": {
+    "INTERNATIONAL INTEGRITY CORPORATION LLP IIC. UK": 25000.0,
+    "AP - HOPITAUX DE MARSEILLE": 11861.57,
+    "THYNA TECH MEDICAL Sàrl": 5799.99,
+    "Tanit Vision Marketing LLC": 4970.0,
+    "CENTRE HOSPITALIER PIERRE OUDOT": 4964.27,
+    "CH DE NEVERS": 4447.16,
+    "FILIERIS": 3368.0,
+    "CENTRE DE SOINS DE SUITE KORN-ERHOUET": 3089.1,
+    "CHU NANTES": 2660.1,
+    " CHU DE ROUEN": 2659.92
+  },
+  "evolution_mensuelle_ca": {
+    "2026-04": 47286.28,
+    "2026-05": 126378.65
+  }
+}
