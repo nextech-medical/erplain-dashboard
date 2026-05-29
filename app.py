@@ -73,21 +73,32 @@ def calculer_frais_gls_approximatifs(quantite_totale, ca_facture):
 
 
 @st.cache_data(ttl=300)
+@st.cache_data(ttl=300)
 def load_data():
     """Charge les données depuis PostgreSQL"""
-    import os
-    DATABASE_URL = os.getenv('DATABASE_URL')
     
-    if DATABASE_URL:
-        conn = psycopg2.connect(DATABASE_URL, sslmode='require')
-    else:
+    # FORCER la connexion à la base OVH directement
+    DB_HOST = 'postgresql-20fb082e-o33c4d6e5.database.cloud.ovh.net'
+    DB_PORT = '20184'
+    DB_NAME = 'defaultdb'
+    DB_USER = 'avnadmin'
+    DB_PASSWORD = 'RwoL3kUjOpi0Y1x9V4JN'
+    
+    # Forcer SSL
+    try:
         conn = psycopg2.connect(
             host=DB_HOST,
+            port=DB_PORT,
             database=DB_NAME,
             user=DB_USER,
             password=DB_PASSWORD,
+            sslmode='require',
             options="-c client_encoding=UTF8"
         )
+        st.success(f"✅ Connecté à {DB_HOST}:{DB_PORT}")
+    except Exception as e:
+        st.error(f"Erreur de connexion: {e}")
+        raise e
     
     # D'abord, vérifions quelles colonnes existent dans la table products
     try:
@@ -152,16 +163,25 @@ def load_data():
 
 
 @st.cache_data(ttl=300)
+@st.cache_data(ttl=300)
 def load_shipping_costs():
     """Charge les frais de transport réels depuis la base"""
-    import os
-    DATABASE_URL = os.getenv('DATABASE_URL')
-    
     try:
-        if DATABASE_URL:
-            conn = psycopg2.connect(DATABASE_URL, sslmode='require')
-        else:
-            conn = psycopg2.connect(host=DB_HOST, database=DB_NAME, user=DB_USER, password=DB_PASSWORD)
+        # Utiliser les mêmes paramètres que load_data
+        DB_HOST = 'postgresql-20fb082e-o33c4d6e5.database.cloud.ovh.net'
+        DB_PORT = '20184'
+        DB_NAME = 'defaultdb'
+        DB_USER = 'avnadmin'
+        DB_PASSWORD = 'RwoL3kUjOpi0Y1x9V4JN'
+        
+        conn = psycopg2.connect(
+            host=DB_HOST,
+            port=DB_PORT,
+            database=DB_NAME,
+            user=DB_USER,
+            password=DB_PASSWORD,
+            sslmode='require'
+        )
         
         cursor = conn.cursor()
         cursor.execute("""
@@ -188,7 +208,8 @@ def load_shipping_costs():
         else:
             conn.close()
             return pd.DataFrame(columns=['invoice_id', 'carrier', 'shipping_cost', 'tracking_number'])
-    except:
+    except Exception as e:
+        st.warning(f"Erreur chargement shipping_costs: {e}")
         return pd.DataFrame(columns=['invoice_id', 'carrier', 'shipping_cost', 'tracking_number'])
 def get_gestionnaires_list(df):
     """Récupère la liste des gestionnaires uniques"""
