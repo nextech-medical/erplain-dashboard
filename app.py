@@ -74,6 +74,7 @@ def calculer_frais_gls_approximatifs(quantite_totale, ca_facture):
 
 @st.cache_data(ttl=300)
 @st.cache_data(ttl=300)
+@st.cache_data(ttl=300)
 def load_data():
     """Charge les données depuis PostgreSQL"""
     
@@ -113,10 +114,10 @@ def load_data():
     except:
         existing_columns = []
     
-    # Construire la requête dynamiquement
-    purchase_price_col = "NULL as purchase_price"
-    weight_col = "NULL as weight_kg"
-    customs_col = "NULL as customs_rate"
+    # Construire la requête dynamiquement - CORRECTION ICI
+    purchase_price_col = "NULL"
+    weight_col = "NULL"
+    customs_col = "NULL"
     
     if 'purchase_price' in existing_columns:
         purchase_price_col = "p.purchase_price"
