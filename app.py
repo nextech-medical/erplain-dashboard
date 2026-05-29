@@ -46,54 +46,25 @@ def calculer_frais_gls_approximatifs(quantite_totale, ca_facture):
 
 # ========== CHARGEMENT DES DONNÉES ==========
 @st.cache_data(ttl=300)
+@st.cache_data(ttl=300)
 def load_data():
     """Charge les données depuis PostgreSQL"""
     
-    # Connexion directe à la base OVH
     conn = psycopg2.connect(
         host='postgresql-20fb082e-o33c4d6e5.database.cloud.ovh.net',
         port='20184',
         database='defaultdb',
         user='avnadmin',
         password='RwoL3kUjOpi0Y1x9V4JN',
-        sslmode='require',
-        options="-c client_encoding=UTF8"
+        sslmode='require'
     )
     
-    # Vérifier les colonnes existantes
-    try:
-        cursor = conn.cursor()
-        cursor.execute("""
-            SELECT column_name 
-            FROM information_schema.columns 
-            WHERE table_name = 'products'
-        """)
-        existing_columns = [row[0] for row in cursor.fetchall()]
-        cursor.close()
-    except:
-        existing_columns = []
-    
-    # Construction dynamique de la requête
-    if 'purchase_price' in existing_columns or 'cout_achat' in existing_columns:
-        purchase_price_col = "COALESCE(p.purchase_price, p.cout_achat, 0)"
-    else:
-        purchase_price_col = "0"
-    
-    if 'weight_kg' in existing_columns:
-        weight_col = "COALESCE(p.weight_kg, 0)"
-    else:
-        weight_col = "0"
-    
-    if 'customs_rate' in existing_columns:
-        customs_col = "COALESCE(p.customs_rate, 0)"
-    else:
-        customs_col = "0"
-    
-    query = f"""
+    # Requête SQL avec les bons noms de colonnes
+    query = """
     SELECT 
         i.id,
         i.label as invoice_number,
-        i.invoice_created as date,
+        i.created as date,
         i.total,
         i.customer_name,
         COALESCE(i.fournisseur, 'Non spécifié') as fournisseur,
@@ -104,19 +75,18 @@ def load_data():
         il.product_sku,
         il.quantity,
         il.line_total,
-        {purchase_price_col} as purchase_price,
-        {weight_col} as weight_kg,
-        {customs_col} as customs_rate
+        0 as purchase_price,
+        0 as weight_kg,
+        0 as customs_rate
     FROM invoices i
     LEFT JOIN invoice_lines il ON i.id = il.invoice_id
     LEFT JOIN products p ON il.product_sku = p.sku
-    WHERE i.invoice_created IS NOT NULL
+    WHERE i.created IS NOT NULL
     """
     
     df = pd.read_sql_query(query, conn)
     conn.close()
     
-    # Nettoyage
     df['date'] = pd.to_datetime(df['date'], errors='coerce')
     df['total'] = pd.to_numeric(df['total'], errors='coerce').fillna(0)
     df['quantity'] = pd.to_numeric(df['quantity'], errors='coerce').fillna(0)
