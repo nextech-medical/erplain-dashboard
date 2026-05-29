@@ -75,13 +75,20 @@ def calculer_frais_gls_approximatifs(quantite_totale, ca_facture):
 @st.cache_data(ttl=300)
 def load_data():
     """Charge les données depuis PostgreSQL"""
-    conn = psycopg2.connect(
-        host=DB_HOST,
-        database=DB_NAME,
-        user=DB_USER,
-        password=DB_PASSWORD,
-        options="-c client_encoding=UTF8"
-    )
+    import os
+    DATABASE_URL = os.getenv('DATABASE_URL')
+    
+    if DATABASE_URL:
+        conn = psycopg2.connect(DATABASE_URL, sslmode='require')
+    else:
+        # Fallback pour test local
+        conn = psycopg2.connect(
+            host=DB_HOST,
+            database=DB_NAME,
+            user=DB_USER,
+            password=DB_PASSWORD,
+            options="-c client_encoding=UTF8"
+        )
     
     # D'abord, vérifions quelles colonnes existent dans la table products
     try:
@@ -148,10 +155,15 @@ def load_data():
 @st.cache_data(ttl=300)
 def load_shipping_costs():
     """Charge les frais de transport réels depuis la base"""
+    import os
+    DATABASE_URL = os.getenv('DATABASE_URL')
+    
     try:
-        conn = psycopg2.connect(host=DB_HOST, database=DB_NAME, user=DB_USER, password=DB_PASSWORD)
+        if DATABASE_URL:
+            conn = psycopg2.connect(DATABASE_URL, sslmode='require')
+        else:
+            conn = psycopg2.connect(host=DB_HOST, database=DB_NAME, user=DB_USER, password=DB_PASSWORD)
         
-        # Vérifier si la table shipping_costs existe
         cursor = conn.cursor()
         cursor.execute("""
             SELECT EXISTS (
