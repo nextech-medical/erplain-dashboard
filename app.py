@@ -81,7 +81,6 @@ def load_data():
     if DATABASE_URL:
         conn = psycopg2.connect(DATABASE_URL, sslmode='require')
     else:
-        # Fallback pour test local
         conn = psycopg2.connect(
             host=DB_HOST,
             database=DB_NAME,
@@ -191,8 +190,6 @@ def load_shipping_costs():
             return pd.DataFrame(columns=['invoice_id', 'carrier', 'shipping_cost', 'tracking_number'])
     except:
         return pd.DataFrame(columns=['invoice_id', 'carrier', 'shipping_cost', 'tracking_number'])
-
-
 def get_gestionnaires_list(df):
     """Récupère la liste des gestionnaires uniques"""
     if df is not None and not df.empty and 'gestionnaire' in df.columns:
