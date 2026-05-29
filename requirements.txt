@@ -7,8 +7,5 @@ python-dotenv>=1.0.0
 gql>=3.4.0
 httpx>=0.23.0
 psycopg2-binary
-<<<<<<< HEAD
 numpy
-=======
 openpyxl
->>>>>>> aafd207c28f8b8517a14be3629a99f100ebf7151
