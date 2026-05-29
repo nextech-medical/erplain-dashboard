@@ -80,12 +80,13 @@ def load_data():
     df['quantity'] = pd.to_numeric(df['quantity'], errors='coerce').fillna(0)
     df['line_total'] = pd.to_numeric(df['line_total'], errors='coerce').fillna(0)
     df['purchase_price'] = pd.to_numeric(df['purchase_price'], errors='coerce').fillna(0)
+    df['weight_kg'] = pd.to_numeric(df['weight_kg'], errors='coerce').fillna(0)
+    df['customs_rate'] = pd.to_numeric(df['customs_rate'], errors='coerce').fillna(0)
     
     return df
 
 @st.cache_data(ttl=300)
 def load_shipping_costs():
-    """Charge les frais de transport réels depuis la base"""
     return pd.DataFrame(columns=['invoice_id', 'carrier', 'shipping_cost', 'tracking_number'])
 
 def get_gestionnaires_list(df):
@@ -177,6 +178,8 @@ if df.empty:
     st.error("❌ Aucune donnée trouvée dans la base")
     st.stop()
 
+st.success(f"✅ {len(df)} lignes chargées")
+
 # ========== SIDEBAR - FILTRES ==========
 st.sidebar.title("🔍 Filtres")
 
@@ -200,6 +203,19 @@ if fournisseurs_list:
     fournisseurs_sel = st.sidebar.multiselect("Sélectionner", fournisseurs_list, default=[])
 else:
     fournisseurs_sel = []
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("### ⚙️ Paramètres de calcul")
+cogs_ratio_default = st.sidebar.slider("COGS par défaut (% du CA)", 0, 100, 50, 5) / 100
+st.sidebar.caption("💡 Utilisé uniquement pour les produits sans prix d'achat")
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("### 📦 Frais GLS approximatifs")
+st.sidebar.metric("💰 Prix moyen par colis", f"{GLS_PRIX_MOYEN_PAR_COLIS:.2f} €")
+st.sidebar.metric("🚚 Petit colis", f"{GLS_TARIF_PETIT_COLIS:.2f} €")
+st.sidebar.metric("📦 Grand colis", f"{GLS_TARIF_GRAND_COLIS:.2f} €")
+st.sidebar.caption("💡 Valeurs basées sur les factures GLS réelles")
+
 # ========== APPLICATION DES FILTRES ==========
 df_filtre = df[(df['date'].dt.date >= start_date) & (df['date'].dt.date <= end_date)]
 
