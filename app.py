@@ -48,29 +48,28 @@ def load_data():
     except Exception as e:
         st.error(f"❌ Erreur de connexion: {e}")
         return pd.DataFrame()
-    
-    query = """
-    SELECT 
-        i.id,
-        i.label as invoice_number,
-        i.invoice_created as date,
-        i.total,
-        i.customer_name,
-        i.fournisseur,
-        i.gestionnaire,
-        i.order_number,
-        o.reference_externe,
-        il.product_sku,
-        il.quantity,
-        il.total as line_total,
-        0 as purchase_price,
-        0 as weight_kg,
-        0 as customs_rate
-    FROM invoices i
-    LEFT JOIN invoice_lines il ON i.id::integer = il.invoice_id
-    LEFT JOIN orders o ON i.order_number = o.order_number
-    WHERE i.invoice_created IS NOT NULL
-    """
+        query = """
+            SELECT 
+                i.id,
+                i.label as invoice_number,
+                i.invoice_created as date,
+                i.total,
+                i.customer_name,
+                i.fournisseur,
+                i.gestionnaire,
+                i.order_number,
+                o.reference_externe,
+                il.product_sku,
+                il.quantity,
+                il.total as line_total,
+                0 as purchase_price,
+                0 as weight_kg,
+                0 as customs_rate
+            FROM invoices i
+            LEFT JOIN invoice_lines il ON i.id::integer = il.invoice_id
+            LEFT JOIN orders o ON i.order_number = o.label
+            WHERE i.invoice_created IS NOT NULL
+            """
     
     df = pd.read_sql_query(query, conn)
     conn.close()
