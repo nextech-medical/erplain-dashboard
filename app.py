@@ -48,28 +48,26 @@ def load_data():
     except Exception as e:
         st.error(f"❌ Erreur de connexion: {e}")
         return pd.DataFrame()
-        query = """
-            SELECT 
-                i.id,
-                i.label as invoice_number,
-                i.invoice_created as date,
-                i.total,
-                i.customer_name,
-                i.fournisseur,
-                i.gestionnaire,
-                i.order_number,
-                o.reference_externe,
-                il.product_sku,
-                il.quantity,
-                il.total as line_total,
-                0 as purchase_price,
-                0 as weight_kg,
-                0 as customs_rate
-            FROM invoices i
-            LEFT JOIN invoice_lines il ON i.id::integer = il.invoice_id
-            LEFT JOIN orders o ON i.order_number = o.label
-            WHERE i.invoice_created IS NOT NULL
-            """
+    
+    query = """
+    SELECT 
+        i.id,
+        i.label as invoice_number,
+        i.invoice_created as date,
+        i.total,
+        i.customer_name,
+        i.fournisseur,
+        i.gestionnaire,
+        il.product_sku,
+        il.quantity,
+        il.total as line_total,
+        0 as purchase_price,
+        0 as weight_kg,
+        0 as customs_rate
+    FROM invoices i
+    LEFT JOIN invoice_lines il ON i.id::integer = il.invoice_id
+    WHERE i.invoice_created IS NOT NULL
+    """
     
     df = pd.read_sql_query(query, conn)
     conn.close()
@@ -88,8 +86,6 @@ def load_data():
     # Remplacer les valeurs NULL
     df['gestionnaire'] = df['gestionnaire'].fillna('Non spécifié')
     df['fournisseur'] = df['fournisseur'].fillna('Non spécifié')
-    df['order_number'] = df['order_number'].fillna('')
-    df['reference_externe'] = df['reference_externe'].fillna('')
     
     return df
 
@@ -238,8 +234,6 @@ invoices_unique = df_filtre.groupby('id').agg({
     'customer_name': 'first',
     'gestionnaire': 'first',
     'fournisseur': 'first',
-    'order_number': 'first',
-    'reference_externe': 'first',
     'line_total': 'sum',
     'frais_gls_facture': 'first',
     'cogs_ligne': 'sum',
@@ -407,8 +401,8 @@ with tab4:
 # ========== TAB 5: DÉTAIL FACTURES ==========
 with tab5:
     st.subheader("📋 Détail des factures")
-    disp = invoices_unique[['invoice_number', 'order_number', 'reference_externe', 'customer_name', 'date', 'ca_produits', 'cogs_total', 'frais_gls', 'marge_nette', 'taux_marge']].copy()
-    disp.columns = ['Facture', 'N° Commande', 'Réf externe', 'Client', 'Date', 'CA (€)', 'COGS (€)', 'GLS (€)', 'Marge (€)', 'Taux (%)']
+    disp = invoices_unique[['invoice_number', 'customer_name', 'date', 'ca_produits', 'cogs_total', 'frais_gls', 'marge_nette', 'taux_marge']].copy()
+    disp.columns = ['Facture', 'Client', 'Date', 'CA (€)', 'COGS (€)', 'GLS (€)', 'Marge (€)', 'Taux (%)']
     st.dataframe(disp, use_container_width=True)
     
     csv_export = invoices_unique.to_csv(index=False).encode('utf-8-sig')
