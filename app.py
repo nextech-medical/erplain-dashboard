@@ -59,7 +59,7 @@ def load_data():
         i.fournisseur,
         i.gestionnaire,
         i.order_number,
-        i.reference_externe,
+        o.reference_externe,
         il.product_sku,
         il.quantity,
         il.total as line_total,
@@ -68,6 +68,7 @@ def load_data():
         0 as customs_rate
     FROM invoices i
     LEFT JOIN invoice_lines il ON i.id::integer = il.invoice_id
+    LEFT JOIN orders o ON i.order_number = o.order_number
     WHERE i.invoice_created IS NOT NULL
     """
     
