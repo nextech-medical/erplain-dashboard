@@ -204,17 +204,8 @@ if fournisseurs_list:
 else:
     fournisseurs_sel = []
 
-st.sidebar.markdown("---")
-st.sidebar.markdown("### ⚙️ Paramètres de calcul")
-cogs_ratio_default = st.sidebar.slider("COGS par défaut (% du CA)", 0, 100, 50, 5) / 100
-st.sidebar.caption("💡 Utilisé uniquement pour les produits sans prix d'achat")
-
-st.sidebar.markdown("---")
-st.sidebar.markdown("### 📦 Frais GLS approximatifs")
-st.sidebar.metric("💰 Prix moyen par colis", f"{GLS_PRIX_MOYEN_PAR_COLIS:.2f} €")
-st.sidebar.metric("🚚 Petit colis", f"{GLS_TARIF_PETIT_COLIS:.2f} €")
-st.sidebar.metric("📦 Grand colis", f"{GLS_TARIF_GRAND_COLIS:.2f} €")
-st.sidebar.caption("💡 Valeurs basées sur les factures GLS réelles")
+# ========== COGS par défaut (valeur fixe) ==========
+cogs_ratio_default = 0.5
 
 # ========== APPLICATION DES FILTRES ==========
 df_filtre = df[(df['date'].dt.date >= start_date) & (df['date'].dt.date <= end_date)]
