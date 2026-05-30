@@ -53,21 +53,20 @@ def load_data():
     SELECT 
         i.id,
         i.label as invoice_number,
-        i.created as date,
+        i.invoice_created as date,
         i.total,
         i.customer_name,
-        'Non spécifié' as fournisseur,
-        o.account_manager_name as gestionnaire,
+        i.fournisseur,
+        i.gestionnaire,
         il.product_sku,
         il.quantity,
-        il.total as line_total,
+        il.line_total,
         0 as purchase_price,
         0 as weight_kg,
         0 as customs_rate
     FROM invoices i
     LEFT JOIN invoice_lines il ON i.id = il.invoice_id
-    LEFT JOIN orders o ON i.label = o.label
-    WHERE i.created IS NOT NULL
+    WHERE i.invoice_created IS NOT NULL
     """
     
     df = pd.read_sql_query(query, conn)
@@ -84,8 +83,9 @@ def load_data():
     df['weight_kg'] = pd.to_numeric(df['weight_kg'], errors='coerce').fillna(0)
     df['customs_rate'] = pd.to_numeric(df['customs_rate'], errors='coerce').fillna(0)
     
-    # Remplacer les valeurs NULL par None (seront filtrées)
-    df['gestionnaire'] = df['gestionnaire'].where(df['gestionnaire'].notna(), None)
+    # Remplacer les valeurs NULL
+    df['gestionnaire'] = df['gestionnaire'].fillna('Non spécifié')
+    df['fournisseur'] = df['fournisseur'].fillna('Non spécifié')
     
     return df
 
@@ -93,57 +93,19 @@ def load_data():
 def load_shipping_costs():
     return pd.DataFrame(columns=['invoice_id', 'carrier', 'shipping_cost', 'tracking_number'])
 
-def get_gestionnaires_list():
-    """Récupère la liste des gestionnaires depuis la table orders (sans NULL)"""
-    try:
-        conn = psycopg2.connect(
-            host='postgresql-20fb082e-o33c4d6e5.database.cloud.ovh.net',
-            port='20184',
-            database='defaultdb',
-            user='avnadmin',
-            password='RwoL3kUjOpi0Y1x9V4JN',
-            sslmode='require'
-        )
-        cursor = conn.cursor()
-        cursor.execute("""
-            SELECT DISTINCT account_manager_name 
-            FROM orders 
-            WHERE account_manager_name IS NOT NULL 
-            AND account_manager_name != ''
-            ORDER BY account_manager_name
-        """)
-        gestionnaires = [row[0] for row in cursor.fetchall()]
-        cursor.close()
-        conn.close()
-        return gestionnaires
-    except Exception as e:
-        return []
+def get_gestionnaires_list(df):
+    if df is not None and not df.empty and 'gestionnaire' in df.columns:
+        gestionnaires = df['gestionnaire'].unique().tolist()
+        gestionnaires = [g for g in gestionnaires if g not in ['Non spécifié', '', 'None', None]]
+        return sorted(gestionnaires)
+    return []
 
-def get_fournisseurs_list():
-    """Récupère la liste des fournisseurs depuis la table suppliers"""
-    try:
-        conn = psycopg2.connect(
-            host='postgresql-20fb082e-o33c4d6e5.database.cloud.ovh.net',
-            port='20184',
-            database='defaultdb',
-            user='avnadmin',
-            password='RwoL3kUjOpi0Y1x9V4JN',
-            sslmode='require'
-        )
-        cursor = conn.cursor()
-        cursor.execute("""
-            SELECT DISTINCT name 
-            FROM suppliers 
-            WHERE name IS NOT NULL 
-            AND name != ''
-            ORDER BY name
-        """)
-        fournisseurs = [row[0] for row in cursor.fetchall()]
-        cursor.close()
-        conn.close()
-        return fournisseurs
-    except Exception as e:
-        return []
+def get_fournisseurs_list(df):
+    if df is not None and not df.empty and 'fournisseur' in df.columns:
+        fournisseurs = df['fournisseur'].unique().tolist()
+        fournisseurs = [f for f in fournisseurs if f not in ['Non spécifié', '', 'None', None]]
+        return sorted(fournisseurs)
+    return []
 
 def calculer_cogs(df, cogs_ratio):
     produits_avec_prix = df[df['purchase_price'] > 0]
@@ -232,7 +194,7 @@ start_date, end_date = st.sidebar.date_input("Date de facture", (date_min, date_
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 👤 Gestionnaire")
-gestionnaires_list = get_gestionnaires_list()
+gestionnaires_list = get_gestionnaires_list(df)
 if gestionnaires_list:
     selected_gestionnaire = st.sidebar.selectbox("Sélectionner", ["Tous"] + gestionnaires_list, index=0)
 else:
@@ -240,7 +202,7 @@ else:
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 🏭 Fournisseur")
-fournisseurs_list = get_fournisseurs_list()
+fournisseurs_list = get_fournisseurs_list(df)
 if fournisseurs_list:
     fournisseurs_sel = st.sidebar.multiselect("Sélectionner", fournisseurs_list, default=[])
 else:
@@ -405,7 +367,7 @@ with tab2:
     produits_kpis = calculer_kpis_produits(df_filtre)
     
     if not produits_kpis.empty:
-        nb_prod = st.slider("Nombre de produits à afficher", 5, min(50, len(produits_kpis)), 15)
+        nb_prod = st.slider("Nombre de produits à afficher", 5, min(50, len(produits_kpis)), 15, key="top_prod")
         top_produits = produits_kpis.head(nb_prod)
         
         fig_prod = go.Figure()
@@ -416,6 +378,8 @@ with tab2:
         st.plotly_chart(fig_prod, use_container_width=True)
         
         st.dataframe(top_produits[['product_sku', 'line_total', 'quantity', 'taux_marge', 'part_ca']].head(20), use_container_width=True)
+    else:
+        st.info("Aucun produit trouvé")
 
 # ========== TAB 3: TOP CLIENTS ==========
 with tab3:
@@ -428,6 +392,8 @@ with tab3:
         fig_clients = px.bar(clients, x='CA', y='Client', orientation='h', title="Top 10 clients")
         st.plotly_chart(fig_clients, use_container_width=True)
         st.dataframe(clients, use_container_width=True)
+    else:
+        st.info("Aucun client trouvé")
 
 # ========== TAB 4: FOURNISSEURS ==========
 with tab4:
