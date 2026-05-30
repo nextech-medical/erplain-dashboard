@@ -49,7 +49,7 @@ def load_data():
         st.error(f"❌ Erreur de connexion: {e}")
         return pd.DataFrame()
     
-   query = """
+    query = """
     SELECT 
         i.id,
         i.label as invoice_number,
@@ -94,14 +94,14 @@ def load_shipping_costs():
 def get_gestionnaires_list(df):
     if df is not None and not df.empty and 'gestionnaire' in df.columns:
         gestionnaires = df['gestionnaire'].unique().tolist()
-        gestionnaires = [g for g in gestionnaires if g not in ['Direct', 'Non spécifié', '', 'None']]
+        gestionnaires = [g for g in gestionnaires if g not in ['Direct', 'Non spécifié', '', 'None', None]]
         return sorted(gestionnaires)
     return []
 
 def get_fournisseurs_list(df):
     if df is not None and not df.empty and 'fournisseur' in df.columns:
         fournisseurs = df['fournisseur'].unique().tolist()
-        fournisseurs = [f for f in fournisseurs if f not in ['Non spécifié', '', 'None']]
+        fournisseurs = [f for f in fournisseurs if f not in ['Non spécifié', '', 'None', None]]
         return sorted(fournisseurs)
     return []
 
@@ -383,16 +383,24 @@ with tab3:
 # ========== TAB 4: FOURNISSEURS ==========
 with tab4:
     st.subheader("🏭 Analyse par fournisseur")
-    fourn_analysis = invoices_unique.groupby('fournisseur').agg({'ca_produits': 'sum', 'marge_nette': 'sum'}).reset_index()
-    fourn_analysis.columns = ['Fournisseur', 'CA', 'Marge']
-    fourn_analysis = fourn_analysis.sort_values('CA', ascending=False).head(10)
     
-    if not fourn_analysis.empty:
-        fig_fourn = px.bar(fourn_analysis, x='CA', y='Fournisseur', orientation='h', title="CA par fournisseur")
-        st.plotly_chart(fig_fourn, use_container_width=True)
-        st.dataframe(fourn_analysis, use_container_width=True)
+    if 'fournisseur' in invoices_unique.columns:
+        fourn_analysis = invoices_unique.groupby('fournisseur').agg({
+            'ca_produits': 'sum',
+            'marge_nette': 'sum',
+            'frais_gls': 'sum'
+        }).reset_index()
+        fourn_analysis.columns = ['Fournisseur', 'CA', 'Marge', 'Frais GLS']
+        fourn_analysis = fourn_analysis.sort_values('CA', ascending=False)
+        
+        if not fourn_analysis.empty and len(fourn_analysis) > 1:
+            fig_fourn = px.bar(fourn_analysis.head(10), x='CA', y='Fournisseur', orientation='h', title="Top 10 fournisseurs par CA")
+            st.plotly_chart(fig_fourn, use_container_width=True)
+            st.dataframe(fourn_analysis, use_container_width=True)
+        else:
+            st.info("Données fournisseur non disponibles.")
     else:
-        st.info("Aucune donnée fournisseur disponible")
+        st.info("La colonne 'fournisseur' n'existe pas dans les données.")
 
 # ========== TAB 5: DÉTAIL FACTURES ==========
 with tab5:
