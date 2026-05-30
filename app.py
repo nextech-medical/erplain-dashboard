@@ -58,6 +58,8 @@ def load_data():
         i.customer_name,
         i.fournisseur,
         i.gestionnaire,
+        i.order_number,
+        i.reference_externe,
         il.product_sku,
         il.quantity,
         il.total as line_total,
@@ -86,6 +88,8 @@ def load_data():
     # Remplacer les valeurs NULL
     df['gestionnaire'] = df['gestionnaire'].fillna('Non spécifié')
     df['fournisseur'] = df['fournisseur'].fillna('Non spécifié')
+    df['order_number'] = df['order_number'].fillna('')
+    df['reference_externe'] = df['reference_externe'].fillna('')
     
     return df
 
@@ -234,6 +238,8 @@ invoices_unique = df_filtre.groupby('id').agg({
     'customer_name': 'first',
     'gestionnaire': 'first',
     'fournisseur': 'first',
+    'order_number': 'first',
+    'reference_externe': 'first',
     'line_total': 'sum',
     'frais_gls_facture': 'first',
     'cogs_ligne': 'sum',
@@ -401,8 +407,8 @@ with tab4:
 # ========== TAB 5: DÉTAIL FACTURES ==========
 with tab5:
     st.subheader("📋 Détail des factures")
-    disp = invoices_unique[['invoice_number', 'customer_name', 'date', 'ca_produits', 'cogs_total', 'frais_gls', 'marge_nette', 'taux_marge']].copy()
-    disp.columns = ['Facture', 'Client', 'Date', 'CA (€)', 'COGS (€)', 'GLS (€)', 'Marge (€)', 'Taux (%)']
+    disp = invoices_unique[['invoice_number', 'order_number', 'reference_externe', 'customer_name', 'date', 'ca_produits', 'cogs_total', 'frais_gls', 'marge_nette', 'taux_marge']].copy()
+    disp.columns = ['Facture', 'N° Commande', 'Réf externe', 'Client', 'Date', 'CA (€)', 'COGS (€)', 'GLS (€)', 'Marge (€)', 'Taux (%)']
     st.dataframe(disp, use_container_width=True)
     
     csv_export = invoices_unique.to_csv(index=False).encode('utf-8-sig')
