@@ -65,7 +65,7 @@ def load_data():
         0 as weight_kg,
         0 as customs_rate
     FROM invoices i
-    LEFT JOIN invoice_lines il ON i.id = il.invoice_id
+    LEFT JOIN invoice_lines il ON i.id::integer = il.invoice_id
     WHERE i.invoice_created IS NOT NULL
     """
     
