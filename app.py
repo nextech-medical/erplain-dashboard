@@ -57,7 +57,7 @@ def load_data():
         i.total,
         i.customer_name,
         'Non spécifié' as fournisseur,
-        COALESCE(o.account_manager_name, 'Direct') as gestionnaire,
+        'Direct' as gestionnaire,
         il.product_sku,
         il.quantity,
         il.total as line_total,
@@ -66,7 +66,6 @@ def load_data():
         0 as customs_rate
     FROM invoices i
     LEFT JOIN invoice_lines il ON i.id = il.invoice_id
-    LEFT JOIN orders o ON i.order_number = o.order_number
     WHERE i.created IS NOT NULL
     """
     
