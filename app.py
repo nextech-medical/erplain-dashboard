@@ -60,7 +60,7 @@ def load_data():
         i.gestionnaire,
         il.product_sku,
         il.quantity,
-        il.line_total,
+        il.total as line_total,
         0 as purchase_price,
         0 as weight_kg,
         0 as customs_rate
